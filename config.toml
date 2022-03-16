@@ -1,6 +1,6 @@
 
 # Set to the URL for your site
-baseURL = "https://sadspiders.ca"
+baseURL = "https://sadspiders.netlify.app"
 
 # The name of this wonderful theme ;-).
 theme = 'hugo-bearblog'
