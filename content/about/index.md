@@ -16,4 +16,4 @@ I guess actually they could do that pretty easily, nevermind.
 
 We're **boned**.
 
-> ![rss feed icon](/about/icon-rss.svg) [RSS feed](/index.xml)
+![rss feed icon](/about/icon-rss.svg) Get updates via my [RSS feed](/index.xml)!
