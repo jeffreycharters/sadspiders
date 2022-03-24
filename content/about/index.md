@@ -16,4 +16,4 @@ I guess actually they could do that pretty easily, nevermind.
 
 We're **boned**.
 
-![rss feed icon](/about/icon-rss.svg) Get updates via my [RSS feed](/index.xml)!
+Get updates via my [RSS feed](/index.xml) or learn [wtf is rss](/use-a-feed-reader-for-better-internetting)!
