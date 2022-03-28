@@ -12,7 +12,7 @@ tags = ["meta","zestiness"]
 
 ### That orange wifi-y icon
 
-Have you noticed RSS feeds out in the wilds of the internet? You know, this thing: ![rss icon](rss.png). You've probably seen it everywhere. If you didn't before, there's a good chance you will now.
+Have you noticed RSS feeds out in the wilds of the internet? You know, this thing: ![rss icon](super-rss.png). You've probably seen it everywhere. If you didn't before, there's a good chance you will now.
 
 It turns out that this isn't just something for nerds to click on. You'd be forgiven for thinking that, because if you ever click on the link to view the [actual RSS feed](/index.xml), you will indeed be confronted with a wall of technical mumbo-jumbo. But the thing is, that link isn't actually meant for people to look at. It's the site's recent history (like latest articles or whatever) in *machine-readable form*.
 
