@@ -9,9 +9,9 @@ title = "Blurt Have I Become?"
 
 Everything truly great starts as a joke. Religion, capitalism, the movie Idiocracy. But then it rallies some support and just look where that's gotten us.
 
-My current highest-grossing side-project is called [Blurt](https://letsblurt.duckdns.org) (tied with all the others at $0). During a video by a youtube guy [Tom Scott](https://www.youtube.com/watch?v=NYj3DnI81AQ), was going through some of his own historic predictions of what now would look like. He thought that blogging was going to remain big, which didn't happen and was somewhat usurped by social media and _tweets_.
+My current highest-grossing side-project is called [Blurt](https://letsblurt.duckdns.org) (tied with all the others at $0). During a video by a youtube guy [Tom Scott](https://www.youtube.com/watch?v=NYj3DnI81AQ), was going through some of his own historic predictions of what now would look like. He thought that blogging was going to remain big, which didn't happen and was somewhat usurped by social media and *tweets*.
 
-Being a little bit _on the spectrum_ (probably), my brain continued the obvious trend: the future of tweets is bleak, and people will desire to communicate with even harsher character limits.
+Being a little bit *on the spectrum* (probably), my brain continued the obvious trend: the future of tweets is bleak, and people will desire to communicate with even harsher character limits.
 
 ### Enter Blurt
 
@@ -45,7 +45,7 @@ The front end stuff will be written in [Svelte](https://svelte.dev/) which is si
 
 Feel free to skip this part, but I am more excited about this than the front-end stuff. I'm trying to write for a general-audience instead of just dweeby code-nerds, so hopefully it makes some sense and may even offer you a window into wtf happens behind the curtain on websites.
 
-Right now when Blurt loads the page containing blurts, it loads 250 of them. Then two seconds later, it checks again and downloads them again if they haven't changed. If there has been a change, such as a new Blurt, it.. ..just downloads them again. Every two seconds. Forever. The browser makes a _request_ to my server, and the server sends the _response_ to the request. It's a process called polling and it works fine for this purpose but it isn't very elegant and I don't love it.
+Right now when Blurt loads the page containing blurts, it loads 250 of them. Then two seconds later, it checks again and downloads them again if they haven't changed. If there has been a change, such as a new Blurt, it.. ..just downloads them again. Every two seconds. Forever. The browser makes a *request* to my server, and the server sends the *response* to the request. It's a process called polling and it works fine for this purpose but it isn't very elegant and I don't love it.
 
 I want to make use of a technology called websockets. Intead of the request/response cycle, the browser and server make a connection and the connection is maintained between them. That way, instead of the constant request-response cycle, the server can just send a new blurt whenever someone else posts one! This wasn't possible the way SvelteKit works, so I need to create a new server that will happily do websockets stuff.
 
