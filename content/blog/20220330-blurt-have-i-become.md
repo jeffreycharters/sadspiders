@@ -1,7 +1,6 @@
 +++
 date = 2022-03-31T23:13:00Z
 description = "What the shit even is TypeScript? What the shit is even real, you know?"
-draft = true
 tags = ["coding", "zestiness"]
 title = "Blurt Have I Become?"
 
