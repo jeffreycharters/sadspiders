@@ -95,7 +95,7 @@ Luckily I headed out just before 8am with the plan to start riding along a rail 
 
 ![A Kanses-esque farmscape](dark-and-stormy.jpg)
 
-The first hint of the suck-assness to come came around 32km in at the 1h45min mark where the trail takes a band to the west-southwest. Which was basically straight into the wind, which is recorded as being about 30km/h sustained at a nearby whether station around that time. That stretch only lasted about half an hour and 8km and it was still early on in the ride, so we sucked it up and kept pedalling.
+The first hint of the suck-assness to come came around 32km in at the 1h45min mark where the trail takes a band to the west-southwest. Which was basically straight into the wind, which is recorded as being about 30km/h sustained at a nearby weather station around that time. That stretch only lasted about half an hour and 8km and it was still early on in the ride, so we sucked it up and kept pedalling.
 
 ### I can program my watch, how's that for nerd-cred
 
@@ -149,7 +149,7 @@ Getting onto the rail trail was a little bit of a morale hit.
 
 On the big version of the photo, you can see the odometer at 104km, and also a pile of snow still sitting at the side of a very gravelly trail. These trails are heavily travelled by ATVs and side-by-sides, all of whom think it is "rad" to chew up the trail until it is a washboardy mess. Flashbacks to the gravel road with the perfect crosswind and the relentless threat of being laying down a moment from now. By my clock I began this section at about 13:30, or 1:30pm for those of us who hate things being unambiguous. The historical record for a nearby weather station puts this entire last section at sustained winds of around 40km/h, and I know from looking at the conditions from the day-of that there were recorded gusts over 70km/h. From exactly at my left side. But well, I've made it this far dammit. You just have to stuff down all the doubts and the fatigue and just keep pedalling.
 
-Luckily the washboard-gravel section only last for a few kilometers before giving way to a nicely maintained trail for the remainder of the trip. This made the relentless and gusting wind a bit more bearable, but this was definitely the part of the trip that was nothing but an unenjoyable slog. "I just want to get there, and lay down face down in the grass until I feel less like shit". Still not bonking, which is great, but the extra effort to counteract the wind and the fact that I was using an unexpectedly large amount of upper-body movements to stay upright has taken it's toll.
+Luckily the washboard-gravel section only last for a few kilometers before giving way to a nicely maintained trail for the remainder of the trip. This made the relentless and gusting wind a bit more bearable, but this was definitely the part of the trip that was nothing but an unenjoyable slog. "I just want to get there, and lay down face down in the grass until I feel less like shit". Still not bonking, which is great, but the extra effort to counteract the wind and the fact that I was using an unexpectedly large amount of upper-body movements to stay upright has taken its toll.
 
 ### A solid slap in the face
 
