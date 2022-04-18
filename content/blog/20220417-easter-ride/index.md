@@ -20,7 +20,7 @@ During that timespan, everyone's horizons seem to have shrunk considerably. Gath
 
 Just before the start of the pandemic, I picked up a 2019 Devinci Hatchet (57cm frame for a ~6'1" rider, if you care) that had been used as a shop demo, so was able to get quite a deal on it. The bike was quickly named Grimey after a character from [the best Simpsons episode ever](https://frinkiac.com/episode/S08E23/11661).
 
-![Grimey in profile](grimey-profile.jpg)
+![Grimey in profile](./grimey-profile.jpg)
 
 This bike really opened up *shoulder-season* training for me. Mountain biking is a wonderful pursuit, but the trails aren't open until mid-April and then are crummy again for a good portion of October and November (Canadian monsoon season).
 
@@ -43,7 +43,7 @@ Not much endurance training was actually undertaken during the winter. Like pret
 
 Things were able to ramp up a bit in March when the trails were starting to thaw out and were mostly muddy rather than icey. I was able to fire off a nice self-portrait on the first bigger ride of the year with a thick fog covering.. ..well, everything.
 
-![A lone bike rider in the fog with power lines fading into the fog](foggy-ride.jpg)
+![A lone bike rider in the fog with power lines fading into the fog](./foggy-ride.jpg)
 
 From there the rides generally got longer and longer, with the exception of hills days. There was only one hills days, but they are really good for increasing cardio capacity (or so I tell myself). I live on the edge of a ridge with some fairly steep sides. It seems like a [drumlin](https://nsidc.org/cryosphere/glaciers/gallery/drumlins.html) but I've never actually looked into that. But there are some decently steep roads in the neighbourhood, so I set out with the sole intention of doing ten hill climbs. Think of high-intensity intervals except where the intervals are defined by going uphill as hard as you can. It only took 40 minutes, but was probably more out of gas than following 2 x 2hr training rides.
 
@@ -87,13 +87,13 @@ At this point, doubt had creeped in fairly strongly, as you may infer from my [p
 
 ### Pistols at dawn
 
-![A protrait of the author minutes before heading out seeking adventure](before-easter-ride.jpg)
+![A protrait of the author minutes before heading out seeking adventure](./before-easter-ride.jpg)
 
 The day-of dawned cloudy and chilly, with patches of frost dotting the grass. The weather forecast looked pretty bad. Chance of rain in the afternoon and wind kicking up from the southwest, starting at 20 km/h gusting to 40 km/h and picking up steam to 30 km/h gusting to 70 km/h in the afternoon. To put these things in perspective, I like to imagine driving a car at gust speed and putting your hand out the window, palm facing the front to catch the most amount of wind. Shit. 70 km/h is a lot. And I mean, you know what's coming from the damn title.
 
 Luckily I headed out just before 8am with the plan to start riding along a rail trail heading west-northwest, so should only be catching a slight headwind. A few snowflakes drifted lazily through the air on my way out of town.
 
-![A Kanses-esque farmscape](dark-and-stormy.jpg)
+![A Kanses-esque farmscape](./dark-and-stormy.jpg)
 
 The first hint of the suck-assness to come came around 32km in at the 1h45min mark where the trail takes a band to the west-southwest. Which was basically straight into the wind, which is recorded as being about 30km/h sustained at a nearby weather station around that time. That stretch only lasted about half an hour and 8km and it was still early on in the ride, so we sucked it up and kept pedalling.
 
@@ -101,7 +101,7 @@ The first hint of the suck-assness to come came around 32km in at the 1h45min ma
 
 With another chunk of wellness-money, I picked up a [Bangle2js](https://www.espruino.com/Bangle.js2) hackable smartwatch. I haven't put a ton of time into monkeying with it yet, but since I am a doubtful person, I figured that we should add some positive-affirmations to the watch face. I came up with a short list of off-the-cuff statements, fired together about twenty lines of javascript and voila: inspiration. Fun detail: check out the step counter, this photo is from post-ride.
 
-![Hacked watch face](watch-face.jpg)
+![Hacked watch face](./watch-face.jpg)
 
 "Good Stuff" is probably the lamest of them unfortunately, and I think I got some pep from "you can do this!", "have fun?!" and "Keep pedalling". I forgot to add the cyclist classic "Shut up legs" but, well, I made it anyway.
 
@@ -117,7 +117,7 @@ But you can't. Because you can do this, at this point you *have* to do this. For
 
 So this went on for about 25km, interspersed at the end of every segment with a few minutes of heading northeast for a few hundred meters until the next side road. And those few minutes are **glorious** and keep morale from flat-lining. With this strong, gusty wind firmly at my back, I watch my heart rate fall into the "reasonable" zone while maintaining 35 km/h with minimal effort and absolutely no headwind. It's an amazing feeling, but so fleeting. Also at one point I passed a mennonite church in-session and waved at all the horses in their little coats.
 
-![Mennonites cars parked out front, all mustangs](horses.jpg)
+![Mennonites cars parked out front, all mustangs](./horses.jpg)
 
 This segment ends in a small town, where a pit stop at the local donuttery provides a sugar boost and a top-up for the water bottles. This also marked roughly the halfway point of the trip, and it's now as easy to continue as to head back. I also knew that there was a fairly lengthy section coming up soon heading mostly north which should provide a nice tailwind.
 
@@ -131,7 +131,7 @@ Which is short-lived, of course. After twenty minutes, there are rocks blocking 
 
 This dirt lane is clearly someone's muddin' lane. Pondlike-puddles dot the route and even with a tailwind the going is slow and off-roading is required to keep from getting my nice booties coated in mud. Further along, a forest, complete with a number of blown-down trees. Surprisingly, they fell when the wind was coming from the opposite direction and thus were not casualties of today. However, it is a reminder of the vague danger of falling trees along forested trails on windy days. I'm wearing a helmet, I'll be fine.
 
-![Several trees fallen across a section of dirt road](trees-down.jpg)
+![Several trees fallen across a section of dirt road](./trees-down.jpg)
 
 So after climbing over the trees and making my way a bit further along the dirt path, I make a nice discovery: I've been here before! I've made shorter rides along these routes in the past, and this is where I made my northward turn. I can do it, I've ridden from here before!
 
@@ -144,7 +144,7 @@ The last leg of the trip is a northwesterly jaunt along an old rail trail. Over 
 
 Getting onto the rail trail was a little bit of a morale hit.
 
-![Some snow to the side of a poorly-maintained rail trail](railtrail-start.jpg)
+![Some snow to the side of a poorly-maintained rail trail](./railtrail-start.jpg)
 [Image caption: "Fuck."]
 
 On the big version of the photo, you can see the odometer at 104km, and also a pile of snow still sitting at the side of a very gravelly trail. These trails are heavily travelled by ATVs and side-by-sides, all of whom think it is "rad" to chew up the trail until it is a washboardy mess. Flashbacks to the gravel road with the perfect crosswind and the relentless threat of being laying down a moment from now. By my clock I began this section at about 13:30, or 1:30pm for those of us who hate things being unambiguous. The historical record for a nearby weather station puts this entire last section at sustained winds of around 40km/h, and I know from looking at the conditions from the day-of that there were recorded gusts over 70km/h. From exactly at my left side. But well, I've made it this far dammit. You just have to stuff down all the doubts and the fatigue and just keep pedalling.
@@ -161,7 +161,7 @@ It was almost poetic, once I was able to catch my breath and think about it. Whe
 
 Coming down that road at a glacial 10 km/h, tucked low on the drops and riding in the wrong lane to try to take advantage of the wind being launched over the road by the ditch, my girlfriend and her family had all come out the lane to celebrate this awful victory. I think I was semi-successful at pretending I was really happy to see everybody, but in that moment I just wanted to ride my bike behind the barn, lie face down and let out all the frustrations that had been building for the last six hours in a good solid cry.
 
-![Blown off the driveway](arrival.jpg)
+![Blown off the driveway](./arrival.jpg)
 
 [Image caption: Literally blown off the driveway. A slog right to the finish line.]
 
@@ -171,7 +171,7 @@ I never did have that cry. The bike was laid down on its side and I just sat on 
 
 I did it.
 
-![Forcing a smile](denouement.jpg)
+![Forcing a smile](./denouement.jpg)
 
 
 ### Epilogue
@@ -180,7 +180,7 @@ The clock was started at 7:52am and the recorded distance was a touch over 135km
 
 I'm sure this whole trip would have been a lot less exciting and dramatic without the wind, but it definitely has turned this into a better story. I shit you not when I say this was a ridiculously windy day, here's a graphic I stole from *El Weather Netwerko* to sum up the day:
 
-![Weather network showing 90+km/h gusts the day of the ride](weathernetwork.jpg)
+![Weather network showing 90+km/h gusts the day of the ride](./weathernetwork.jpg)
 
 My ride took place in the general area of where the graphic for Hamilton is covering and into the red patch above it. So if anything I could possibly be *understating* the wind speed that day. Oh my.
 
