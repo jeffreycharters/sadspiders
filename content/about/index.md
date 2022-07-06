@@ -17,3 +17,11 @@ I guess actually they could do that pretty easily, nevermind.
 We're **boned**.
 
 Get updates via my [RSS feed](/index.xml) or learn [wtf is rss](/use-a-feed-reader-for-better-internetting)!
+
+---
+
+### My online personae
+
+[![Gtihub icon](./github.svg)jeffreycharters](https://github.com/jeffreycharters)
+
+[![Twitter icon](./twitween.svg)radridersdesign](https://twitter.com/radridersdesign)
