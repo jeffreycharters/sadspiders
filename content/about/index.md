@@ -16,12 +16,14 @@ I guess actually they could do that pretty easily, nevermind.
 
 We're **boned**.
 
-Get updates via my [RSS feed](/index.xml) or learn [wtf is rss](/use-a-feed-reader-for-better-internetting)!
 
----
 
-### My online personae
+## My online personae
+
+[![RSS icon](./simple.svg)RSS Feed](/index.xml) ([wtf is rss?](/use-a-feed-reader-for-better-internetting))
 
 [![Gtihub icon](./github.svg)jeffreycharters](https://github.com/jeffreycharters)
+
+[![LinkedIn icon](./linkedin.svg)jeffreycharters](https://linkedin.com/in/jeffreycharters)
 
 [![Twitter icon](./twitween.svg)radridersdesign](https://twitter.com/radridersdesign)
