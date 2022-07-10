@@ -5,6 +5,36 @@ description = "I've long been confused on when to use classes in javascript. I f
 tags = ["coding"]
 +++
 
+### Update! Awww shoot.
+
+I was really excited to give these classes a whirl when reality came crashing down on me, so I thought I would share what I learned.
+
+In certain scenarios, like writing backend code, this would have been a great use of classes.
+
+However, turns out that using this in a reactive frontend framework (SvelteKit) is a recipe for heartbreak.
+
+An example:
+
+- I manually added a user to my monthly bills, and then tried using the UI to remove them.
+- They were removed from the object!
+- However, this was not reflected on the screen, where nothing happened.
+- Shit.
+
+So in order to make my object reactive, I would have to do something like this:
+```typescript
+bills.removePerson("jeffrey")
+bills = bills
+```
+
+This is a perfect cromulent way of doing it, but it feels.. ..hacky.
+
+To remedy the situation, I will be creating a [store](https://svelte.dev/tutorial/writable-stores) that will keep track of my application state, which will be using the framework as intended instead of forcing my will upon it. I'm going to dwell on the best way to make things happen, I will write a post in the future once I have figured out the optimal way to do this.
+
+Initial post below the break for posterity.
+
+----
+
+
 ### Build in Public
 
   I recently mentioned on the [Self-taught Tech Network](https://discord.com/channels/932253730605252609)'s Discord server that I was confused on when to use classes when programming. The server's administrator and probably-not-a-psychpath (Joel)[https://twitter.com/TechPickleJoel] chimed in the remind me with the principle I needed to be reminded of:
