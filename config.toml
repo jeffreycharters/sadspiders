@@ -1,6 +1,7 @@
 
 # Set to the URL for your site
-baseURL = "https://sadspiders.netlify.app"
+baseURL = "https://sadspiders.jeffdev.ca"
+# baseURL = "https://sadspiders.netlify.app"
 canonifyURLs = true
 
 # The name of this wonderful theme ;-).
