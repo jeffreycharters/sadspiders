@@ -1,5 +1,5 @@
 +++
-title = "New Project: DH Bike Points"
+title = "New Project: DH Bike Plates"
 date = "2022-08-01T08:30:30-04:00"
 description = "Let's make our backend look good, a project to help myself"
 tags = ["coding", "dh racing"]
@@ -34,6 +34,7 @@ I really want to write a project using Test-Driven Development (TDD). Unfortunat
 - [ ] set up Planetscale DB
 - [ ] write Prisma schema and sync with DB
 - [ ] verify API works as expected
+- [x] make entire front-end first?!
 
 
 ## Deadline
