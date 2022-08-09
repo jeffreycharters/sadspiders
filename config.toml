@@ -17,6 +17,13 @@ languageCode = "en-CA"
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
 
+[imaging]
+anchor = 'Smart'
+bgColor = '#ffffff'
+hint = 'photo'
+quality = 100
+resampleFilter = 'Lanczos'
+
 # Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]

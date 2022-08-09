@@ -42,10 +42,10 @@ I really want to write a project using Test-Driven Development (TDD). Unfortunat
 There is a race this week, meaning footage should start rolling out in about two or three days. I want to have *something* in place and working by then. Even if it's just a big list of all the riders.
 
 **Best case:**
-![Stylish rider jumping between two trees](./best-case.jpg)
+{{< img src="best-case.jpg" alt="Stylish rider jumping between two trees" >}}
 
 **Worst case:**
-![Rider on their back after a crash with their bike airborn beside them](./worst-case.jpg)
+{{< img src="worst-case.jpg" alt="Stylish rider jumping between two trees" alt="Rider on their back after a crash with their bike airborne beside them">}}
 
 On the flipside, there's a race next weekend! I encourage everyone to get on board, it's exciting to watch!!
 
