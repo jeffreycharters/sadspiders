@@ -113,6 +113,8 @@ So I went through their process, did an online interview, and they got in touch 
 
 ᄽ(ノ◕⌢◕)ᄽノ ︵ ┻━┻
 
+**Edit:** The new employer's backend is written in Go and is actually a GraphQL server. So I actually get to write Go professionally! Nice.
+
 ### Postamble
 
 ![The fat nerdy computer guy from South Park and he's got some mountain dew](computer-guy.jpg)
