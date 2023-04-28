@@ -10,4 +10,4 @@ draft: false
 Here's a few things I work on when I have the motivation.
 
 - [Blurt](https://letsblurt.duckdns.org): a popular microtweeting platform.
-- [Radriders](https://radriders.ca): a very *un*sexy bike blog.
+- [Radriders](https://radriders.ca): a very sexy bike blog.
