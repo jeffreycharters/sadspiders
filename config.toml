@@ -8,7 +8,7 @@ canonifyURLs = true
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
-title = "sad spiders ᄽ (◕ ⌢ ◕) ᄿ"
+title = "sad spiders"
 
 author = "Jeffrey Charters"
 copyright = "Copyright © 2022, the spiders."

@@ -1,4 +1,7 @@
-<a href="{{ " /" | relURL }}" class="title">
-  <h1>{{ .Site.Title }}</h1>
+<a href="/" class="title">
+  <div class="title-bar">
+    <h1>{{ .Site.Title }}</h1>
+    <div class="spider" aria-hidden="true">ᄽ (◕ ⌢ ◕) ᄿ</div>
+  </div>
 </a>
 <nav>{{- partial "nav.html" . -}}</nav>
