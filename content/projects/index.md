@@ -7,7 +7,9 @@ draft: false
 
 ## Projects
 
+<!-- TODO: add zazz -->
+
 Here's a few things I work on when I have the motivation.
 
 - [Blurt](https://letsblurt.duckdns.org): a popular microtweeting platform.
-- [Radriders](https://radriders.ca): a very *un*sexy bike blog.
+- Radriders (offline): a very *un*sexy bike blog.
