@@ -1,6 +1,6 @@
 
 # Set to the URL for your site
-baseURL = "https://sadspiders.netlify.app"
+baseURL = "https://sadspiders.ca"
 canonifyURLs = true
 
 # The name of this wonderful theme ;-).
@@ -62,3 +62,6 @@ dateFormat = "January 2, 2006"
 
 rssLimit = 20
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+
+[markup.highlight]
+style = "gruvbox"
