@@ -1,6 +1,7 @@
 +++
 title = "Race Report: Paris to Ancaster 2024"
 date = "2024-06-20T17:38:26-04:00"
+lastmod = "2024-06-21T18:34:26-04:00"
 slug = "paris-ancaster-2024"
 
 description = "Brake pads worn down to nothing; Du/er jeans are super good."
@@ -102,3 +103,5 @@ So I caught up with Andrew who curses himself to have missed me making my way ac
 Bikes get washed, food gets eaten and life goes on. It was a good time. I'm not a people person but I still enjoyed it all when I could and I retain fond memories already. I've already begun making notes on things I did right, things I did poorly and how to improve things for next year. And you've just read most of them.
 
 Until next time, keep fit and have fun. Bodybreak!
+
+**Edit:** Yeah the jeans were fine. Du/er nails it. Even wet, no problems.
