@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Training on sad spiders</title>
+    <link>https://sadspiders.ca/blog/training/</link>
+    <description>Recent content in Training on sad spiders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-CA</language>
+    <copyright>Copyright © 2022-2025, the spiders.</copyright>
+    <lastBuildDate>Mon, 21 Apr 2025 19:14:26 -0400</lastBuildDate><atom:link href="https://sadspiders.ca/blog/training/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Training Update: April 2025</title>
+      <link>https://sadspiders.ca/training-update-april-2025/</link>
+      <pubDate>Mon, 21 Apr 2025 19:14:26 -0400</pubDate>
+      
+      <guid>https://sadspiders.ca/training-update-april-2025/</guid>
+      <description>&lt;h3 id=&#34;preamble&#34;&gt;Preamble&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;ve been meaning to update this for a while. But I&amp;rsquo;ve been training and whatnot. So I never wrote a blog entries about how training has been going.&lt;/p&gt;
+&lt;p&gt;The race is in 6 days. I have begun my taper period where the volume of training (but not intensity) is diminished. This should result in my maintaining fitness but allowing my body to fully recover so that by race day I&amp;rsquo;m all fired up and ready to haul ass.&lt;/p&gt;
+&lt;h3 id=&#34;how-things-have-been-since-february-of-this-year&#34;&gt;How things have been since February of this year&lt;/h3&gt;
+&lt;p&gt;Nuts to that lets go back to December. I&amp;rsquo;ve screen-grabbed from &lt;a href=&#34;https://intervals.icu&#34;&gt;intervals.icu&lt;/a&gt; a visual representation of my training load since December, when I started training for this year&amp;rsquo;s Paris to Ancaster race:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./fitness.png&#34; alt=&#34;a figure showing the fitness of the author increasing then somewhat leveling off since December 2024&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The main thing that is of concern in this graph is the blue line, which is the long-term training load. When I began in December, that number was 9, which may in reality be a mild underestimated but close enough. In my last update at the start of February, it was 37. Today as I write this, it stands at 54, a slight decrease from its peak at 56. Woo! So what does that mean? Between the amount of time spent on the bike (volume), and the effort of each of those rides (intensity), my training load has increased a shit-ton since I started this season.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s an example. In the winter, I rode 5 days a week, and the power profile of a workout looked like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./foundation_power.png&#34; alt=&#34;a power profile showing five intervals of six minutes each with average power of 166w per interval and heart rate around 140 bpm&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This was of course the base phase, but I remember even during this time that my quad muscles were often tired and sore. Which was good, I feel like I built myself up in a decent amount of time instead of being ridiculous and being in a lot of pain or running out of gas and getting discouraged as I so often do. More recent rides have looked more like the following:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./recent_power.png&#34; alt=&#34;a power profile with many intervals of varying duration and power levels&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This was a challenging-but-doable ride. I definitely came off the bike one hell of a lot sweatier than the ride in the previous image. But I would say my legs were no more sore than they were after the easier sessions. So, good! Training achieved!&lt;/p&gt;
+&lt;h3 id=&#34;that-blip-in-the-training-load-figure&#34;&gt;That blip in the training load figure?&lt;/h3&gt;
+&lt;p&gt;Work went haywire. Extra stress, extra brainpower. According to my Garmin watch, my heart rate variability (HRV) was showing that my stress wasn&amp;rsquo;t being managed well. I dread overtraining and/or burnout, so I hit the brakes for a while then just rested for five days, which is where the form line underneath that blue line briefly turns blue as well. That indicates my training status was &lt;em&gt;fresh&lt;/em&gt;. And what do you do when you&amp;rsquo;re fresh?&lt;/p&gt;
+&lt;p&gt;FTP tests!&lt;/p&gt;
+&lt;p&gt;So I was all fired up from having rested for a few days and decided to go hard. I put on Andrew WK&amp;rsquo;s masterpiece &amp;ldquo;I Get Wet&amp;rdquo; and set out to do a Zwift ramp test, which is a great way to overestimate FTP but this is the way I did my first test so may as well be consistent. Have a look:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./ramp_test.png&#34; alt=&#34;a bunch of squiggly lines from the ramp test. most important is the power profile which peaks at 360W for a few seconds&#34;&gt;&lt;/p&gt;
+&lt;p&gt;So the test starts with a warm-up, then you ride at 100 W for one minute. Then you ride at 120 W for one minute. And so on and so forth until you literally cannot push the pedals any further. At which point a little window pops up and says &amp;ldquo;you done?&amp;rdquo; and the acknowledgement says &amp;ldquo;I&amp;rsquo;m Toast&amp;rdquo; which hopefully you feel honest in pressing in that moment. Then I forget but it&amp;rsquo;s something like 75% of your best minute of power is your FTP, which is kind of like weight in that its mainly an estimate and no one is entirely truthful about theirs.&lt;/p&gt;
+&lt;p&gt;So in December when I started, my FTP was clocked in at 225 W. According to this test on March 28, my FTP was estimated at 261 W! That&amp;rsquo;s a 16% improvement in four months, I&amp;rsquo;ll take it! However, my two other training programs (intervals.icu and Xert) both set my FTP at 250 W based on probably more realistic algorithms so I&amp;rsquo;ll use that. But still, yay me! I am actually a little amazed that effort and consistency actually make a difference.&lt;/p&gt;
+&lt;p&gt;Downside: the difference between 225 W and 250 W is 11%, so all of my workouts just became 11% more difficult which actually kinda sucks shit for the first couple of weeks. And now we rinse and repeat.&lt;/p&gt;
+&lt;h3 id=&#34;the-future&#34;&gt;The future&lt;/h3&gt;
+&lt;p&gt;One more week of easier rides, it&amp;rsquo;s nice to look forward to summer. Not entirely sure what will happen after the race on Sunday. The local mountain bike trails should be thawed, so hopefully I am inspired to go out for lots of rides and enjoy the great outdoors. We&amp;rsquo;re probably going to sign up for another race in early June, so I don&amp;rsquo;t think that structured training will be too far away, but I also think it&amp;rsquo;s probably good to just ride to work and have some adventures and not just get weird about numbers. No orthotrainia.&lt;/p&gt;
+&lt;p&gt;I think I&amp;rsquo;ve got all my nutrition sorted for the ride, hopefully my gear will be suitable for the myriad possible temperatures on race day. And really, I hope I have fun and have the mental clarity to enjoy race day.&lt;/p&gt;
+&lt;h3 id=&#34;denouement&#34;&gt;Denouement&lt;/h3&gt;
+&lt;p&gt;I am glad I purchased my trainer. It gave me something to think about over the winter, and has hopefully let me feel good about myself. I enjoy having these objective numbers that I can&amp;rsquo;t poo-poo when I am feeling dumpy. There&amp;rsquo;s hard evidence that fitness is improving, and that is good for me.&lt;/p&gt;
+&lt;p&gt;A few more rides, lots of rest and hopefully some good healthy meals and it&amp;rsquo;s game on.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Training Update: February 2025</title>
+      <link>https://sadspiders.ca/training-update-feb-2025/</link>
+      <pubDate>Sun, 02 Feb 2025 15:29:26 -0400</pubDate>
+      
+      <guid>https://sadspiders.ca/training-update-feb-2025/</guid>
+      <description>&lt;h3 id=&#34;preamble&#34;&gt;Preamble&lt;/h3&gt;
+&lt;p&gt;At some point last year like the dumbass that I am, I thought it would be a good idea to spend my wellness money from work on a pair of relatively cheap &lt;a href=&#34;https://www.elite-wheels.com/product/elitewheels-drive-g45-ss-gravel-bike-carbon-wheels/&#34;&gt;aero rims&lt;/a&gt; from China.&lt;/p&gt;
+&lt;p&gt;But then I did some soul searching because I realized I was trying to throw money at riding faster. If you do a quick doodle search, you&amp;rsquo;ll quiclkly learn that getting aero rims is &lt;a href=&#34;https://www.cyclingnews.com/features/get-aero-for-less-we-rank-bike-upgrades-ranked-by-watts-saved-vs-cost/&#34;&gt;one of the most dogshit ways to spend your money to get faster&lt;/a&gt;. So there&amp;rsquo;s that.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a bang-for-your-buck kind of guy. So I threw that plan into my mental recycle bin and hatched a new plan: I&amp;rsquo;m going to actually train and see if that can make me faster. So I bought a Wahoo Kickr Core smart trainer and here we are.&lt;/p&gt;
+&lt;h3 id=&#34;how-things-started-december-2024&#34;&gt;How things started: December 2024&lt;/h3&gt;
+&lt;p&gt;I hooked up the trainer and subscribed to Zwift and went and did an FTP test. FTP is functional threshold power, which is the estimated amount of power one can sustain for an hour and underscores a lot of what you do while training. My inital estimated FTP according to a Zwift ramp test was &lt;strong&gt;225 watts (W)&lt;/strong&gt;. I don&amp;rsquo;t know if this is good or bad. I feel like it should have been higher but that&amp;rsquo;s the number I am working with for now. The next day I do a benchmark ride and it seems right. Sorry, my pride.&lt;/p&gt;
+&lt;p&gt;I enroll in the FTP Builder workout on Zwift a 6-week set of workouts with about four or five sessions a week. I start training. I train good!&lt;/p&gt;
+&lt;p&gt;At this point I decide that if I&amp;rsquo;m going to be sitting in my basement for hours trying to be more fitter that it&amp;rsquo;s a good investment to get a &lt;a href=&#34;https://sadspiders.ca/bike-fit-grimey&#34;&gt;bike fit&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We can jump ahead to about January 18th, the end of the FTP Builder program. All is well, I am nervous about burning out but have been sensible about it and used &lt;a href=&#34;https://intervals.icu&#34;&gt;intervals.icu&lt;/a&gt; to track my recovery/form. My new FTP? Well, here&amp;rsquo;s the rub: &lt;em&gt;I never checked my FTP at the end of the FTP Builder&lt;/em&gt;. I know. I&amp;rsquo;m a bad content creator.&lt;/p&gt;
+&lt;p&gt;So y I no check? I was looking at my options for the next level of my training. The most obvious was &lt;a href=&#34;https://www.trainerroad.com/&#34;&gt;TrainerRoad&lt;/a&gt;, but I ended up putting my trust into a more local choice - &lt;a href=&#34;https://xertonline.com&#34;&gt;Xert&lt;/a&gt;. This platform uses all the info from my trainer to determine that workouts that will help me reach my goals.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./intervals.png&#34; alt=&#34;a calendar showing a ride almost every day for the past two weeks&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Having something give me options for workouts is nice because it makes it so there&amp;rsquo;s one less thing I have to think about and they have enough variety to keep me from getting overbored.&lt;/p&gt;
+&lt;h3 id=&#34;how-its-going&#34;&gt;How it&amp;rsquo;s going&lt;/h3&gt;
+&lt;p&gt;So Xert has been providing a number of suggestions for workouts for me. I&amp;rsquo;ve gone from a weekly training stress score (a measure of how much training you&amp;rsquo;re doing) from 252 in early December to this week being 399. They provide a graph showing roughly this as the blue line on the following chart from intervals.icu:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./fitness.png&#34; alt=&#34;a figure showing the fitness of the author increasing since December 2024&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Ignore the purple line which shows Fatigue (7 day weighted average of training load) but lets focus on the blue line which is Fitness (42-day weighted average of training load). It makes me happy and keeps me motivated for now to see that line going up and up. Apparently I&amp;rsquo;ve vastly increased my training load but I still feel about as tired as when I was much earlier on in the program: I may actually be getting more fit!&lt;/p&gt;
+&lt;p&gt;The green line underneath is Form, which is Fitness minus Fatigure. The line being green is good, means I am increasing fitness at a sustainable level. Red is bad and risks burnout, grey is stagnation and means I am not improving. Once I am race-ready I will ramp down the training load which will increase that line hopefully into the &amp;ldquo;Fresh&amp;rdquo; blue category and my body will just be jonesing to give&amp;rsquo;er at that point. Neat.&lt;/p&gt;
+&lt;h3 id=&#34;where-were-going-next&#34;&gt;Where we&amp;rsquo;re going next&lt;/h3&gt;
+&lt;p&gt;So in plain english, I&amp;rsquo;m doing easy rides these days. Relatively so. I did a two hour ride this morning and was tired but still feeling quite good afterwards. A few hours later I did some weighted lunges and single-leg Romanian deadlifts and stuff to try to add a bit of extra strength.&lt;/p&gt;
+&lt;p&gt;The Xert program I am currently using is event preparation. I told them about my target event (P2A at end of April) and it has set me up with a three phase program: Base-Build-Peak.&lt;/p&gt;
+&lt;p&gt;Right now I am nearing the end of the &lt;strong&gt;Base&lt;/strong&gt; phase of the program. This is ultimately the answer to why I didn&amp;rsquo;t do an FTP test. It doesn&amp;rsquo;t fit with my updated plan. The base phase is just adding a lot of training volume (time) without adding much intensity. My body making a bunch of new mitochondrias and getting good at turning glycogen into lactate and then turning the lactate back into glycogen. Training my quadriceps to recruit lots of muscle fibers in case some start to get tired.  Increase my red blood cells count so that I can move them oxygens through my bloodstream more easier.&lt;/p&gt;
+&lt;p&gt;Next up is the &lt;strong&gt;Build&lt;/strong&gt; phase, which starts around February 11, I think. I have a feeling that that&amp;rsquo;s where the suffering is going to increase substantially. The workouts will start adding much more high-intensity intervals to increase my VO2Max, the amount of oxygen my body can process and get to the muscles over a given time. But this comes at the expense of overriding the signals that my legs are sending that they&amp;rsquo;ve had enough. But hey, I guess that&amp;rsquo;s training.&lt;/p&gt;
+&lt;p&gt;The final phase is the &lt;strong&gt;Peak&lt;/strong&gt; phase. In my case as an amateur weekend warrior, this will involve more of an increase in training load and more specific intervals to really push the body to its limits before tapering before coming back stronger. I&amp;rsquo;m really going to be monitoring my form and recovery during this phase because this is where the risk of overtraining is real.&lt;/p&gt;
+&lt;h3 id=&#34;denouement&#34;&gt;Denouement&lt;/h3&gt;
+&lt;p&gt;So far, so good. Hopefully fitness is improving just by showing up for every session.&lt;/p&gt;
+&lt;p&gt;Motivation is still high, looking forward to the race. Not looking forward to more high-intensity intervals but yes interested to see what Xert estimates my FTP at once I get to that point.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

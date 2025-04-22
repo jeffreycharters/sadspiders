@@ -1,0 +1,376 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+
+<head>
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="https://sadspiders.ca/favicon.ico" />
+<title>Writing your first Sveltekit app | sad spiders</title>
+<meta name="title" content="Writing your first Sveltekit app" />
+<meta name="description" content="From dial up modems (moda?) to a master&#39;s degree and a website." />
+<meta name="keywords" content="coding,zestiness," />
+
+
+<meta property="og:url" content="https://sadspiders.ca/writing-your-first-sveltekit-app/">
+  <meta property="og:site_name" content="sad spiders">
+  <meta property="og:title" content="Writing your first Sveltekit app">
+  <meta property="og:description" content="From dial up modems (moda?) to a master&#39;s degree and a website.">
+  <meta property="og:locale" content="en_CA">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="blog">
+    <meta property="article:published_time" content="2022-07-02T16:42:14-04:00">
+    <meta property="article:modified_time" content="2022-07-02T16:42:14-04:00">
+    <meta property="article:tag" content="Coding">
+    <meta property="article:tag" content="Zestiness">
+
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Writing your first Sveltekit app">
+  <meta name="twitter:description" content="From dial up modems (moda?) to a master&#39;s degree and a website.">
+
+
+
+
+  <meta itemprop="name" content="Writing your first Sveltekit app">
+  <meta itemprop="description" content="From dial up modems (moda?) to a master&#39;s degree and a website.">
+  <meta itemprop="datePublished" content="2022-07-02T16:42:14-04:00">
+  <meta itemprop="dateModified" content="2022-07-02T16:42:14-04:00">
+  <meta itemprop="wordCount" content="1727">
+  <meta itemprop="keywords" content="Coding,Zestiness">
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+  <style>
+  body {
+    font-family: 'Roboto Sans', Verdana, sans-serif;
+    margin: auto;
+    padding: 20px;
+    max-width: 720px;
+    text-align: left;
+    background-color: #fff;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    line-height: 1.5;
+    color: #444;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  strong,
+  b {
+    color: #222;
+  }
+
+  h1 {
+    font-size: 1.50rem;
+  }
+
+  h2 {
+    font-size: 1.25rem
+  }
+
+  h3 {
+    font-size: 1.15rem;
+  }
+
+  a {
+    color: #3273dc;
+     
+  }
+
+  .title {
+    text-decoration: none;
+    border: 0;
+  }
+
+  .title span {
+    font-weight: 400;
+  }
+
+  nav a {
+    margin-right: 10px;
+  }
+
+  textarea {
+    width: 100%;
+    font-size: 16px;
+  }
+
+  input {
+    font-size: 16px;
+  }
+
+  content {
+    line-height: 1.6;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  code {
+    padding: 2px 5px;
+    background-color: #f2f2f2;
+  }
+
+  pre code {
+    color: #222;
+    display: block;
+    padding: 20px;
+    white-space: pre-wrap;
+    font-size: 14px;
+  }
+
+  div.highlight pre {
+    background-color: initial;
+    color: initial;
+    border-radius: 0.5rem;
+  }
+
+  div.highlight code {
+    background-color: unset;
+    color: unset;
+  }
+
+  blockquote {
+    border-left: 1px solid #999;
+    color: #222;
+    padding-left: 20px;
+    font-style: italic;
+  }
+
+  footer {
+    padding: 25px;
+    text-align: center;
+  }
+
+  .helptext {
+    color: #777;
+    font-size: small;
+  }
+
+  .errorlist {
+    color: #eba613;
+    font-size: small;
+  }
+
+   
+  ul.blog-posts {
+    list-style-type: none;
+    padding: unset;
+  }
+
+  ul.blog-posts li {
+    display: flex;
+  }
+
+  ul.blog-posts li span {
+    flex: 0 0 160px;
+  }
+
+  ul.blog-posts li a:visited {
+    color: #8b6fcb;
+  }
+
+  @media (max-width: 768px) {
+    body {
+      font-size: 0.9rem;
+    }
+
+    .title-bar {
+      justify-content: space-between;
+    }
+  }
+
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #333;
+      color: #ddd;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    strong,
+    b {
+      color: #eee;
+    }
+
+    a {
+      color: #8cc2dd;
+    }
+
+    code {
+      background-color: #777;
+    }
+
+    pre code {
+      color: #ddd;
+    }
+
+    blockquote {
+      color: #ccc;
+    }
+
+    textarea,
+    input {
+      background-color: #252525;
+      color: #ddd;
+    }
+
+    .helptext {
+      color: #aaa;
+    }
+  }
+
+  .spider {
+    color: hsl(348, 50%, 50%);
+    font-weight: bolder;
+    font-size: 1rem;
+    transform: translateY(0.25rem) rotate(5deg);
+  }
+
+  .title-bar {
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+  }
+</style>
+</head>
+
+<body>
+  <header><a href="https://sadspiders.ca/" class="title">
+  <div class="title-bar">
+    <h1>sad spiders</h1>
+    <div class="spider" aria-hidden="true">ᄽ (◕ ⌢ ◕) ᄿ</div>
+  </div>
+</a>
+<nav><a href="https://sadspiders.ca/">Home</a>
+
+<a href="https://sadspiders.ca/about/">About</a>
+
+<a href="https://sadspiders.ca/projects/">Projects</a>
+
+
+<a href="https://sadspiders.ca/blog">Blog</a>
+
+</nav></header>
+  <main>
+
+<h2>Writing your first Sveltekit app</h2>
+<p>
+  <i>
+    <time datetime='2022-07-02' pubdate>
+      July 2, 2022
+    </time>
+  </i>
+</p>
+
+<content>
+  <h3 id="preamble-aka-tldr-1-of-2">Preamble (aka tl;dr 1 of 2)</h3>
+<p>My goal of the moment is to get some sort of gig as a web developer so I can work remotely and get more and more into libertarianism until nobody wants to hang out with me anymore.</p>
+<p>One of the requirements, according to the internet, is to create a lot of bullshit, copy-paste style content that thousands of other people have written but better.</p>
+<p>So here goes.</p>
+<h3 id="get-a-modem-and-a-geocities-account">Get a modem and a Geocities account</h3>
+<p>My adventure begins somewhere around 1995, when the internet sort of sucked and no one really knew what it&rsquo;s deal was. We got a computer that had an icon that said &ldquo;Internet&rdquo; and that was great. I was able to use my couple-of-dozen kilobauds per second of transfer speed to get myself a Geocities account. <a href="http://web.archive.org/web/20010512060621/http://www.geocities.com/SunsetStrip/Towers/2226/">Archive link</a>. It sucks multiple types of shit and tries to download a Blink 182 MIDI file when you view it. It had a guestbook. A sad, sad guestbook.</p>
+<p>I was interested in creating website stuff, but had no gdf clue how. So I applied to the &ldquo;New Media&rdquo; program at a semi-local university and failed to gain acceptance.</p>
+<h3 id="say-fuck-it">Say &ldquo;fuck it&rdquo;</h3>
+<blockquote>
+<p>When life hands you lemons, do something else.</p>
+<p>&ndash;Glarg Barbidov</p>
+</blockquote>
+<p>At this point, become a bike messenger in a major metropolitan area for a while. It might be the best job you ever have. Working outside, not paying taxes on your income, life is good.</p>
+<h3 id="see-the-world">See the world</h3>
+<p>Head to Austrlia for a year. Pick mangoes. Surf. Buy a camper van whoms engine seizes the next day leaving you out $1500 that you really can&rsquo;t afford. Bartend in a ghost town.</p>
+<h3 id="create-content">Create content</h3>
+<p>For a while there were the blogs called &ldquo;E/N&rdquo; blogs, or everything/nothing. You know, like this one. No clear objective, just some idiot pouring their brain into a keyboard for kicks and for a few laughs with their friends. We didn&rsquo;t lol in those days. I still don&rsquo;t. I made one where I created each blog post in it&rsquo;s own HTML file, dilligently copying and pasting from the previous HTML file, and then adding the new blog to my list of blogs.</p>
+<p>In retrospect it makes me so angry that I did things this way. There had to have been some sort of easier way, even at this point, no? Even if I had a <code>/cgi-bin/</code> directory? Remember those? When computer graphics started appearing in movies and people said the <code>cgi</code> of a movie was good/bad I just thought &ldquo;common gateway interface.&rdquo; I do a lot of things weird, I think. I feel like this is almost as bad as &ldquo;hold me closer, Tony Danza.&rdquo;</p>
+<p>Oh hey, almost forgot, there&rsquo;s an archived version <a href="http://web.archive.org/web/20040130215445/http://unfun.robotskull.com/">Unfun</a> as well!</p>
+<p>Remember when your website had a button?</p>
+<p>This was mine &ndash;&gt; <img src="./bouton.gif" alt="Button to visit Unfun, my old website. The text reads  &ldquo;more meow, more wang, more blog, more wacky stunts. Unfun - ultra-sexy"> Yes, there&rsquo;s a hand-drawn weiner.</p>
+<h3 id="get-educated">Get educated</h3>
+<p>A four-year degree in Environmental Chemistry with pretty much nothing to do with webdev is what you think will be a good use of your time. Oh hey but on the plus side I was elected Editor-in-Chief of a campus publication and got to lead people and design a product, along with promotional pins! Everyone loves pins! Well, they did in 2007 and they still should. &lt;/ oldManMode &gt;</p>
+<p>Feel inspired that you are actually good at something. Good at <em>science</em>. You will change the world someday!</p>
+<h3 id="get-more-educated">Get more educated</h3>
+<p>And make sure you go to the opposite side of the country to do so. Can&rsquo;t really complain too hard about this one, got to sail on a <a href="https://archives.whoi.edu/beaufortgyre/www.whoi.edu/page.do@pid=66558.html">Coast Guard icebreaker</a> (<a href="https://archives.whoi.edu/beaufortgyre/www.whoi.edu/page.do@pid=66518.html">twice!</a>), snowboard lots, caught crabs (on a beach, not the yuck kind) (no judgment) and did a decent amount of snowboarding and downhill mountain biking. Create a pretty crummy website for your research group that never really gets used.</p>
+<p>Along the way you can learn a bit of javascript but not so much to be really useful with anything.</p>
+<p>Feel a bit crushed that your love of science actually doesn&rsquo;t mean jack shit because there are 350 million other people intent on changing the world and you&rsquo;re just kinda.. ..in there somewhere, not really excelling at anything. The path of least resistance has become a forest of lots of resistance.</p>
+<h3 id="find-a-job-doing-something-meh">Find a job doing something meh</h3>
+<p>Work in a lab! Be part of a union! This isn&rsquo;t so much changing the world as.. ..being a part of the world.</p>
+<p>You can read all the news you want, and get angry about it! But all you really do is vote every 2 years or so (provincial and federali elections) and that&rsquo;s about it, bub.</p>
+<p>Also what the shit, how have twenty years passed since that Geocities nonsense?</p>
+<p>You know what, screw it. The world effing sucks (in some ways) and it&rsquo;s not my problem anymore. I&rsquo;ve been riding to school/work for most of my life, I hang-dry my clothes, I use Amazon infrequently. I just want to get a job doing something I don&rsquo;t hate and spend the rest of my time biking and laying on the floor with dogs.</p>
+<p>*googles how to do code writing*</p>
+<p>*reads <a href="https://automatetheboringstuff.com">automate the boring stuff</a>*</p>
+<p>Used <a href="https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world">Miguel Grinberg&rsquo;s Flask Megatutorial</a> to learn enough Python/Flask create a mountain bike trail status crowdsourcing website called Radriders. It never gains any traction. Boo.</p>
+<h3 id="interlude">Interlude</h3>
+<p>Yeah, then this whole global pandemic thing happened. WORK FROM HOME?! I work in a lab and didn&rsquo;t really get much of a break during the pandemic.</p>
+<p>In fact, my experience was much, much worse.</p>
+<p>I had some sort of mental breakdown/burnout and I was honestly worried that I had broken my brain and I would never be able to absorb as much complexity as an episode of Friends has to offer. It was bad. Thank the good lord for youtube videos of train rides in the rain. <a href="https://www.youtube.com/watch?v=bQd9aHWXF6U">Seriously</a>. I&rsquo;ve watched that train video like 30 times. That&rsquo;s exactly the level of complexity my brain was capable of handling.</p>
+<p>Despite my recent claims to the contrary, we got a few sparse days of working from home. I had learned a bit of javascript along the way, so I decided to tackle the course from the University of Helsinki entitled <a href="https://fullstackopen.com/en/">Deep Dive Into Modern Web Development</a>. It taught me React+Redux, Express, MongoDB and a bit of Typescript.</p>
+<h3 id="opportunity">Opportunity!</h3>
+<p>My work hired some other person to create a website that has apparently been in the works for eons. Well, maybe only one eon, I don&rsquo;t want to be dramatic. He quit because some bank was going to pay him mad skrilla to do something for them. I feel sorry for the bank because I get hired on for the role and his code is.. ..uh.. ..fine. The directive from the powers-that-be is that this project needs to be done &ldquo;like yesterday.&rdquo;</p>
+<p>I convince my boss that we&rsquo;re better off scrapping his codebase using Django Rest Framework and React and just going with straight-up Django. I figure this will eliminate any of the complexity involved with passing info between two different frameworks and I am super-right. The site launches months later and is so-far well-received.</p>
+<p>During this time also developed another app using Django to allow another group of clients to display <a href="https://iapd.lsd.uoguelph.ca">Animal Disease Dashboards</a> for veterinarians and researches in the area. Simple but effective.</p>
+<h3 id="python-sucks">Python sucks</h3>
+<p>I rescind that third-level header, python doesn&rsquo;t sucks. Python&rsquo;s really great for somethings, but I&rsquo;ve already been effed in the ay by expecting an integer and being given a string, and when comparing 40 and &ldquo;40&rdquo; having the application say &ldquo;no these are obviously not the same *flips over and dies*&rdquo; and it&rsquo;s not ideal. I decide I want type-safety. Also everyone on the internet talks trash about React and I&rsquo;ve heard good things about <a href="https://svelte.dev">Svelte</a> and the internet seems to be mildly infatuated with it so let&rsquo;s have a look! Hey, I like it!</p>
+<p>They have this other weird thing called &ldquo;Sapper&rdquo; and I don&rsquo;t really know what it is so I just monkey around with Svelte a bit.</p>
+<h3 id="enter-sveltekit">Enter Sveltekit</h3>
+<p>Sapper grew up and became <a href="https://kit.svelte.dev">SvelteKit</a> and all of a sudden this framework is the real deal. It&rsquo;s like if React got ran over with a Roomba and now everything is just easier and nicer and better and it takes a lot less time to do what I want. I&rsquo;m a pretty hardened nerd by this point, so I do my best to learn from the official documentation and then quickly consult youtube (hey, twice in one post!) for some tutorials because I get lost quickly. And whoa, it&rsquo;s really great. And easy. ish. Nothing easy is worth doing. *resists tempation to make crass joke, but still needs you to know he knows it&rsquo;s there*</p>
+<h3 id="creating-the-website">Creating the website</h3>
+<p>My idea was to create a microtweeting website, which I have <a href="../blurt-have-i-become">mentioned before</a>. So then once you have installed Sveltekit and learned how to use it, just program the functionality you need. Easy! Also if you want it to be type-safe, write it in Typescript! If you get stuck there are literally a billion tutorials out there, probably actually an underestimate.</p>
+<p>I used <a href="https://prisma.io">Prisma</a> for an object-relational model (ORM) and it was awesome, use Prisma! (yo Prisma, send me some stickers or something!)</p>
+<h3 id="hire-me">Hire Me!</h3>
+<p>If anyone wants to offer me any sort of remote job using Sveltekit and pay me a decent salary I will jump on it. I am great to work with, learn quick and good, also good at <a href="../the-windiest-135km-bike-ride/">riding bikes</a>!</p>
+<p>Here&rsquo;s some shit I can computer do:</p>
+<ul>
+<li>HTML</li>
+<li>CSS (incl. SASS, tailwind)</li>
+<li>Javascript (but not Java)</li>
+<li>React, Redux, Sveltekit</li>
+<li>Python/Django/Flask</li>
+<li>Video Editing</li>
+<li>Set up an nginx server</li>
+<li>Svelte and Sveltekit</li>
+<li>Typescript</li>
+<li>Write a mean SQL query</li>
+<li>Design/normalize relational databases</li>
+<li>Markdown!</li>
+<li>Unit tests</li>
+</ul>
+<h3 id="postamble-aka-tldr-2-of-2">Postamble (aka tl;dr 2 of 2)</h3>
+<p>I wouldn&rsquo;t normally include a postamble but here we are.</p>
+<p>So the trick is to work on various things that aren&rsquo;t web development, then spend a few years learning javascript and python and eventually Typescript. Once you learn React you will be excited to learn any other web development framework that isn&rsquo;t React. At this point, learn Sveltekit and create your application!</p>
+<p>Make sure to host it on the Raspberry Pi in your basement or the hardcore nerds won&rsquo;t respect you.</p>
+<p>Thanks for reading make sure to smash that like button and then go grab a beer, you&rsquo;ve earned it!</p>
+
+</content>
+<p>
+  
+  <a href="https://sadspiders.ca/blog/coding/">#Coding</a>
+  
+  <a href="https://sadspiders.ca/blog/zestiness/">#Zestiness</a>
+  
+</p>
+
+  </main>
+  <footer>Made with <a href="https://github.com/janraasch/hugo-bearblog/">Hugo ʕ•ᴥ•ʔ Bear</a>
+</footer>
+
+    
+</body>
+
+</html>

@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+
+<head>
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="https://sadspiders.ca/favicon.ico" />
+<title>Blurt Have I Become? | sad spiders</title>
+<meta name="title" content="Blurt Have I Become?" />
+<meta name="description" content="What the shit even is TypeScript? What the shit is even real, you know?" />
+<meta name="keywords" content="coding,zestiness," />
+
+
+<meta property="og:url" content="https://sadspiders.ca/blurt-have-i-become/">
+  <meta property="og:site_name" content="sad spiders">
+  <meta property="og:title" content="Blurt Have I Become?">
+  <meta property="og:description" content="What the shit even is TypeScript? What the shit is even real, you know?">
+  <meta property="og:locale" content="en_CA">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="blog">
+    <meta property="article:published_time" content="2022-03-31T23:13:00+00:00">
+    <meta property="article:modified_time" content="2022-03-31T23:13:00+00:00">
+    <meta property="article:tag" content="Coding">
+    <meta property="article:tag" content="Zestiness">
+
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="Blurt Have I Become?">
+  <meta name="twitter:description" content="What the shit even is TypeScript? What the shit is even real, you know?">
+
+
+
+
+  <meta itemprop="name" content="Blurt Have I Become?">
+  <meta itemprop="description" content="What the shit even is TypeScript? What the shit is even real, you know?">
+  <meta itemprop="datePublished" content="2022-03-31T23:13:00+00:00">
+  <meta itemprop="dateModified" content="2022-03-31T23:13:00+00:00">
+  <meta itemprop="wordCount" content="1370">
+  <meta itemprop="keywords" content="Coding,Zestiness">
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+  <style>
+  body {
+    font-family: 'Roboto Sans', Verdana, sans-serif;
+    margin: auto;
+    padding: 20px;
+    max-width: 720px;
+    text-align: left;
+    background-color: #fff;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    line-height: 1.5;
+    color: #444;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  strong,
+  b {
+    color: #222;
+  }
+
+  h1 {
+    font-size: 1.50rem;
+  }
+
+  h2 {
+    font-size: 1.25rem
+  }
+
+  h3 {
+    font-size: 1.15rem;
+  }
+
+  a {
+    color: #3273dc;
+     
+  }
+
+  .title {
+    text-decoration: none;
+    border: 0;
+  }
+
+  .title span {
+    font-weight: 400;
+  }
+
+  nav a {
+    margin-right: 10px;
+  }
+
+  textarea {
+    width: 100%;
+    font-size: 16px;
+  }
+
+  input {
+    font-size: 16px;
+  }
+
+  content {
+    line-height: 1.6;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  code {
+    padding: 2px 5px;
+    background-color: #f2f2f2;
+  }
+
+  pre code {
+    color: #222;
+    display: block;
+    padding: 20px;
+    white-space: pre-wrap;
+    font-size: 14px;
+  }
+
+  div.highlight pre {
+    background-color: initial;
+    color: initial;
+    border-radius: 0.5rem;
+  }
+
+  div.highlight code {
+    background-color: unset;
+    color: unset;
+  }
+
+  blockquote {
+    border-left: 1px solid #999;
+    color: #222;
+    padding-left: 20px;
+    font-style: italic;
+  }
+
+  footer {
+    padding: 25px;
+    text-align: center;
+  }
+
+  .helptext {
+    color: #777;
+    font-size: small;
+  }
+
+  .errorlist {
+    color: #eba613;
+    font-size: small;
+  }
+
+   
+  ul.blog-posts {
+    list-style-type: none;
+    padding: unset;
+  }
+
+  ul.blog-posts li {
+    display: flex;
+  }
+
+  ul.blog-posts li span {
+    flex: 0 0 160px;
+  }
+
+  ul.blog-posts li a:visited {
+    color: #8b6fcb;
+  }
+
+  @media (max-width: 768px) {
+    body {
+      font-size: 0.9rem;
+    }
+
+    .title-bar {
+      justify-content: space-between;
+    }
+  }
+
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #333;
+      color: #ddd;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    strong,
+    b {
+      color: #eee;
+    }
+
+    a {
+      color: #8cc2dd;
+    }
+
+    code {
+      background-color: #777;
+    }
+
+    pre code {
+      color: #ddd;
+    }
+
+    blockquote {
+      color: #ccc;
+    }
+
+    textarea,
+    input {
+      background-color: #252525;
+      color: #ddd;
+    }
+
+    .helptext {
+      color: #aaa;
+    }
+  }
+
+  .spider {
+    color: hsl(348, 50%, 50%);
+    font-weight: bolder;
+    font-size: 1rem;
+    transform: translateY(0.25rem) rotate(5deg);
+  }
+
+  .title-bar {
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+  }
+</style>
+</head>
+
+<body>
+  <header><a href="https://sadspiders.ca/" class="title">
+  <div class="title-bar">
+    <h1>sad spiders</h1>
+    <div class="spider" aria-hidden="true">ᄽ (◕ ⌢ ◕) ᄿ</div>
+  </div>
+</a>
+<nav><a href="https://sadspiders.ca/">Home</a>
+
+<a href="https://sadspiders.ca/about/">About</a>
+
+<a href="https://sadspiders.ca/projects/">Projects</a>
+
+
+<a href="https://sadspiders.ca/blog">Blog</a>
+
+</nav></header>
+  <main>
+
+<h2>Blurt Have I Become?</h2>
+<p>
+  <i>
+    <time datetime='2022-03-31' pubdate>
+      March 31, 2022
+    </time>
+  </i>
+</p>
+
+<content>
+  <h3 id="a-blurt-eat-blurt-world">A blurt-eat-blurt world</h3>
+<p>Everything truly great starts as a joke. Religion, capitalism, the movie Idiocracy. But then it rallies some support and just look where that&rsquo;s gotten us.</p>
+<p>My current highest-grossing side-project is called <a href="https://letsblurt.duckdns.org">Blurt</a> (tied with all the others at $0). During a video by a youtube guy <a href="https://www.youtube.com/watch?v=NYj3DnI81AQ">Tom Scott</a>, was going through some of his own historic predictions of what now would look like. He thought that blogging was going to remain big, which didn&rsquo;t happen and was somewhat usurped by social media and <em>tweets</em>.</p>
+<p>Being a little bit <em>on the spectrum</em> (probably), my brain continued the obvious trend: the future of tweets is bleak, and people will desire to communicate with even harsher character limits.</p>
+<h3 id="enter-blurt">Enter Blurt</h3>
+<p>My idea for project was to create the <strong>world&rsquo;s first micro-tweeting platform called Blurt</strong> (stylized <strong>BLURT</strong> because onomatopoeia). You can write whatever you want, so long as it consists of 14 characters or less. But greater than 0 characters. It may not be the first, I didn&rsquo;t do any market research in case I am wrong and can&rsquo;t say that.</p>
+<p>It already exists and it is great. In case you haven&rsquo;t tried it yet, <a href="https://letsblurt.duckdns.org">here is a link to Blurt</a>. I&rsquo;m also proud of the fact that I didn&rsquo;t feel like dealing with login and user authentication and shit like that so I just didn&rsquo;t bother with it. That&rsquo;s right, you can impersonate others or log in as like twelve different users simultaneously. Or the same user twelve times. At this point I&rsquo;m lucky no bots have discovered it, but also maybe bots are excited they haven&rsquo;t discovered it because how much spam can you spam into 14 characters?</p>
+<h3 id="the-crowning-achievement">The crowning achievement</h3>
+<p>Everyone on blurt has that stupid &ldquo;verified&rdquo; checkmark after their name because we are an open and inclusive mess.</p>
+<h3 id="and-yet">And yet..</h3>
+<p>There are a few other features I want to add to blurt. I want to add infinite scroll, so that when you&rsquo;re about to get to the end of the blurts, another batch load up. I want to have a &ldquo;currently online&rdquo; count, and be able to break that down into &ldquo;socs&rdquo; (pronounced like soashes, short for socials) and &ldquo;jerks&rdquo; where soashes are the cool people who post (go read <a href="https://en.wikipedia.org/wiki/The_Outsiders_(novel)">The Outsiders</a> or it won&rsquo;t make sense and that&rsquo;s on you) and jerks just lurk and don&rsquo;t add to the cacaphony. You can&rsquo;t spell cacaphony without caca unless you spell it correctly!</p>
+<p>Also I need to make it more friendly to desktop users, since I made it originally with mobile in mind but I feel like it would be a fun thing to have up in a window behind all the work stuff I&rsquo;m pretending to do.</p>
+<p>So if I&rsquo;m going to do all this shit anyway, it turns out I&rsquo;ll probably just start building it from the ground up again. Which isn&rsquo;t nearly as daunting a task as I&rsquo;m pretending it is since in its current state, Blurt literally took me two days to throw together, and also I wrote a bunch of other code for my daytime job during those two days.</p>
+<h3 id="quels-seront-les-changements">Quels seront les changements?</h3>
+<p>The site was originally an excuse to try to make something using an emerging web technology called <a href="https://kit.svelte.dev/">SvelteKit</a>. I enjoyed monkeying with SvelteKit, but quickly learned that it was massively overpowered for my use-case. It&rsquo;s more for making a full-fledged website, whereas Blurt could easily be accomplished using what us big nerds call a SPA, or a single-page application. It will seem like you are at the login page and then on the chatting page, but really they are the same page and the code just makes it look like there is a new URL, even though in reality you&rsquo;re still on the same page but like, with a different background. Weird, eh? You probably use this type of stuff all the time without realizing it.</p>
+<p>So SvelteKit is going to get put on the backburner, and will be supplanted with a FRONT-END which the user interacts with, and a BACK-END which is where the database lives and where all the big decisions are made (aka the business logic).</p>
+<h4 id="front-end-stuff">Front-End Stuff</h4>
+<p>The front end stuff will be written in <a href="https://svelte.dev/">Svelte</a> which is similar to SvelteKit but better for dealing with purely user-interface stuff. Anything the user deals with is user interface. So yay, you&rsquo;ll get to see the end result of something written in Svelte! Also to make the page pretty I like to use a project called <a href="https://tailwindcss.com/">TailwindCSS</a> because I don&rsquo;t like using an extra file to tell the browser how to make everything look, which I&rsquo;ve always begrudgingly accepted. But now everyone else has also decided we hate doing that so now we can stop!</p>
+<h4 id="back-end-stuff">Back-End Stuff</h4>
+<p>Feel free to skip this part, but I am more excited about this than the front-end stuff. I&rsquo;m trying to write for a general-audience instead of just dweeby code-nerds, so hopefully it makes some sense and may even offer you a window into wtf happens behind the curtain on websites.</p>
+<p>Right now when Blurt loads the page containing blurts, it loads 250 of them. Then two seconds later, it checks again and downloads them again if they haven&rsquo;t changed. If there has been a change, such as a new Blurt, it.. ..just downloads them again. Every two seconds. Forever. The browser makes a <em>request</em> to my server, and the server sends the <em>response</em> to the request. It&rsquo;s a process called polling and it works fine for this purpose but it isn&rsquo;t very elegant and I don&rsquo;t love it.</p>
+<p>I want to make use of a technology called websockets. Intead of the request/response cycle, the browser and server make a connection and the connection is maintained between them. That way, instead of the constant request-response cycle, the server can just send a new blurt whenever someone else posts one! This wasn&rsquo;t possible the way SvelteKit works, so I need to create a new server that will happily do websockets stuff.</p>
+<p>To write the new server, I will use a language called TypeScript. Most people have heard of Javascript, and it works great in a lot of cases. But there is a concept in computers called &ldquo;typing&rdquo;. <em>types some words</em>. No but for real. Here&rsquo;s the basic idea: the letter &ldquo;c&rdquo; is a character. That&rsquo;s a type. The word &ldquo;cat&rdquo; is a string [of characters]. Strings are types too. There are lots of others and users will usually need to create custom types. In javascript I might write some code that sends a string somewhere else. But what if that code is only expecting a character and a string causes it to break? I&rsquo;m boned! TypeScript is designed to make it so that can&rsquo;t happen. If you write the code that sends a string to somewhere that is expecting a character, TypeScript will give you a stern look and a shaking head while pointing out the error of your ways. It&rsquo;s like a safety net for people like me (and everyone else) who write sort-of pretty shitty code.</p>
+<h3 id="the-nutshell">The nutshell</h3>
+<p>In broad strokes, that&rsquo;s it. Well, not totally. My database is almost as basic as possible, a little guy called sqlite (pronounced like &ldquo;sequel-light&rdquo;). It gets the job done for the like five users a day I get. To talk between the code and the database I have a little helper called <a href="https://prisma.io">prisma</a> which I actually like more than I should for some reason.</p>
+<p>When will this happen? I don&rsquo;t entirely know. In my defense, I can&rsquo;t really remember how to program a server like this, I haven&rsquo;t really done it in a year or so. But luckily there&rsquo;s a million youtube videos to steer me in the right direction. And I&rsquo;ve never used TypeScript in a project before. I figure that to land a job, having a bit of experience with it will be looked at with a sly, knowing grin. Having said that, there&rsquo;s no time like the present, so let&rsquo;s say I start tomorrow night and try to have something together by the end of April? That&rsquo;s a month. If the weather is good I might not do much, but I&rsquo;ll try to put in some honest effort. mmmmkay?</p>
+
+</content>
+<p>
+  
+  <a href="https://sadspiders.ca/blog/coding/">#Coding</a>
+  
+  <a href="https://sadspiders.ca/blog/zestiness/">#Zestiness</a>
+  
+</p>
+
+  </main>
+  <footer>Made with <a href="https://github.com/janraasch/hugo-bearblog/">Hugo ʕ•ᴥ•ʔ Bear</a>
+</footer>
+
+    
+</body>
+
+</html>

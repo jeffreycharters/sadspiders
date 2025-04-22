@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Education on sad spiders</title>
+    <link>https://sadspiders.ca/blog/education/</link>
+    <description>Recent content in Education on sad spiders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-CA</language>
+    <copyright>Copyright © 2022-2025, the spiders.</copyright>
+    <lastBuildDate>Tue, 27 Jun 2023 07:49:07 -0400</lastBuildDate><atom:link href="https://sadspiders.ca/blog/education/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A few quick steps on a long jurney</title>
+      <link>https://sadspiders.ca/a-few-quick-steps-on-a-long-jurney/</link>
+      <pubDate>Tue, 27 Jun 2023 07:49:07 -0400</pubDate>
+      
+      <guid>https://sadspiders.ca/a-few-quick-steps-on-a-long-jurney/</guid>
+      <description>&lt;h1 id=&#34;i-can-code-just-not-well&#34;&gt;I can code, just not well&lt;/h1&gt;
+&lt;p&gt;In my experience, people generally try hard at what they do. There are definitely going to be exceptions to this, but most people will endeavour to show up every day and do something they can feel at least a little bit proud of. Being a people, I find myself in this category. For better or for worse.&lt;/p&gt;
+&lt;h1 id=&#34;lets-keep-this-short&#34;&gt;Let&amp;rsquo;s keep this short&lt;/h1&gt;
+&lt;p&gt;Like thousands of others before me, yesterday was my first performance review as a junior software developer. Despite many, many hours of study and practice and despite over a year of professional experience, I find myself firmly in the (&lt;em&gt;fucking&lt;/em&gt;) Novice category.&lt;/p&gt;
+&lt;p&gt;Ugh.&lt;/p&gt;
+&lt;p&gt;Fair enough. As a consummate professional, I take constructive feedback in my stride. But this one hurts a bit. At this point I&amp;rsquo;m not entirely sure why, aside from the obvious fact that no one really likes to be told that they&amp;rsquo;re less good than they&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;think they are.&lt;/li&gt;
+&lt;li&gt;would like to be.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;wang-computers.jpg&#34; alt=&#34;Martin from &amp;ldquo;The Simpsons&amp;rdquo; wearing his Wang Computers shirt&#34;&gt;&lt;/p&gt;
+&lt;h1 id=&#34;next-steps&#34;&gt;Next steps&lt;/h1&gt;
+&lt;p&gt;I endeavour to become a proficient software developer, to the point where I may even use the word engineer self-referentially without irony. My next performance review is in three months and I really want to have made some vast strides sinces then.&lt;/p&gt;
+&lt;p&gt;So I&amp;rsquo;ll use this to light a fire under my own ass and to improve. And hey, why not bl0g the journey so others might learn from my successes and failures. So hopefully I actually have a good reason to write and share posts and others can read along.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;I can&amp;rsquo;t believe it&amp;rsquo;s not SEO garbage!&amp;quot;™&lt;/p&gt;
+&lt;h1 id=&#34;let-me-try-something-first&#34;&gt;Let me try something first&lt;/h1&gt;
+&lt;p&gt;Just want to see if I have the capability to add code fences to this blog:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#fe8019&#34;&gt;package&lt;/span&gt; main
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#fe8019&#34;&gt;import&lt;/span&gt; (
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#b8bb26&#34;&gt;&amp;#34;fmt&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#fe8019&#34;&gt;func&lt;/span&gt; &lt;span style=&#34;color:#fabd2f&#34;&gt;main&lt;/span&gt;() {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    fmt.&lt;span style=&#34;color:#fabd2f&#34;&gt;Println&lt;/span&gt;(&lt;span style=&#34;color:#b8bb26&#34;&gt;&amp;#34;Sup, nerds!&amp;#34;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;oh yay I can! I thought I could. And I can &lt;code&gt;inline code snippets&lt;/code&gt; too, I think? Oh good.&lt;/p&gt;
+&lt;p&gt;Alright, let&amp;rsquo;s get it on.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

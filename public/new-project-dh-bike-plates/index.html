@@ -1,0 +1,392 @@
+<!DOCTYPE html>
+<html lang="en-CA">
+
+<head>
+  <meta http-equiv="X-Clacks-Overhead" content="GNU Terry Pratchett" />
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="https://sadspiders.ca/favicon.ico" />
+<title>New Project: DH Bike Plates | sad spiders</title>
+<meta name="title" content="New Project: DH Bike Plates" />
+<meta name="description" content="Let&#39;s make our backend look good, a project to help myself" />
+<meta name="keywords" content="coding,dh racing," />
+
+
+<meta property="og:url" content="https://sadspiders.ca/new-project-dh-bike-plates/">
+  <meta property="og:site_name" content="sad spiders">
+  <meta property="og:title" content="New Project: DH Bike Plates">
+  <meta property="og:description" content="Let&#39;s make our backend look good, a project to help myself">
+  <meta property="og:locale" content="en_CA">
+  <meta property="og:type" content="article">
+    <meta property="article:section" content="blog">
+    <meta property="article:published_time" content="2022-08-01T08:30:30-04:00">
+    <meta property="article:modified_time" content="2022-08-01T08:30:30-04:00">
+    <meta property="article:tag" content="Coding">
+    <meta property="article:tag" content="Dh-Racing">
+
+
+
+
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="New Project: DH Bike Plates">
+  <meta name="twitter:description" content="Let&#39;s make our backend look good, a project to help myself">
+
+
+
+
+  <meta itemprop="name" content="New Project: DH Bike Plates">
+  <meta itemprop="description" content="Let&#39;s make our backend look good, a project to help myself">
+  <meta itemprop="datePublished" content="2022-08-01T08:30:30-04:00">
+  <meta itemprop="dateModified" content="2022-08-01T08:30:30-04:00">
+  <meta itemprop="wordCount" content="555">
+  <meta itemprop="keywords" content="Coding,Dh-Racing">
+<meta name="referrer" content="no-referrer-when-downgrade" />
+
+  <style>
+  body {
+    font-family: 'Roboto Sans', Verdana, sans-serif;
+    margin: auto;
+    padding: 20px;
+    max-width: 720px;
+    text-align: left;
+    background-color: #fff;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
+    line-height: 1.5;
+    color: #444;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  strong,
+  b {
+    color: #222;
+  }
+
+  h1 {
+    font-size: 1.50rem;
+  }
+
+  h2 {
+    font-size: 1.25rem
+  }
+
+  h3 {
+    font-size: 1.15rem;
+  }
+
+  a {
+    color: #3273dc;
+     
+  }
+
+  .title {
+    text-decoration: none;
+    border: 0;
+  }
+
+  .title span {
+    font-weight: 400;
+  }
+
+  nav a {
+    margin-right: 10px;
+  }
+
+  textarea {
+    width: 100%;
+    font-size: 16px;
+  }
+
+  input {
+    font-size: 16px;
+  }
+
+  content {
+    line-height: 1.6;
+  }
+
+  table {
+    width: 100%;
+  }
+
+  img {
+    max-width: 100%;
+  }
+
+  code {
+    padding: 2px 5px;
+    background-color: #f2f2f2;
+  }
+
+  pre code {
+    color: #222;
+    display: block;
+    padding: 20px;
+    white-space: pre-wrap;
+    font-size: 14px;
+  }
+
+  div.highlight pre {
+    background-color: initial;
+    color: initial;
+    border-radius: 0.5rem;
+  }
+
+  div.highlight code {
+    background-color: unset;
+    color: unset;
+  }
+
+  blockquote {
+    border-left: 1px solid #999;
+    color: #222;
+    padding-left: 20px;
+    font-style: italic;
+  }
+
+  footer {
+    padding: 25px;
+    text-align: center;
+  }
+
+  .helptext {
+    color: #777;
+    font-size: small;
+  }
+
+  .errorlist {
+    color: #eba613;
+    font-size: small;
+  }
+
+   
+  ul.blog-posts {
+    list-style-type: none;
+    padding: unset;
+  }
+
+  ul.blog-posts li {
+    display: flex;
+  }
+
+  ul.blog-posts li span {
+    flex: 0 0 160px;
+  }
+
+  ul.blog-posts li a:visited {
+    color: #8b6fcb;
+  }
+
+  @media (max-width: 768px) {
+    body {
+      font-size: 0.9rem;
+    }
+
+    .title-bar {
+      justify-content: space-between;
+    }
+  }
+
+  @media (prefers-color-scheme: dark) {
+    body {
+      background-color: #333;
+      color: #ddd;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    strong,
+    b {
+      color: #eee;
+    }
+
+    a {
+      color: #8cc2dd;
+    }
+
+    code {
+      background-color: #777;
+    }
+
+    pre code {
+      color: #ddd;
+    }
+
+    blockquote {
+      color: #ccc;
+    }
+
+    textarea,
+    input {
+      background-color: #252525;
+      color: #ddd;
+    }
+
+    .helptext {
+      color: #aaa;
+    }
+  }
+
+  .spider {
+    color: hsl(348, 50%, 50%);
+    font-weight: bolder;
+    font-size: 1rem;
+    transform: translateY(0.25rem) rotate(5deg);
+  }
+
+  .title-bar {
+    display: flex;
+    align-items: baseline;
+    gap: 1rem;
+  }
+</style>
+</head>
+
+<body>
+  <header><a href="https://sadspiders.ca/" class="title">
+  <div class="title-bar">
+    <h1>sad spiders</h1>
+    <div class="spider" aria-hidden="true">ᄽ (◕ ⌢ ◕) ᄿ</div>
+  </div>
+</a>
+<nav><a href="https://sadspiders.ca/">Home</a>
+
+<a href="https://sadspiders.ca/about/">About</a>
+
+<a href="https://sadspiders.ca/projects/">Projects</a>
+
+
+<a href="https://sadspiders.ca/blog">Blog</a>
+
+</nav></header>
+  <main>
+
+<h2>New Project: DH Bike Plates</h2>
+<p>
+  <i>
+    <time datetime='2022-08-01' pubdate>
+      August 1, 2022
+    </time>
+  </i>
+</p>
+
+<content>
+  <h3 id="introduction---problem-description">Introduction - Problem Description</h3>
+<p>As everyone who knows me knows, it is not often that you can get through a conversation with me without having bikes come up.</p>
+<p>And since I am a lot lazier than people like to think, I would rather watch biking than participate. So every year I make sure to follow the <a href="https://www.uci.org/calendar/mtb/1voMyukVGR4iZMhMlDfRv0?discipline=MTB">UCI Downhill Mountain Bike World Cup</a> (<em>Union Cycliste Internationale</em>) and watch all of the races lives where possible.</p>
+<p>During the run-up to each event, a number of media outlets provide video of practice runs to get an idea of what the track is looking like and how various riders are tackling the difficult sections of track. Althought I very much appreciate what they do, it irks me a bit that they don&rsquo;t include each rider&rsquo;s name on screen to know whom&rsquo;s who. Further complicating things, the plate number for each rider changes <em>every single stupid race</em>, which means you can&rsquo;t even just memorize plate  numbers.</p>
+<h3 id="my-solution">My solution</h3>
+<p>Since the plate number is based on the riders&rsquo; current UCI ranking, I&rsquo;m going to take the information from UCI&rsquo;s website and add it to a database using <a href="https://planetscale.com">Planetscale</a> and their generous free tier to see hwow things go. I want to add Prisma as on ORM because I like using Prisma as an ORM. I&rsquo;ll start out by simply creating a backend API using TypeScript and <a href="http://expressjs.com">Express</a>. It will start out being <strong>really</strong> bare-bones, since I want this up and running by mid-week in it&rsquo;s most basic form.</p>
+<p>Once I have the backend up, I will write a <em>very</em> simple front-end, probably using Svelte (and Tailwind for prettification) to consume the API. Since this is going to be primarily a mobile app so I can use it while plopped in front of the TV, I have grand plans of using a touch-based quick-scroll mechanism, I&rsquo;ll see how easy that will be to implement.</p>
+<p>Short term, I may just have to print the information on-screen and have a font-size adjuster so we can get the information as quickly available as possible. This is required because there is no real pattern in the footage being shown in these videos &ndash; you may need to jump from plate 35 of the Elite Women to plate 87 for Elite Men to plate 1 of the Junior Men, so an intuitive interface will be required.</p>
+<h3 id="downsides">Downsides</h3>
+<p>I really want to write a project using Test-Driven Development (TDD). Unfortunately, I want this done <em>fast</em> rather than <em>well</em> so it won&rsquo;t happen right yet. However, I may continue this project into the winter which could allow for TDD of future functionality. My time limit and &ldquo;would rather have it work than work well&rdquo; attitude wil preclude <em>any</em> unit testing during the initial roll-out.</p>
+<h3 id="requirements">Requirements</h3>
+<ul>
+<li><input disabled="" type="checkbox"> set up dummy data</li>
+<li><input disabled="" type="checkbox"> set up basic API with Express</li>
+<li><input disabled="" type="checkbox"> set up Planetscale DB</li>
+<li><input disabled="" type="checkbox"> write Prisma schema and sync with DB</li>
+<li><input disabled="" type="checkbox"> verify API works as expected</li>
+<li><input checked="" disabled="" type="checkbox"> make entire front-end first?!</li>
+</ul>
+<h2 id="deadline">Deadline</h2>
+<p>There is a race this week, meaning footage should start rolling out in about two or three days. I want to have <em>something</em> in place and working by then. Even if it&rsquo;s just a big list of all the riders.</p>
+<p><strong>Best case:</strong>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img 
+  sizes="(min-width: 35em) 1200px, 100vw"
+  srcset='https://sadspiders.ca/new-project-dh-bike-plates/best-case_hu4972109061168556998.jpg 500w, https://sadspiders.ca/new-project-dh-bike-plates/best-case_hu4011339289667783077.jpg 800w, https://sadspiders.ca/new-project-dh-bike-plates/best-case_hu6747575091073472814.jpg 1200w'
+  
+    src="https://sadspiders.ca/new-project-dh-bike-plates/best-case.jpg" 
+  
+  alt="Stylish rider jumping between two trees"></p>
+<p><strong>Worst case:</strong>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img 
+  sizes="(min-width: 35em) 1200px, 100vw"
+  srcset='https://sadspiders.ca/new-project-dh-bike-plates/worst-case_hu5510906766473660246.jpg 500w, https://sadspiders.ca/new-project-dh-bike-plates/worst-case_hu8367088164697626681.jpg 800w, https://sadspiders.ca/new-project-dh-bike-plates/worst-case_hu765702448599650213.jpg 1200w'
+  
+    src="https://sadspiders.ca/new-project-dh-bike-plates/worst-case.jpg" 
+  
+  alt="Rider on their back after a crash with their bike airborne beside them"></p>
+<p>On the flipside, there&rsquo;s a race next weekend! I encourage everyone to get on board, it&rsquo;s exciting to watch!!</p>
+
+</content>
+<p>
+  
+  <a href="https://sadspiders.ca/blog/coding/">#Coding</a>
+  
+  <a href="https://sadspiders.ca/blog/dh-racing/">#Dh-Racing</a>
+  
+</p>
+
+  </main>
+  <footer>Made with <a href="https://github.com/janraasch/hugo-bearblog/">Hugo ʕ•ᴥ•ʔ Bear</a>
+</footer>
+
+    
+</body>
+
+</html>

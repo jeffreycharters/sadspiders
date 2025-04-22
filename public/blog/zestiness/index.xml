@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zestiness on sad spiders</title>
+    <link>https://sadspiders.ca/blog/zestiness/</link>
+    <description>Recent content in Zestiness on sad spiders</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-CA</language>
+    <copyright>Copyright © 2022-2025, the spiders.</copyright>
+    <lastBuildDate>Mon, 21 Apr 2025 19:14:26 -0400</lastBuildDate><atom:link href="https://sadspiders.ca/blog/zestiness/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Training Update: April 2025</title>
+      <link>https://sadspiders.ca/training-update-april-2025/</link>
+      <pubDate>Mon, 21 Apr 2025 19:14:26 -0400</pubDate>
+      
+      <guid>https://sadspiders.ca/training-update-april-2025/</guid>
+      <description>&lt;h3 id=&#34;preamble&#34;&gt;Preamble&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;ve been meaning to update this for a while. But I&amp;rsquo;ve been training and whatnot. So I never wrote a blog entries about how training has been going.&lt;/p&gt;
+&lt;p&gt;The race is in 6 days. I have begun my taper period where the volume of training (but not intensity) is diminished. This should result in my maintaining fitness but allowing my body to fully recover so that by race day I&amp;rsquo;m all fired up and ready to haul ass.&lt;/p&gt;
+&lt;h3 id=&#34;how-things-have-been-since-february-of-this-year&#34;&gt;How things have been since February of this year&lt;/h3&gt;
+&lt;p&gt;Nuts to that lets go back to December. I&amp;rsquo;ve screen-grabbed from &lt;a href=&#34;https://intervals.icu&#34;&gt;intervals.icu&lt;/a&gt; a visual representation of my training load since December, when I started training for this year&amp;rsquo;s Paris to Ancaster race:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./fitness.png&#34; alt=&#34;a figure showing the fitness of the author increasing then somewhat leveling off since December 2024&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The main thing that is of concern in this graph is the blue line, which is the long-term training load. When I began in December, that number was 9, which may in reality be a mild underestimated but close enough. In my last update at the start of February, it was 37. Today as I write this, it stands at 54, a slight decrease from its peak at 56. Woo! So what does that mean? Between the amount of time spent on the bike (volume), and the effort of each of those rides (intensity), my training load has increased a shit-ton since I started this season.&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s an example. In the winter, I rode 5 days a week, and the power profile of a workout looked like this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./foundation_power.png&#34; alt=&#34;a power profile showing five intervals of six minutes each with average power of 166w per interval and heart rate around 140 bpm&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This was of course the base phase, but I remember even during this time that my quad muscles were often tired and sore. Which was good, I feel like I built myself up in a decent amount of time instead of being ridiculous and being in a lot of pain or running out of gas and getting discouraged as I so often do. More recent rides have looked more like the following:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./recent_power.png&#34; alt=&#34;a power profile with many intervals of varying duration and power levels&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This was a challenging-but-doable ride. I definitely came off the bike one hell of a lot sweatier than the ride in the previous image. But I would say my legs were no more sore than they were after the easier sessions. So, good! Training achieved!&lt;/p&gt;
+&lt;h3 id=&#34;that-blip-in-the-training-load-figure&#34;&gt;That blip in the training load figure?&lt;/h3&gt;
+&lt;p&gt;Work went haywire. Extra stress, extra brainpower. According to my Garmin watch, my heart rate variability (HRV) was showing that my stress wasn&amp;rsquo;t being managed well. I dread overtraining and/or burnout, so I hit the brakes for a while then just rested for five days, which is where the form line underneath that blue line briefly turns blue as well. That indicates my training status was &lt;em&gt;fresh&lt;/em&gt;. And what do you do when you&amp;rsquo;re fresh?&lt;/p&gt;
+&lt;p&gt;FTP tests!&lt;/p&gt;
+&lt;p&gt;So I was all fired up from having rested for a few days and decided to go hard. I put on Andrew WK&amp;rsquo;s masterpiece &amp;ldquo;I Get Wet&amp;rdquo; and set out to do a Zwift ramp test, which is a great way to overestimate FTP but this is the way I did my first test so may as well be consistent. Have a look:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./ramp_test.png&#34; alt=&#34;a bunch of squiggly lines from the ramp test. most important is the power profile which peaks at 360W for a few seconds&#34;&gt;&lt;/p&gt;
+&lt;p&gt;So the test starts with a warm-up, then you ride at 100 W for one minute. Then you ride at 120 W for one minute. And so on and so forth until you literally cannot push the pedals any further. At which point a little window pops up and says &amp;ldquo;you done?&amp;rdquo; and the acknowledgement says &amp;ldquo;I&amp;rsquo;m Toast&amp;rdquo; which hopefully you feel honest in pressing in that moment. Then I forget but it&amp;rsquo;s something like 75% of your best minute of power is your FTP, which is kind of like weight in that its mainly an estimate and no one is entirely truthful about theirs.&lt;/p&gt;
+&lt;p&gt;So in December when I started, my FTP was clocked in at 225 W. According to this test on March 28, my FTP was estimated at 261 W! That&amp;rsquo;s a 16% improvement in four months, I&amp;rsquo;ll take it! However, my two other training programs (intervals.icu and Xert) both set my FTP at 250 W based on probably more realistic algorithms so I&amp;rsquo;ll use that. But still, yay me! I am actually a little amazed that effort and consistency actually make a difference.&lt;/p&gt;
+&lt;p&gt;Downside: the difference between 225 W and 250 W is 11%, so all of my workouts just became 11% more difficult which actually kinda sucks shit for the first couple of weeks. And now we rinse and repeat.&lt;/p&gt;
+&lt;h3 id=&#34;the-future&#34;&gt;The future&lt;/h3&gt;
+&lt;p&gt;One more week of easier rides, it&amp;rsquo;s nice to look forward to summer. Not entirely sure what will happen after the race on Sunday. The local mountain bike trails should be thawed, so hopefully I am inspired to go out for lots of rides and enjoy the great outdoors. We&amp;rsquo;re probably going to sign up for another race in early June, so I don&amp;rsquo;t think that structured training will be too far away, but I also think it&amp;rsquo;s probably good to just ride to work and have some adventures and not just get weird about numbers. No orthotrainia.&lt;/p&gt;
+&lt;p&gt;I think I&amp;rsquo;ve got all my nutrition sorted for the ride, hopefully my gear will be suitable for the myriad possible temperatures on race day. And really, I hope I have fun and have the mental clarity to enjoy race day.&lt;/p&gt;
+&lt;h3 id=&#34;denouement&#34;&gt;Denouement&lt;/h3&gt;
+&lt;p&gt;I am glad I purchased my trainer. It gave me something to think about over the winter, and has hopefully let me feel good about myself. I enjoy having these objective numbers that I can&amp;rsquo;t poo-poo when I am feeling dumpy. There&amp;rsquo;s hard evidence that fitness is improving, and that is good for me.&lt;/p&gt;
+&lt;p&gt;A few more rides, lots of rest and hopefully some good healthy meals and it&amp;rsquo;s game on.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Training Update: February 2025</title>
+      <link>https://sadspiders.ca/training-update-feb-2025/</link>
+      <pubDate>Sun, 02 Feb 2025 15:29:26 -0400</pubDate>
+      
+      <guid>https://sadspiders.ca/training-update-feb-2025/</guid>
+      <description>&lt;h3 id=&#34;preamble&#34;&gt;Preamble&lt;/h3&gt;
+&lt;p&gt;At some point last year like the dumbass that I am, I thought it would be a good idea to spend my wellness money from work on a pair of relatively cheap &lt;a href=&#34;https://www.elite-wheels.com/product/elitewheels-drive-g45-ss-gravel-bike-carbon-wheels/&#34;&gt;aero rims&lt;/a&gt; from China.&lt;/p&gt;
+&lt;p&gt;But then I did some soul searching because I realized I was trying to throw money at riding faster. If you do a quick doodle search, you&amp;rsquo;ll quiclkly learn that getting aero rims is &lt;a href=&#34;https://www.cyclingnews.com/features/get-aero-for-less-we-rank-bike-upgrades-ranked-by-watts-saved-vs-cost/&#34;&gt;one of the most dogshit ways to spend your money to get faster&lt;/a&gt;. So there&amp;rsquo;s that.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a bang-for-your-buck kind of guy. So I threw that plan into my mental recycle bin and hatched a new plan: I&amp;rsquo;m going to actually train and see if that can make me faster. So I bought a Wahoo Kickr Core smart trainer and here we are.&lt;/p&gt;
+&lt;h3 id=&#34;how-things-started-december-2024&#34;&gt;How things started: December 2024&lt;/h3&gt;
+&lt;p&gt;I hooked up the trainer and subscribed to Zwift and went and did an FTP test. FTP is functional threshold power, which is the estimated amount of power one can sustain for an hour and underscores a lot of what you do while training. My inital estimated FTP according to a Zwift ramp test was &lt;strong&gt;225 watts (W)&lt;/strong&gt;. I don&amp;rsquo;t know if this is good or bad. I feel like it should have been higher but that&amp;rsquo;s the number I am working with for now. The next day I do a benchmark ride and it seems right. Sorry, my pride.&lt;/p&gt;
+&lt;p&gt;I enroll in the FTP Builder workout on Zwift a 6-week set of workouts with about four or five sessions a week. I start training. I train good!&lt;/p&gt;
+&lt;p&gt;At this point I decide that if I&amp;rsquo;m going to be sitting in my basement for hours trying to be more fitter that it&amp;rsquo;s a good investment to get a &lt;a href=&#34;https://sadspiders.ca/bike-fit-grimey&#34;&gt;bike fit&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;We can jump ahead to about January 18th, the end of the FTP Builder program. All is well, I am nervous about burning out but have been sensible about it and used &lt;a href=&#34;https://intervals.icu&#34;&gt;intervals.icu&lt;/a&gt; to track my recovery/form. My new FTP? Well, here&amp;rsquo;s the rub: &lt;em&gt;I never checked my FTP at the end of the FTP Builder&lt;/em&gt;. I know. I&amp;rsquo;m a bad content creator.&lt;/p&gt;
+&lt;p&gt;So y I no check? I was looking at my options for the next level of my training. The most obvious was &lt;a href=&#34;https://www.trainerroad.com/&#34;&gt;TrainerRoad&lt;/a&gt;, but I ended up putting my trust into a more local choice - &lt;a href=&#34;https://xertonline.com&#34;&gt;Xert&lt;/a&gt;. This platform uses all the info from my trainer to determine that workouts that will help me reach my goals.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./intervals.png&#34; alt=&#34;a calendar showing a ride almost every day for the past two weeks&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Having something give me options for workouts is nice because it makes it so there&amp;rsquo;s one less thing I have to think about and they have enough variety to keep me from getting overbored.&lt;/p&gt;
+&lt;h3 id=&#34;how-its-going&#34;&gt;How it&amp;rsquo;s going&lt;/h3&gt;
+&lt;p&gt;So Xert has been providing a number of suggestions for workouts for me. I&amp;rsquo;ve gone from a weekly training stress score (a measure of how much training you&amp;rsquo;re doing) from 252 in early December to this week being 399. They provide a graph showing roughly this as the blue line on the following chart from intervals.icu:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./fitness.png&#34; alt=&#34;a figure showing the fitness of the author increasing since December 2024&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Ignore the purple line which shows Fatigue (7 day weighted average of training load) but lets focus on the blue line which is Fitness (42-day weighted average of training load). It makes me happy and keeps me motivated for now to see that line going up and up. Apparently I&amp;rsquo;ve vastly increased my training load but I still feel about as tired as when I was much earlier on in the program: I may actually be getting more fit!&lt;/p&gt;
+&lt;p&gt;The green line underneath is Form, which is Fitness minus Fatigure. The line being green is good, means I am increasing fitness at a sustainable level. Red is bad and risks burnout, grey is stagnation and means I am not improving. Once I am race-ready I will ramp down the training load which will increase that line hopefully into the &amp;ldquo;Fresh&amp;rdquo; blue category and my body will just be jonesing to give&amp;rsquo;er at that point. Neat.&lt;/p&gt;
+&lt;h3 id=&#34;where-were-going-next&#34;&gt;Where we&amp;rsquo;re going next&lt;/h3&gt;
+&lt;p&gt;So in plain english, I&amp;rsquo;m doing easy rides these days. Relatively so. I did a two hour ride this morning and was tired but still feeling quite good afterwards. A few hours later I did some weighted lunges and single-leg Romanian deadlifts and stuff to try to add a bit of extra strength.&lt;/p&gt;
+&lt;p&gt;The Xert program I am currently using is event preparation. I told them about my target event (P2A at end of April) and it has set me up with a three phase program: Base-Build-Peak.&lt;/p&gt;
+&lt;p&gt;Right now I am nearing the end of the &lt;strong&gt;Base&lt;/strong&gt; phase of the program. This is ultimately the answer to why I didn&amp;rsquo;t do an FTP test. It doesn&amp;rsquo;t fit with my updated plan. The base phase is just adding a lot of training volume (time) without adding much intensity. My body making a bunch of new mitochondrias and getting good at turning glycogen into lactate and then turning the lactate back into glycogen. Training my quadriceps to recruit lots of muscle fibers in case some start to get tired.  Increase my red blood cells count so that I can move them oxygens through my bloodstream more easier.&lt;/p&gt;
+&lt;p&gt;Next up is the &lt;strong&gt;Build&lt;/strong&gt; phase, which starts around February 11, I think. I have a feeling that that&amp;rsquo;s where the suffering is going to increase substantially. The workouts will start adding much more high-intensity intervals to increase my VO2Max, the amount of oxygen my body can process and get to the muscles over a given time. But this comes at the expense of overriding the signals that my legs are sending that they&amp;rsquo;ve had enough. But hey, I guess that&amp;rsquo;s training.&lt;/p&gt;
+&lt;p&gt;The final phase is the &lt;strong&gt;Peak&lt;/strong&gt; phase. In my case as an amateur weekend warrior, this will involve more of an increase in training load and more specific intervals to really push the body to its limits before tapering before coming back stronger. I&amp;rsquo;m really going to be monitoring my form and recovery during this phase because this is where the risk of overtraining is real.&lt;/p&gt;
+&lt;h3 id=&#34;denouement&#34;&gt;Denouement&lt;/h3&gt;
+&lt;p&gt;So far, so good. Hopefully fitness is improving just by showing up for every session.&lt;/p&gt;
+&lt;p&gt;Motivation is still high, looking forward to the race. Not looking forward to more high-intensity intervals but yes interested to see what Xert estimates my FTP at once I get to that point.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Grimey fits me now!</title>
+      <link>https://sadspiders.ca/bike-fit-grimey/</link>
+      <pubDate>Mon, 13 Jan 2025 17:38:26 -0400</pubDate>
+      
+      <guid>https://sadspiders.ca/bike-fit-grimey/</guid>
+      <description>&lt;p&gt;Since I&amp;rsquo;ve started doing longer rides, I&amp;rsquo;ve always been fighting through some niggle or another. Well, that might not be entirely true. When I first got &lt;a href=&#34;./the-windiest-135km-bike-ride&#34;&gt;Grimey&lt;/a&gt; I had a Brooks leather saddle and it was comfortable as heck until I got rid of it because it was leather and my bike stuff needs to be able to get wet and muddy and love it and not need any coddling. So ever since then on long rides, my shoulders get sore and my trapeziuses get sore and my perineal area gets sore and so on and so forth.&lt;/p&gt;
+&lt;h3 id=&#34;crushing-basement-kay-ems&#34;&gt;Crushing basement Kay-ems&lt;/h3&gt;
+&lt;p&gt;As part of my newfound dream of getting a bit faster, I decided to lay out some self-improvement bucks and grab a WAHOO Kickr Core smart trainer and a subscription to Zwift. Sorry no affiliate link for trainer but hey get a &lt;a href=&#34;https://www.zwift.com/invite/JtsLTQfeEK&#34;&gt;free month of Zwift!&lt;/a&gt;. So now I get to ride Grimey all winter in the basement and also enjoy some crappy graphics. Thanks, Zwift!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./zwift-setup.jpg&#34; alt=&#34;Towel, water, fan, dog. Ready to virtual ride&#34;&gt;&lt;/p&gt;
+&lt;p&gt;So at some point last year I decided that a good way to get faster was to &lt;em&gt;throw money at the problem&lt;/em&gt; which is always a good thing to try. It keeps the economy going which is very, very important to consider when doing literally anything. But then at some point I realized: that&amp;rsquo;s stupid! I was trying to buy my way to faster when what I should have been doing was &lt;em&gt;buying myself faster but in a different way&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;After some serious soul searching I realized that it&amp;rsquo;s not Grimey&amp;rsquo;s fault that I&amp;rsquo;m not riding Grimey faster. It&amp;rsquo;s &lt;strong&gt;my&lt;/strong&gt; fault and I need to start taking some responsibility for my actions. DAMN IT, I hate taking responsibility for my actions. So I got the trainer and all that and resolved to open up the new year by finally spending some of the Wellness Money from my benefits plan to get a professional bike fit from the Local Bike Shop. I was hesitant. What can this idiot know that twenty minutes of youtube videos can&amp;rsquo;t teach you? Well, a lot as it turns out.&lt;/p&gt;
+&lt;h3 id=&#34;getting-knocked-down-a-few-pegs&#34;&gt;Getting knocked down a few pegs&lt;/h3&gt;
+&lt;p&gt;First off, my bike is the right size for me. You hear that, Grimey? They&amp;rsquo;re not going to force us apart! However, over the two hours that Tim the Bike Fitter and I spent together, there were a number of changes to help improve my situation.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;My arches are high! Need to add some fresh insoles to support those things.&lt;/li&gt;
+&lt;li&gt;Based on the insoles removed from the shoes, all of the pressure was on the ball of the foot right behind the big toe. This is less than ideal! Spread the power across the entire pedal spindle. This should help to align the leg from hip to toe and decrease injury likliehood. This is something for me to consciously work on.&lt;/li&gt;
+&lt;li&gt;I ride in a toe-down style. This is less than ideal for power transfer and biomechanics. Now I need to also work on keeping my heel down throughout the pedal stroke. Hold on, I need to write this down.
+&lt;ul&gt;
+&lt;li&gt;Spread power across all metatarsals&lt;/li&gt;
+&lt;li&gt;Keep heel down while pedalling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;So wait, is there a reason why I pedal in that way? Oh, my hamstrings are tight as heck. So now I get some exercises to do to lengthen and strengthen the backside of my lower body. Romanian deadlifts and glute bridges. Yay, homework!&lt;/li&gt;
+&lt;li&gt;Oh and also as a result of tight hamstrings I am also rounding my back to give them a little extra space. Also because I have bad posture in general like literally everyone else.
+&lt;ul&gt;
+&lt;li&gt;Keep a neutral spine while riding.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;I complained of pain in the perineal area, which is more commonly known by another more crass name. Anyway, I don&amp;rsquo;t sit far enough back on the seat. Like an asshole! So I need to make sure I sit further back on the seat as well. This should help keep the pressure on the sit bones and not the soft fleshy perineal area. We leaned the seat forward a couple of degrees as well. I think at some point I tipped it back to try to not slide forward but clearly that didn&amp;rsquo;t work.&lt;/li&gt;
+&lt;li&gt;Handlebars rotated forwards but brifters rotated towards me and also angled inwards. This allows a more full grip to distribute pressure across the hands and anglaed inwards to increase aero and maybe also comfort.&lt;/li&gt;
+&lt;li&gt;Also we replaced my ten-years-of-riding cleats which it turns out has a massive difference. New cleats just lock you right down to the pedals. I like it!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;before-and-afters&#34;&gt;Before and afters!&lt;/h3&gt;
+&lt;p&gt;Look, words are stupid. Lets just have a look at the before picture:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./chartersprefit.jpg&#34; alt=&#34;A profile picture of the author on his bike with a rounded back, awkward arm position and pointed toes&#34;&gt;&lt;/p&gt;
+&lt;p&gt;So obviously I look like a hack and that if I&amp;rsquo;m ever able to ride more than 50 feet without falling off it&amp;rsquo;d be a miracle. Well, maybe it just looks uncomfortable for more than an hour of riding at a time. Okay so now let&amp;rsquo;s compare with the after:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./charterspostfit.jpg&#34; alt=&#34;A profile picture of the author on his bike with near perfect form after fitting&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Okay yeah it looks the exact same to most people. So here&amp;rsquo;s a flip-flop of before and after:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./animation.gif&#34; alt=&#34;Animation of the two previous pictures making differences more obvious&#34;&gt;&lt;/p&gt;
+&lt;p&gt;See?! You can also see we made the stem more longer (part that holds handlebars).&lt;/p&gt;
+&lt;h3 id=&#34;verdict&#34;&gt;Verdict?&lt;/h3&gt;
+&lt;p&gt;I like it! I&amp;rsquo;ve been doing my exercises and trying to be disciplined about spreading out power across the spindle, keep my heel low, keeping a neutral spine and getting my ass back on the seat. I&amp;rsquo;ve done a two hour ride on an indoor trainer and it was not awful! Sure I had to stand a couple of times to relieve some pressure spots but nothing major. So yes, given that I had a few bucks that I was able to spend on it, I am glad to have made this investment.&lt;/p&gt;
+&lt;p&gt;Riding indoors is a great way to keep fit in the winter. If increasing comfort and minimizing injuries will help make it less awful, I&amp;rsquo;m all for it.&lt;/p&gt;
+&lt;p&gt;Bike fits = good. Not like Bike Rage fits, but this kind.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Race Report: Paris to Ancaster 2024</title>
+      <link>https://sadspiders.ca/paris-ancaster-2024/</link>
+      <pubDate>Thu, 20 Jun 2024 17:38:26 -0400</pubDate>
+      
+      <guid>https://sadspiders.ca/paris-ancaster-2024/</guid>
+      <description>&lt;p&gt;The Paris-Ancaster bike race is a multi-surface event with a variety of distances that occurs each year in the spring. We – myself and my friend Michael – chose the 68 km distance. He wants to do the race as a birthday gift to himself. I sign on because I have no good reason not to. Let&amp;rsquo;s just get right into this.&lt;/p&gt;
+&lt;h3 id=&#34;gearing-up&#34;&gt;Gearing Up&lt;/h3&gt;
+&lt;p&gt;The weather report heading towards race day started narrowing in on unseasonable warmth and humidity, also possibly rain but maybe not rain. I hum and hah about what to wear. In the end I throw a variety of crap into a bag and I can make my decision at the last minute based on how things feel at the start gate.&lt;/p&gt;
+&lt;p&gt;For my own records, I put a 60mm stem onto Grimey (from 90mm?) to reduce the reach which I think increased comfort. Maybe end up with 70mm but an improvement for sure.&lt;/p&gt;
+&lt;h3 id=&#34;on-training&#34;&gt;On Training&lt;/h3&gt;
+&lt;p&gt;From sometime in the winter until race day, I did a decent number of multi-hour zone 2 rides throughout the late-winter. I had some other stressful stuff happening in the background so I wasn&amp;rsquo;t able to do as much intense training (HIIT) as I&amp;rsquo;d hoped. &lt;em&gt;Note for next year:&lt;/em&gt; Do waytf more HIIT. Whether it be hills or just timed higher-intensity stretches of rail trail, need to deffo up the intensity. Why? Because riding three hours at above-training-level pace is less than ideal. Will hopefully be able to carry more base load into the winter this year so that we can come out swinging next spring. Also note: pistol squats, plyo leg stuff. Get strong AF. Which is for me at least a little bit strong.&lt;/p&gt;
+&lt;h3 id=&#34;on-the-bike&#34;&gt;On the bike&lt;/h3&gt;
+&lt;p&gt;For my own future reference, and I must insist that I am not proud of my setup, here is some the crap I had hanging off my ride and can be seen in the photos below:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Ass Savers Win Wing&lt;/strong&gt; (road width) fender on the back wheel. I liked not having the skunk-stripe and coldness up my ass and it never seemed to get clogged or anything. Might work again in the future, probably worth investing in the wider gravel variant. And shit, maybe even a &lt;strong&gt;classic-style Ass Saver&lt;/strong&gt; would be suffish.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Ass savers mini-mudder&lt;/strong&gt; front mud guard. This thing clogged up like 9 times once we got into the thick tacky mud. It can go to hell. Commuting yes, &lt;strong&gt;racing hell no.&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Apidura seat bag:&lt;/strong&gt; I don&amp;rsquo;t think I ever pulled anything out of this, was probably just a weight penalty with no real gain. However it&amp;rsquo;s also actually very light, so it might be worth including a few tools and pump and crap in there but keep it as light as possible. There&amp;rsquo;s about a 0% chance you&amp;rsquo;re going to pull over and get something out of this bag or add to it unless absolutely necessary.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Apidura stem bag:&lt;/strong&gt; this is where the magic should be stored, but maybe need to find a way to organize shit better. First, don&amp;rsquo;t bring apple cinammon energy bars. I love apple cinammon energy bars, but you don&amp;rsquo;t feel like trying to chow down on them when your heart rate isn&amp;rsquo;t dropping below 160bpm and you don&amp;rsquo;t want some lycra-clad superChad to blast past you while you waste your energy on not choking today (which is actually a great use of energy). &lt;em&gt;Bring gels instead.&lt;/em&gt; Like &lt;em&gt;so many&lt;/em&gt; gels. Cram your water bottles full of gatorade. Carbs! Always carbs! Just keep a ton of sugar in this thing. Maybe even just cram the phone in here too. I had it in a jersey pocket and it was fine but got pretty gritty and scraped off a bunch of finish.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Furthermore, I ran a pair of 35mm width &lt;strong&gt;Schwalbe G One RS tires.&lt;/strong&gt; Although these are great tires, I feel like something like my stock 40mm Maxxis Rambler might offer a little bit more grip and float in the muddier sections without adding much rolling resistance in the tarmac and gravel sections. Something to consider moving forward.&lt;/p&gt;
+&lt;h3 id=&#34;race-day&#34;&gt;Race Day!&lt;/h3&gt;
+&lt;p&gt;I got surprisingly decent sleep the night before the race, and was up pretty early to finalize prep before Andrew, my chuffeur-and-photographer for the day, came by. Weather radar looks like rain will be likely, settle on wearing a normal short-sleeve jersey with a rain jacket over top. Also jeans. Yeah jeans. I just can&amp;rsquo;t do lycra. I &lt;em&gt;won&amp;rsquo;t&lt;/em&gt; do lycra. I will end up being refered to as &amp;ldquo;jeans guy&amp;rdquo; by a number of fellow riders.&lt;/p&gt;
+&lt;p&gt;For some stupid reason there is an officer blocking the route to the venue, so we double back and try another route. It gets us closer but we encounter more closed roads. We make the decision for me to ride the final 2km to the venue and Andrew would toddle off to scout his locations.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./01-shoes-on.jpg&#34; alt=&#34;Getting them shoes done up&#34;&gt;
+&lt;img src=&#34;./02-before-shot.jpg&#34; alt=&#34;K let&amp;rsquo;s go&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I find Michael in the parking lot-slash-quarry where the race starts, strap my plate to the handlebars and do some quick warm up spins. I&amp;rsquo;m nervous but no one really seems to give a crap that I exist. A light rain falls as we start getting into the right corral for our start. Thinking positive though! I like rain, this will play to my benefit!&lt;/p&gt;
+&lt;h3 id=&#34;race-start&#34;&gt;Race Start!&lt;/h3&gt;
+&lt;p&gt;So we&amp;rsquo;re in the start corral, I think we&amp;rsquo;re at the back of &lt;strong&gt;Wave 2&lt;/strong&gt;. There&amp;rsquo;s a lot of people around wearing team kit, making me feel inadequate for sure in my jeans. Oh well, I hopefully have got this and won&amp;rsquo;t somewhow embarass myself over the next few hours. As the time ticks down, everyone looks around nervously. Once the first wave is gone, we move up to fill the void they&amp;rsquo;ve left. I question my decisions leading up to this point. I remind myself that I&amp;rsquo;m just going to race my race and not get caught up with everyone else and going too hard out of the gate.&lt;/p&gt;
+&lt;p&gt;As soon as the start gun goes off to set us loose on the course, I abandon my resolve to race my own race. This pack of several hundred people set off and the speed is hard to resist. Michael and I are separated very early on. I see him a few riders ahead of me and step on the gas to catch up. He&amp;rsquo;s a group of riders ahead of me. We go through a farmer&amp;rsquo;s field, through some real muddy bits and he&amp;rsquo;s gone. I think he&amp;rsquo;s ahead of me so I jam on the gas again to find him. I stay on the gas. I am flying but also I am dying.&lt;/p&gt;
+&lt;p&gt;At some point we get onto some tarmac and I can see from the riders ahead that we&amp;rsquo;ve got at least a couple of km to catch him. I abandon my plan to not make any stupid moves and make solo unprotected attacks through open country. I do not catch Michael. I have no idea where he is. Aside from the hundreds of other riders and the police and volunteers and family members at every junction, I am utterly alone.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./03-bridgerton.jpg&#34; alt=&#34;The author slightly muddied after passing beneath a train bridge&#34;&gt;
+&lt;img src=&#34;./04-tarmac.jpg&#34; alt=&#34;Just out for a gentle bike ride on a country road&#34;&gt;&lt;/p&gt;
+&lt;p&gt;My anxiety ebbs and flows throughout this process. I enjoy riding along country roads, I take time to enjoy the surroundings, have some friendly chats with fellow competitors. I get many jeans related comments, I am Jeans Guy. Standouts included &amp;ldquo;messenger-style, right on&amp;rdquo; and &amp;ldquo;jeans? you fucking psycho!&amp;rdquo;. Many ask me if they are jeans or fake jeans. I tell them the are Du/er jeans. Many people add that they love their Du/er jeans. I make new plans to become the Du/er jeans sponsored guy and try to live off of $5k a year plus race entry fees. I never follow through, another squandered opportunity.&lt;/p&gt;
+&lt;h3 id=&#34;feed-zone-number-one&#34;&gt;Feed Zone Number One&lt;/h3&gt;
+&lt;p&gt;At some point after biking and biking and biking I arrive at the first feed zone, wondering if Michael would be waiting for me. He is not! I must have passed him in all the commotion. I am so fast. I am a great guy at racing bikes. I also feel like I am going to throw up, I am absolutely gased already and am not used to cramming calories down my throat at this pace. I take a couple of minutes to let a wave of panic subside and grab an apple to try to keep things moving. Top up water bottles with the sponsor&amp;rsquo;s suger water. Where the shit is Michael? A lot of people are going by. Do I abandon him? I get a text from home - &amp;ldquo;everything okay?&amp;rdquo;. &amp;ldquo;Just at feed stop, going to wait a few more minutes for Michael&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s no way I&amp;rsquo;m &lt;em&gt;this&lt;/em&gt; far ahead of him. Michael&amp;rsquo;s a few years older than me, but he trained a lot for this race. It becomes more and more obvious that despite this pace, he must be ahead of me. And at this point, un-catch-uppably far ahead of me. Alright, off we go. How long have I been waiting? Ten minutes? More? Oh well, let&amp;rsquo;s get going, and from now on it&amp;rsquo;s every man for himself.&lt;/p&gt;
+&lt;p&gt;We head out from the feed zone and into a horribly muddy little section. People are hopping off their bikes and running down the hill. The guy directly in front of me suddenly loses all traction and I have to semi-bail and skip along awkwardly to avoid damging his internal organs. Am I actually having fun?&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./05-447-so-tiny.jpg&#34; alt=&#34;I am huge compared to some people&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;mud-so-much-mud&#34;&gt;Mud. So much mud.&lt;/h3&gt;
+&lt;p&gt;At some point we veer off the dirt road we are on and it&amp;rsquo;s just a mudfest. Deep, tacky, sticky. It grabs onto my tires and doesn&amp;rsquo;t let go. Trying to force my way through mud with a brick of compacted mud and leaves through my front fender spike my heart rate to 186bpm, my highest throughout the entire race. People are piling up behind me. I ride off to the edge of the cource and empty out the leaves. I am angry at my fender. It was supposed to help, not hinder! I get it cleared, I head back out. There is nothing but time to be made in this section. These are mostly &lt;em&gt;roadies&lt;/em&gt;. Roadies have the most dogshit bike handling skills and can&amp;rsquo;t ride singletrack to save their stupid little lives (aside: I&amp;rsquo;m fine with roadies, I just get weirdly competitive sometimes. I don&amp;rsquo;t like Lycra though). But still I lost time because of my narrow tire choice and my stupid fender. &lt;strong&gt;Note for next year:&lt;/strong&gt; no front mud guard. Wider tires.&lt;/p&gt;
+&lt;p&gt;The miles tick by. I settle into a nice rhythm. There is a lady who is going exactly the speed I want to go, which is slightly faster than my body would like to go. I stick to her back wheel. We exchange occasional words. We&amp;rsquo;re starting to get tired. Everyone&amp;rsquo;s pace has slowed. The 30kmh+ pace is a meager 25kmh. Some folks are able to keep up, but others are hitting the limits of their energy reserves and are noticeably struggling. I might be one of those people, I&amp;rsquo;m not sure. I am focusing on being okay. I am going to be okay.&lt;/p&gt;
+&lt;h3 id=&#34;feed-zone-number-two&#34;&gt;Feed Zone Number Two&lt;/h3&gt;
+&lt;p&gt;Blasted past it hardly even realized it was there, having a chat with some dude on the rail trail. Definitely no Michael.&lt;/p&gt;
+&lt;h3 id=&#34;the-tail-end-of-the-trail&#34;&gt;The tail end of the trail&lt;/h3&gt;
+&lt;p&gt;The last while on the trail is a bit unreal. A great long ride along some rail trail, Michael&amp;rsquo;s training grounds. Getting towards the end of the course there is a really long and muddy downhill section, affectionately named the Mudslide of Death. A great many riders, both semi-exhausted and out of breath and of dubious bike-handling skills are jumping off their bikes and running down the mudslide. I am much more stupboarn. I will ride Grimey down the mudslide of death or we will be pitched into the adjacent forest together to think about the choices that have brought us to this point.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./05.5-railtrail.jpg&#34; alt=&#34;Out of the frying pan, dot dot dot&#34;&gt;
+&lt;img src=&#34;./06-mudslide.jpg&#34; alt=&#34;Jeffrey enjoying his mudslide of death&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Now here&amp;rsquo;s the weird thing. Despite having had borderline low blood sugar for an hour, having brakes that at this point have been ground down to nothing by the constant assault of gritty mud, I am somehow able to look like this is the best I have ever felt in my entire life. Get a load of this:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./07-peak-jeff.jpg&#34; alt=&#34;The author seems to be enjoying his bike ride, despite all indicators to the contrary&#34;&gt;&lt;/p&gt;
+&lt;p&gt;My feet are so muddy that the poor velcro on my ancient shoes has given up. There&amp;rsquo;s chunks of mud hanging off from the bottom of my shoes or pedals or something. If you look closely you can see I am heading down a gentle incline &lt;em&gt;with my brakes fully engaged&lt;/em&gt; since that doesn&amp;rsquo;t actually do anything anymore. My hairy calfs are carrying an extra half-pound of mud per side. Grimey is carrying another pound on various horizontal ledges. I&amp;rsquo;ve eaten enough dirt that my teeth have that after-dentist polished feel. And yet I am clearly having the greatest time.&lt;/p&gt;
+&lt;p&gt;And for those who must know, the thing sticking up from my back is either a paint stirrer stick for knocking mud off the bike, or an Ass Savers Speed Mullet I foolishly thought I might attach at some point to keep my feets clean. Ha ha ha yeah right. How young and naive I was!&lt;/p&gt;
+&lt;p&gt;But despite what you see, I felt like hell. But we&amp;rsquo;re getting close to the end! There&amp;rsquo;s just that one big climb that everyone has warned me is awful. And my quads have begun to spasm if I stand and pedal. Stupid legs. But I will prevail!&lt;/p&gt;
+&lt;p&gt;The final climb is where I get my heart to its second-highest peak at a mere 183bpm. I try to finish strong. I run out of gas halfway up the hill. I tried to force my way up, mind you. At some point I was straining and closed my eyes and felt some sort of weird flash or something like something broke in my brain so I took 30 seconds to just stop and collect myself. I can hear the crowd cheering up ahead. I will finish strong. I start pedalling, get some momentum and am able to force the pedals to spin to the top of the hill. And just like that, it&amp;rsquo;s all over. I swear that this sucks so much and I will never do it again. But I&amp;rsquo;ve reached my goal of completing the race. Yay me.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./08-finish.jpg&#34; alt=&#34;Jeffrey crossing the finish line not in last place&#34;&gt;&lt;/p&gt;
+&lt;h3 id=&#34;denouement&#34;&gt;Denouement&lt;/h3&gt;
+&lt;p&gt;So I caught up with Andrew who curses himself to have missed me making my way across the finish line. That&amp;rsquo;s okay. We find Michael. Michael kicked my ass. I am happy for Michael. Because I know that next year when we do the race, I will crush him. And just like that, I&amp;rsquo;ve decided that I will in fact do the race next year.&lt;/p&gt;
+&lt;p&gt;Bikes get washed, food gets eaten and life goes on. It was a good time. I&amp;rsquo;m not a people person but I still enjoyed it all when I could and I retain fond memories already. I&amp;rsquo;ve already begun making notes on things I did right, things I did poorly and how to improve things for next year. And you&amp;rsquo;ve just read most of them.&lt;/p&gt;
+&lt;p&gt;Until next time, keep fit and have fun. Bodybreak!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edit:&lt;/strong&gt; Yeah the jeans were fine. Du/er nails it. Even wet, no problems.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ride Review: My first century</title>
+      <link>https://sadspiders.ca/ride-review-my-first-century/</link>
+      <pubDate>Tue, 10 Oct 2023 19:56:26 -0400</pubDate>
+      
+      <guid>https://sadspiders.ca/ride-review-my-first-century/</guid>
+      <description>&lt;p&gt;It&amp;rsquo;s October! I&amp;rsquo;d been planning to ride 161km at some point this year and time was winding down, so this past Saturday was it. So I chucked some shit in my bike bags, chucked some albums onto a playlist and woke up early the Saturday of [Canadian] Thanksgiving weekend to see if I could do it.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./01-depart.jpg&#34; alt=&#34;Grimey, my bike, all loaded up and ready for a shreddy.&#34;&gt;&lt;br&gt;
+[Grimey all loaded up! I had taken the fenders off at one point and luckily reinstalled them the night before the ride.]&lt;/p&gt;
+&lt;h4 id=&#34;first-bit&#34;&gt;First bit&lt;/h4&gt;
+&lt;p&gt;The first bit was quite pleasant. The playlist started out with &lt;em&gt;Bleed American&lt;/em&gt; by Jimmy Eat World, an album I&amp;rsquo;ve listened to at least a thousand times before. It was nice cruising out of the neighbourhood at dawn, before anyone is out trying to hit me with their cars. I made it to the &lt;a href=&#34;http://www.kissingbridgetrailway.ca&#34;&gt;Kissing Bridge Trail&lt;/a&gt;, an old rail trail near here, in just under half an hour. I&amp;rsquo;ve ridden along that stretch a bunch of times and this was about exactly the pace I was hoping for.&lt;/p&gt;
+&lt;p&gt;Scooted along the kissing bridge for not too many kilometers before it&amp;rsquo;s time to break north and head toward Fergus along some country roads. The second album probably kicks in somewhere along here, Anberlin&amp;rsquo;s &lt;em&gt;Lost Songs&lt;/em&gt; album. I really like most of their albums, this one was specfically chosen to remind me to calm the eff down. I have a tendency to push the pace and rush through things, needed a reminder that this is a marathon, not a sprint.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./02-light.jpg&#34; alt=&#34;My shadow on across the road in the foreground, some nice autumnal colour in the distance past a field.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;This part of the ride is nice and boring. These roads were part of a number of training rides so they&amp;rsquo;re kinda boring, despite being a nice place to watch the sun rise.&lt;/p&gt;
+&lt;h4 id=&#34;some-hints-of-whats-yet-to-come&#34;&gt;Some hints of what&amp;rsquo;s yet to come&lt;/h4&gt;
+&lt;p&gt;Probably listening to Small Brown Bike&amp;rsquo;s album &lt;em&gt;Our Own Wars&lt;/em&gt;. This was a bit of an impulse addition to the playlist. This album has seen regular rotation over the years, but never super high up on the list. However, maybe because the band has bike in the title, I&amp;rsquo;ve always enjoyed this album. Maybe one you just need to be in the mood for.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./03-tree-tunnel.jpg&#34; alt=&#34;A tunnel created by trees growing over a trail in full autumn colours.&#34;&gt;&lt;/p&gt;
+&lt;p&gt;After a pit stop at the local Tim Horton&amp;rsquo;s for a double-chocolate doughnut, I&amp;rsquo;m on my way on the &lt;a href=&#34;http://trailway.org&#34;&gt;Elora-Cataract Trailway&lt;/a&gt; out of Fergus. Had a chat with an older fella on an electric tricyle, thinking how nice it is that technology can help people have the wind blow through their hair who may not do so otherwise. Wish him Happy Thanksgiving as I say goodbye and blast ahead of him. A few seconds pass before he must suddenly realize it&amp;rsquo;s Thanksgiving weekend. &amp;ldquo;Happy Thanksgiving!&amp;rdquo; I hear in the distance.&lt;/p&gt;
+&lt;p&gt;Also the sun has retreated behind some clouds. A lot of clouds. Not theatening rain, but definitely letting me know the expected 60% chance of rain will probably yield fruit. Menacing clouds. I shake my fist at them and carry on.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./04-bridge.jpg&#34; alt=&#34;Grimey leaning on a barrier in front of a bridge under a lot of construction&#34;&gt;
+[I couldn&amp;rsquo;t tell from the internet whether or not this bridge was going to be passable, some things seemed yes and others seemed no. It turns out they were both right, depending on how you feel about climbing over stuff and trying to set your bike down gently from eight feet above the ground while wearing bike shoes.]&lt;/p&gt;
+&lt;p&gt;The album &lt;em&gt;Wake the Dead&lt;/em&gt; by the Comeback Kids comes and goes. It&amp;rsquo;s a really great album if you like Hardcore. There&amp;rsquo;s also &lt;a href=&#34;https://www.youtube.com/watch?v=6DFKjZ_vuBk&#34;&gt;an amazing fan video&lt;/a&gt; on youtube and it makes me really miss being young and idiot. There&amp;rsquo;s some good singalongs here and I&amp;rsquo;m starting to get this impression this ride is going to fucking suck so the music helps a bit with morale.&lt;/p&gt;
+&lt;p&gt;At this point I&amp;rsquo;m headed north towards a &lt;a href=&#34;https://trailerpark.fandom.com/wiki/We_Can%27t_Call_People_Without_Wings_Angels_So_We_Call_Them_Friends_(Episode)&#34;&gt;friend&amp;rsquo;s&lt;/a&gt; place near Kenilworth. Out in the middle of all the fields, a crosswind has picked up. There&amp;rsquo;s a ton of &lt;a href=&#34;https://en.wikipedia.org/wiki/Wind_fetch&#34;&gt;fetch&lt;/a&gt; so the wind is sustained from the west, and I know that once I leave her place, there&amp;rsquo;s about 50 kilometers of riding directly into it.&lt;/p&gt;
+&lt;h4 id=&#34;lets-get-some-apples-russet-apples&#34;&gt;Let&amp;rsquo;s get some apples! RUSSET APPLES!&lt;/h4&gt;
+&lt;p&gt;As I cruise along enjoying &lt;em&gt;Something to Write Home About&lt;/em&gt; by The Get Up Kids, I get my first taste of riding directly west. It&amp;rsquo;s a bit of a bummer because the wind is doing a number on the quality of the audio through my wired ear buds. Lots of wind noise, so a lot of the songs I&amp;rsquo;m only hearing by singing along with them. Noiselessly. So I am silently listening to this album in two different ways at once. It&amp;rsquo;s a bit less than ideal, but I&amp;rsquo;m already trying to decide what I&amp;rsquo;m going to do.&lt;/p&gt;
+&lt;p&gt;I roll into our friend&amp;rsquo;s place sometime after 10am around the 65km mark. Despite living in Canada for over twenty years, she is still super-British and drinking a spot of tea and wearing a Bletchley Park t-shirt.&lt;/p&gt;
+&lt;p&gt;She is a gracious hostess and takes me out to the RUSSET APPLE TREE to pick a few apples to help me on my way. So good! If you&amp;rsquo;re not familiar with this variety, you need to seek them out and try them since they are absolutely the best variety. While I&amp;rsquo;m here I may as well get the egg mcmuffin I brought into me.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./05-apples.jpg&#34; alt=&#34;Grimey being engulfed by a RUSSET APPLE TREE! omgz&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Taking stock, I&amp;rsquo;m feeling pretty good. 95 kilometers to go but I know that the next 50 are going to be a slog and that means knocking my speed down to like 15km/h and taking three stupid hours just to get two hours worth of far. It&amp;rsquo;s a bit demoralizing.&lt;/p&gt;
+&lt;p&gt;But hell, we&amp;rsquo;re here now and I&amp;rsquo;ve done a bunch of training so let&amp;rsquo;s just suck it up and keep moving forwards.&lt;/p&gt;
+&lt;p&gt;Also I petted Clare&amp;rsquo;s dogs and waved at her cows so that improved morale briefly.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./06-mooers.jpg&#34; alt=&#34;Clare&amp;rsquo;s cows&#34;&gt;
+[Bye cows, I love you!]&lt;/p&gt;
+&lt;h4 id=&#34;wind-sounds&#34;&gt;*WIND SOUNDS*&lt;/h4&gt;
+&lt;p&gt;I was really excited to be listening to Ephilexia&amp;rsquo;s album &lt;em&gt;Sun, Please, Explode&lt;/em&gt;. It&amp;rsquo;s math-rock and post-rock together! This means that it&amp;rsquo;s instrumental and mellow but technically so. You just have to try it. Just set like an hour aside with some really good sound system and just &lt;a href=&#34;https://inv.tux.pizza/watch?v=iEb8j-5IXAU&#34;&gt;listen to it&lt;/a&gt;. Maybe also smoke weed if that&amp;rsquo;s what you do or enjoy a small two fingers of Northern Harvest Rye Whiskey if you&amp;rsquo;re like me, and just be like &amp;ldquo;shit, he&amp;rsquo;s right, this is awesome&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;So heading straight into the wind for the indefinite future. Riding into the wind super-sucks ass because it takes a lot of effort to get nowhere.&lt;/p&gt;
+&lt;p&gt;It&amp;rsquo;s hard to keep going for three or more straight hours directly into the stupid wind. Occasionally there would be a short stretch of a couple of kilometers where the road would be headed north or south, and it was much easier going. This is pretty much the only thing that kept me going. To know that it might eventually not be terrible.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./07-best.jpg&#34; alt=&#34;Grimey in the middle of a road in the middle of fucking nowhere&#34;&gt;
+[This is honestly the greatest moment of the whole ride. A single-lane gravel road, nobody around for miles &lt;em&gt;and&lt;/em&gt; some sun!]&lt;/p&gt;
+&lt;p&gt;On the plus side, at some point Ephilexia faded into &lt;em&gt;Exile in Oblivion&lt;/em&gt; by Strung Out. It turns out I sing along with everything while I am biking. Not actually singing, just mouthing the words like a constant, silent karaoke. This was a great album for this point in the ride. High-energy and just good songs. I must have planned for a higher-energy section here, since the next two albums are Much the Same&amp;rsquo;s &lt;em&gt;Everything is Fine&lt;/em&gt; and Face to Face&amp;rsquo;s &lt;em&gt;Don&amp;rsquo;t Turn Away&lt;/em&gt; (the first punk tape I ever bought). Both skate-punk, both just full of songs I&amp;rsquo;ve listened to dozens of times and super easy to digest. For me, these albums are like arrowroot cookies for my brain.&lt;/p&gt;
+&lt;h4 id=&#34;the-hydrologic-cycle&#34;&gt;The hydrologic cycle&lt;/h4&gt;
+&lt;p&gt;Somewhere during this sufferfest, as I was being chased (coincidentally) by a gang of amish in a horse-drawn cart, I could see those clouds in the distance with the swaths of rain hanging down. I&amp;rsquo;m gonna get wet. In retrospect, I should have put on some Andrew WK but life&amp;rsquo;s not perfect.&lt;/p&gt;
+&lt;p&gt;The first rain wasn&amp;rsquo;t too bad. About half an hour of on-and-off drizzle. Not enough to actually soak through. I start to wonder just how cold I&amp;rsquo;ll be if I do indeed get soaked. I&amp;rsquo;ve got on a jacket and gloves but it&amp;rsquo;s 12C out and windy and I&amp;rsquo;m not really set up to be soaking wet. &lt;em&gt;Tant pis&lt;/em&gt;, nothing I can do about it anyway!&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./08-rain.jpg&#34; alt=&#34;Bike computer speckled with raindrops showing 103.74km, a nice rail-trail in the background&#34;&gt;
+[The odometer has rolled over the 100km mark. Somewhere just north of Palmerston, Ontario.]&lt;/p&gt;
+&lt;p&gt;At some point I finally get to the goddam Malcolm Line, the start of my road north, wind from the side instead of front. It&amp;rsquo;s so good. But I&amp;rsquo;m definitely getting tired. My arse hurts. My deltoids are sore. My wrists are sore.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a whiny son of a bitch.&lt;/p&gt;
+&lt;p&gt;But onwards we march! Not because it was easy, but because we thought it would be easy. I got a good quote from a friend after I told him I went ahead with the ride and actually completed it:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;If the weather en route was anything like it is here, I&amp;rsquo;m truly sorry.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;But life is good! We&amp;rsquo;re headed north, there&amp;rsquo;s a measly 50km left to go. I can do 50km on Grimeyback in my sleep. Oh, Grimey is my bike&amp;rsquo;s name. I named him after Grimey from the Simpsons.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./grimey.jpg&#34; alt=&#34;Frank Grimes&#34;&gt;&lt;/p&gt;
+&lt;p&gt;The music has toned it down a little bit and I got through Still Mountain&amp;rsquo;s &lt;em&gt;Artemis&lt;/em&gt;. A very mellow, gentle album. After this came Saosin&amp;rsquo;s &lt;em&gt;Translating the Name EP&lt;/em&gt; which is like some sort of emo/screamo thing that I really enjoy. It&amp;rsquo;s got some really awesome spastic drumming and is worth a listen.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./09-chips.jpg&#34; alt=&#34;A wet and bepuddled road&#34;&gt;
+[There&amp;rsquo;s a &lt;a href=&#34;https://inv.tux.pizza/watch?v=jlzEjXu6QGQ&#34;&gt;line from the Simpsons&lt;/a&gt; that kept going through my head at this point: &lt;em&gt;&amp;ldquo;I just wish I was home with a big bag of potatuh chips. Mmm, potatuh chips.&amp;rdquo;&lt;/em&gt; The odometer is at 121km maybe?]&lt;/p&gt;
+&lt;p&gt;On the way up Malcolm Line it rained twice more for ten or so minutes at a time. The final great landmark was getting to the rail trail which would take me from near Clifford all the way to my final destination. Super satisfying! I&amp;rsquo;m going to make it!&lt;/p&gt;
+&lt;h4 id=&#34;epic-conditions-for-an-epic-ride&#34;&gt;Epic conditions for an epic ride&lt;/h4&gt;
+&lt;p&gt;Within about 5 minutes of getting on this trail the heavens decided it was time to test my tenacity and just really open up. Not torrential, but downpour for sure. And for good measure, the maintenance on the first half of the rail trail was sub-par and was basically just a trillion puddles linked together. So it was bumpy and wet. Fender helped &lt;em&gt;a lot&lt;/em&gt;, but they don&amp;rsquo;t protect from water coming down from above.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;./10-trail.jpg&#34; alt=&#34;The final rail trail!&#34;&gt;
+[No more photos from the last couple of hours since it was cold out and also raining and my gloves were thoroughly soaked and if I took them off they&amp;rsquo;d never go back on and my fingies would get cold.]&lt;/p&gt;
+&lt;p&gt;I figured by this point on the ride my brain would be a white paste and so threw some more post-rock on there. The eponymous [self-titled] album by &lt;em&gt;Transatlantic Alliance&lt;/em&gt;. There&amp;rsquo;s this one track on this album that stands out to me called &lt;em&gt;Stay Inside&lt;/em&gt;. It&amp;rsquo;s got a sample of an interview with a (possibly homeless) gentleman about how his life has just been a pile of shit and he just wants things to be better and he&amp;rsquo;s doing his best and life just sucks. Of course I know that I&amp;rsquo;ve had things way better than this guy, but I feel like it sands down some rough edges. To hear this guy who&amp;rsquo;s had a really rough life just wishing it was better.&lt;/p&gt;
+&lt;p&gt;So it&amp;rsquo;s weird to feel like the finish line is in sight and still have a couple of hours ahead of you, and knowing your going to have to get through it soaking effing wet.&lt;/p&gt;
+&lt;p&gt;But a glimmer of hope: Mildmay, Ontario. They&amp;rsquo;ve got a gas station and I shimmy in there and grab myself a bottle of Brand-name cola beverage! I&amp;rsquo;ve got an hour left, this can carry me across that finish line, rain be damned!&lt;/p&gt;
+&lt;p&gt;[Editor&amp;rsquo;s note: I definitely got some looks during that stop.]&lt;/p&gt;
+&lt;p&gt;I ration the cola beverage over the next hour. A good swig every fifteen minutes. Keep my energy up and something to break up the last segments. The last album to come on is &lt;em&gt;Stay What You Are&lt;/em&gt; by Saves the Day, another old emo record from the early noughts. Another album I can just mumble along with.&lt;/p&gt;
+&lt;h4 id=&#34;then-it-was-just-done&#34;&gt;Then it was just done&lt;/h4&gt;
+&lt;p&gt;Kept plowing along, finally there were ten km left, then five. Then the farm was in sight. The last five km or so I put it into cooldown mode, put it into an easier gear and just spin the legs out.&lt;/p&gt;
+&lt;p&gt;And then along the last stretch the odometer pulls across the 161km and I&amp;rsquo;ve done it!&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t know what I expected. A feeling of elation. Some sort of connection with a higher power. The other problems in my life melting away and having no more significance because I did something challenging and achieved what I set out to do. I overcame adversity!&lt;/p&gt;
+&lt;p&gt;Instead, some cars flew past me and the odometer eventually ticked to 162km and on I went. It was only a couple more to the farm anyway.&lt;/p&gt;
+&lt;p&gt;I pulled into the driveway and Ashley asked if I wanted the dogs out. I said &amp;ldquo;nah thanks&amp;rdquo; because it was still all wet and rainy and they&amp;rsquo;d just get all wet and muddy. I rode my bike into the milkhouse, took off the gloves that I previously couldn&amp;rsquo;t because if they got cold they&amp;rsquo;d never get warm again, and removed my shoe covers.&lt;/p&gt;
+&lt;p&gt;I hadn&amp;rsquo;t had any emergency candy, so I ate some candy. Then I left the milkhouse, and walked into the house to get warm.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Lesson: make other people&#39;s lives easier</title>
+      <link>https://sadspiders.ca/lesson-make-other-peoples-lives-easier/</link>
+      <pubDate>Fri, 30 Jun 2023 08:40:07 -0400</pubDate>
+      
+      <guid>https://sadspiders.ca/lesson-make-other-peoples-lives-easier/</guid>
+      <description>&lt;h3 id=&#34;dont-make-me-do-extra-work&#34;&gt;Don&amp;rsquo;t make me do extra work&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;ve spent a lot of years in school. Of those years, four were spent as an undergraduate student. Another ~four were spent as a graduate student. As stupid as those terms are, they let me see life from two different perspectives.&lt;/p&gt;
+&lt;p&gt;On the one hand, undergrads are stupid idiots who exist to annoy professors and graduate students with their stupidness. Graduate students exist to do the grunt work for professors and annoy postdocs with their stupidness. Part of that grunt work is to mark undergrad papers and assignments so that the professors don&amp;rsquo;t have to. This is what I&amp;rsquo;ll be focusing on today.&lt;/p&gt;
+&lt;p&gt;While an undergraduate, we would chat with the graduate students who would babysit us while doing lab sessions. They hated marking because it&amp;rsquo;s boring and undergrads are stupid. And I realized that since they are human, making their lives easier would like correspond to a better grade. And I think this worked. My work was always well-researched and I put a lot of effort into it. But I would also keep things short and to the point and not wax philosophic about unrelated bullshit.&lt;/p&gt;
+&lt;h3 id=&#34;dont-make-me-do-extra-work-1&#34;&gt;Don&amp;rsquo;t make &lt;em&gt;me&lt;/em&gt; do extra work&lt;/h3&gt;
+&lt;p&gt;Being the type who sometimes makes poor life choices, I eventually became a grad student myself. Indeed, marking papers blows. How did you get to third year and still do &lt;em&gt;x&lt;/em&gt;, &lt;em&gt;y&lt;/em&gt;, and/or &lt;em&gt;z&lt;/em&gt; so wrong? And I could always tell the people who knew their shit because it was succinct, it was to the point, and it was &lt;em&gt;clear&lt;/em&gt;. If people write an extra 1200 words trying to eke out an extra point or two, you&amp;rsquo;re making me do extra work and now I&amp;rsquo;m grumpy and sinceI am human, will probably give you a slightly lower grade because I&amp;rsquo;m not convinced you know what you&amp;rsquo;re doing.&lt;/p&gt;
+&lt;h3 id=&#34;transferrable-skill&#34;&gt;Transferrable skill&lt;/h3&gt;
+&lt;p&gt;Fast-forward a few years to today. I&amp;rsquo;ve got a job as a web developer! I am super smart and can write &lt;em&gt;declarative&lt;/em&gt; code! My code does what it is supposed to! I am really good at this!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;*submits PR for review *&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;senior dev (to self):&lt;/strong&gt; this is a fucking nightmare&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;senior dev:&lt;/strong&gt; this is a fucking nightmare&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Wait, what? I am so smrt.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;giguh-pr.jpg&#34; alt=&#34;stupid spongebob meme - text says enjoy my giga-pr&#34;&gt;&lt;/p&gt;
+&lt;p&gt;I fell prey to one of the classic blunders. I tried to make them do extra work.&lt;/p&gt;
+&lt;p&gt;Don&amp;rsquo;t make other people do extra work.&lt;/p&gt;
+&lt;h3 id=&#34;keep-it-simple-stupid&#34;&gt;Keep it simple, stupid&lt;/h3&gt;
+&lt;p&gt;Going back through my &lt;code&gt;diff&lt;/code&gt;, there were a ton of things in there that didn&amp;rsquo;t need to be there. I didn&amp;rsquo;t do as little as possible, and nothing more.&lt;/p&gt;
+&lt;p&gt;So if you&amp;rsquo;re a junior dev, or looking to get into the field, go through your diff, you can see everything in the &lt;code&gt;changed files&lt;/code&gt; section of your PR on github.&lt;/p&gt;
+&lt;p&gt;Look for stuff like this:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-diff&#34; data-lang=&#34;diff&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#282828;background-color:#fb4934&#34;&gt;- 
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#282828;background-color:#fb4934&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#282828;background-color:#b8bb26&#34;&gt;+ console.log(&amp;#34;test&amp;#34;)
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#282828;background-color:#b8bb26&#34;&gt;+ unusedValue = &amp;#34;works?&amp;#34;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Spend the time to get rid of your goofy shit that doesn&amp;rsquo;t work. We all do it, but the trick is to pretend you don&amp;rsquo;t.&lt;/p&gt;
+&lt;p&gt;Or stuff like this:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-diff&#34; data-lang=&#34;diff&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#282828;background-color:#fb4934&#34;&gt;- id
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#282828;background-color:#fb4934&#34;&gt;- address {
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#282828;background-color:#fb4934&#34;&gt;-    id
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#282828;background-color:#fb4934&#34;&gt;-    name    
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#282828;background-color:#fb4934&#34;&gt;-}
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#282828;background-color:#fb4934&#34;&gt;&lt;/span&gt;&lt;span style=&#34;color:#282828;background-color:#b8bb26&#34;&gt;+ cats
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#282828;background-color:#b8bb26&#34;&gt;+ id
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#282828;background-color:#b8bb26&#34;&gt;+ dogs
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#282828;background-color:#b8bb26&#34;&gt;+ address {
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#282828;background-color:#b8bb26&#34;&gt;+    id
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#282828;background-color:#b8bb26&#34;&gt;+    name
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#282828;background-color:#b8bb26&#34;&gt;+}
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Sometimes you&amp;rsquo;ll need to structure your data like that for clarity or readability and that&amp;rsquo;s totally fine. But you could probably go back and shuffle things around so that the diff just ends up like so:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-diff&#34; data-lang=&#34;diff&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;id
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#282828;background-color:#b8bb26&#34;&gt;+ cats
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#282828;background-color:#b8bb26&#34;&gt;+ dogs
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#282828;background-color:#b8bb26&#34;&gt;&lt;/span&gt;address {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    ...
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;This seems a lot easier to read for the person who will be reviewing your code.&lt;/p&gt;
+&lt;p&gt;While perusing your diff, it&amp;rsquo;s also a good time to assess your functions and variable names and make sure that you&amp;rsquo;re happy with your code and that you won&amp;rsquo;t come back in a month and ask yourself &amp;ldquo;what [eff word]ing idiot wrote this?!&amp;rdquo; before finding that the blame points squarely at you. Try to write code you are proud of.&lt;/p&gt;
+&lt;p&gt;And if by doing this you also make less work for your coworkers, all the better.&lt;/p&gt;
+&lt;h3 id=&#34;i-think-at-least&#34;&gt;I think, at least&lt;/h3&gt;
+&lt;p&gt;Look, I&amp;rsquo;m a few months into a junior dev role. This seems to make sense to me. There&amp;rsquo;s a quote &lt;a href=&#34;https://quoteinvestigator.com/2011/05/13/einstein-simple/&#34;&gt;attributed to Einstein&lt;/a&gt; whic states:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Everything should be made as simple as possible, but not simpler.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;and I feel like this is a good application of that.&lt;/p&gt;
+&lt;p&gt;Can any more experienced devs weigh in? Shout me out, I&amp;rsquo;m &lt;a href=&#34;https://twitter.com/lowpivot&#34;&gt;@lowpivot&lt;/a&gt; and I&amp;rsquo;d really appreciate some feedback. I know this is by no means a deep dive, but I feel like this is an important lesson to learn as a junior.&lt;/p&gt;
+&lt;p&gt;Anything else that might seems simple and intuitive but often overlooked by the rookie on the team? Let me know! Thanks, hope this helps somebody.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>I got a job writing code!</title>
+      <link>https://sadspiders.ca/i-got-a-job-writing-code/</link>
+      <pubDate>Sat, 18 Mar 2023 15:03:07 -0400</pubDate>
+      
+      <guid>https://sadspiders.ca/i-got-a-job-writing-code/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re reading this, there&amp;rsquo;s a good chance you are learning to code to try to get a job, attract a mate and live happily ever after. Good for you, what a noble pursuit.&lt;/p&gt;
+&lt;p&gt;This is going to be a bit of a breakdown of how I got from being someone with some basic HTML and CSS knowledge to the hack that I am today, with a superficial knowledge of a hundred other technologies. Strap in.&lt;/p&gt;
+&lt;h3 id=&#34;introduction-the-why-of-it-all&#34;&gt;Introduction: The &lt;em&gt;why&lt;/em&gt; of it all.&lt;/h3&gt;
+&lt;p&gt;I don&amp;rsquo;t do things &amp;ldquo;just because&amp;rdquo;. Ha ha yeah I totally do but maybe not this time.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s jump into the story in about 2016 or thereabouts. I had myself a Raspberry Pi model 3B+ and was teaching myself the basics of Linux. I kept coming across people talking about writing scripts in Python, so I decide to try doing that. I stumbled across the website &lt;a href=&#34;https://automatetheboringstuff.com/&#34;&gt;Automate the Boring Stuff&lt;/a&gt; because I hate boring stuff and spent some time going through that publication from cover to cover. Neat, I can program stuff now! I tried writing a program to automate some of the boring bullshit for my day job and.. ..it doesn&amp;rsquo;t really work.&lt;/p&gt;
+&lt;p&gt;At work we run Windows computers without Python installed, so I need to strap an entire Python interpreter into an &lt;em&gt;exe&lt;/em&gt; file and the whole thing just sort of reeks of hackiness. I am not impressed. So I abandon that ship and just keep doing the boring shit the old fashioned way.&lt;/p&gt;
+&lt;h3 id=&#34;the-webserver&#34;&gt;The Webserver&lt;/h3&gt;
+&lt;p&gt;My first attempt at doing programming stuff has taught me that I need to learn more about how the web works. I start working on a website to crowdsource mountain bike trail conditions using Python and the &lt;a href=&#34;https://flask.palletsprojects.com/en/2.2.x/&#34;&gt;Flask framework&lt;/a&gt; using a great tutorial by &lt;a href=&#34;https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world&#34;&gt;Miguel Grinberg&lt;/a&gt;. It went well, and I learned more about relational databases (MySQL in this case) and reverse proxies (nginx) and hosted the whole thing on the Raspberry pi. It&amp;rsquo;s sweet! But no one really uses it and in retrospect it could have been done a lot better but that&amp;rsquo;s also a good thing - I&amp;rsquo;ve learned a lot since then!&lt;/p&gt;
+&lt;h3 id=&#34;the-pandemic&#34;&gt;The Pandemic&lt;/h3&gt;
+&lt;p&gt;My website was sort of crappy and no one used it and I was working full time in an analytical chemistry laboratory and didn&amp;rsquo;t really know where this whole thing was headed.&lt;/p&gt;
+&lt;p&gt;Then the pandemic hit and the world lost it&amp;rsquo;s collective shit, and fair enough.&lt;/p&gt;
+&lt;p&gt;I took advantage of this time to create some Python-based scripts to do some web scraping of some work-related websites that never really went anywhere. I was still working in the lab a few days a week because my job was &lt;em&gt;essential&lt;/em&gt; but with my extra time I came across the &lt;a href=&#34;https://fullstackopen.com/en/&#34;&gt;Full Stack Open&lt;/a&gt; course through the University of Helsinki. Was I ready to learn &lt;em&gt;React&lt;/em&gt;? Isn&amp;rsquo;t React for smart people? What the fuck is it, anyway?&lt;/p&gt;
+&lt;p&gt;I spent a few week and went through the entire course, diligently completing all of the examples and assignments. Look at me, using javascript like a champ to make a webpage that is &lt;em&gt;reactive&lt;/em&gt;. Being able to launch apps on Netlify was a game-changer for me, I could finally implement a bunch of these websites for my day job to process my instrument data and save myself multiple minutes a day! React rules! Except I don&amp;rsquo;t really like using Redux and there&amp;rsquo;s something about it that rubs me the wrong way.&lt;/p&gt;
+&lt;p&gt;Also I learned Git at this point. Fuck yeah!&lt;/p&gt;
+&lt;h3 id=&#34;enter-svelte&#34;&gt;Enter Svelte&lt;/h3&gt;
+&lt;p&gt;I don&amp;rsquo;t rememeber how I stumbed across &lt;a href=&#34;https://svelte.dev/&#34;&gt;Svelte&lt;/a&gt;, but it seemed like a next-gen version of React where all the hacky shit had been replaced with native support. I set up an app using their website builder called Sapper. It seemed okay, but I was still lost with respect to web development. There&amp;rsquo;s literally a trillion technologies out there. What&amp;rsquo;s &lt;a href=&#34;https://go.dev&#34;&gt;Go&lt;/a&gt; like?&lt;/p&gt;
+&lt;h3 id=&#34;enter-go&#34;&gt;Enter Go&lt;/h3&gt;
+&lt;p&gt;For some reason I thought that maybe I was a back-end guy. The internet fucking sucks sometimes, you know? I don&amp;rsquo;t want to serve ads or collect user data or any of this shit. Maybe writing backend code will give me some sort of bigger purpose, maybe I can crunch data that climate scientists use to make the world actually better. This is a theme I struggle with constantly. Very existential but ultimately unanswerable.&lt;/p&gt;
+&lt;p&gt;I read some sort of introductory book on Go from cover to cover and performed and the exercises. Woo, Go! The best part is using the walrus-operator to assign variables:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-go&#34; data-lang=&#34;go&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;number &lt;span style=&#34;color:#fe8019&#34;&gt;:=&lt;/span&gt; &lt;span style=&#34;color:#d3869b&#34;&gt;42&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;See? Walrus! I&amp;rsquo;m also fully aware of the difference between a dynamically-typed language and a statically-type language. Neat! I like that while I&amp;rsquo;m writing Go in VSCode that I&amp;rsquo;ve got code autocomplation thanks to the strongly-typed variables, even though there are still a few concepts that elude me (looking at you, &lt;em&gt;interfaces&lt;/em&gt;).&lt;/p&gt;
+&lt;p&gt;Okay, great, now I&amp;rsquo;m a backend guy a little bit.&lt;/p&gt;
+&lt;h3 id=&#34;backend-is-stupid&#34;&gt;Backend is stupid&lt;/h3&gt;
+&lt;p&gt;I quickly have nothing to program on the backend and Go is a bit scary, what with concurrency and pointers and whatnot. Furthermore, &lt;a href=&#34;https://kit.svelte.dev&#34;&gt;Sveltekit&lt;/a&gt; is a thing now! Neat! I program another couple of little projects using Sveltekit. Holy shit, React is so shitty compared to Sveltekit! I make the decision that I would rather compete for the scarce few Sveltekit jobs rather than ever have to touch React again. I am firmly a Sveltekit guy and as much of a Rich Harris fanboy as you can be at middle-age. Sveltekit is also basically it&amp;rsquo;s own server, so we can just do everything in javascript!&lt;/p&gt;
+&lt;h3 id=&#34;learn-all-of-the-things&#34;&gt;Learn all of the things&lt;/h3&gt;
+&lt;p&gt;So now what? At this point I&amp;rsquo;ve dabbled in literally a fuckton of different languages and frameworks:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;HTML, CSS, SASS, LESS&lt;/li&gt;
+&lt;li&gt;Node, Express, Svelte, Sveltekit, React, Redux, Flask&lt;/li&gt;
+&lt;li&gt;Bootstrap, Foundation,Tailwind&lt;/li&gt;
+&lt;li&gt;Javascript, Python, Go&lt;/li&gt;
+&lt;li&gt;Apache, nginx&lt;/li&gt;
+&lt;li&gt;MySQL, sqlite, MongoDB, Mongoose, Prisma&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I&amp;rsquo;m sure there are others that I tried for an hour or two and dismissed, but these are all at least things I have basic proficiency with. My favourite stack has become a sqlite database with sveltekit frontend and prisma acting as the go-between.&lt;/p&gt;
+&lt;h4 id=&#34;interlude-my-day-job-it-department-hates-me-until-they-dont&#34;&gt;Interlude: My Day-job It Department Hates me. Until they don&amp;rsquo;t.&lt;/h4&gt;
+&lt;p&gt;I&amp;rsquo;m still working full-time in the lab throughout this whole process, and have offered to moonlight in the IT department and also have learned a ton of SQL in an effort to become the new database administrator to no avail. Boo. Annoyed.&lt;/p&gt;
+&lt;p&gt;However, a friend that works in the department vouched for me as a reasonably-competent developer, and I get a one-year contract to develop an in-house e-commerce-type site. Woohoo, coding for a living, suck it everyone!&lt;/p&gt;
+&lt;p&gt;The project ends up being a success, I am able to ship the projects thanks to the batteries-included &lt;a href=&#34;https://www.djangoproject.com/&#34;&gt;Django&lt;/a&gt; project. In the end I think the whole thing is a bit hacky, but it has been used in production for nine months at the time I am writing this with no major crap-ups so I&amp;rsquo;m calling that a win! This was a nice little opportunity that I am happy to have on my resume. Networking ftw! Except I still hate LinkedIn and pretty sure I always will. But if you like it and it works for you, power to you.&lt;/p&gt;
+&lt;h3 id=&#34;typescript-btw&#34;&gt;Typescript, btw&lt;/h3&gt;
+&lt;p&gt;As I&amp;rsquo;m getting deep into the workings of Sveltekit, I am noticing that for some reason they are all about Typescript. I assume, naturally, that I am too stupid to understand Typescript but decide to have a go at it. I dabbled a bit during the Full Stack Open course and was definitely less-than-impressed.&lt;/p&gt;
+&lt;p&gt;So I read the entire &lt;a href=&#34;https://www.oreilly.com/library/view/programming-typescript/9781492037644/&#34;&gt;Programming Tpyescript&lt;/a&gt; book and skimmed the parts that were over my head.&lt;/p&gt;
+&lt;p&gt;I spun up a new Sveltekit project to much around with. It&amp;rsquo;s a bit of a learning curve for sure and I spend a fair amount of time going through the Sveltekit docs to figure out what sort of types need to be assigned to some default variables, but nothing too crazy.&lt;/p&gt;
+&lt;p&gt;And it turns out, Typescript is fucking awesome. I had heard that it was too much overhead for small projects, but the amount of time I was saving thanks to my IDE&amp;rsquo;s autocompletion is super-great. Getting screwed by inappropriate return types in my functions screwed me a couple of times during my Django project, so I appreciate knowing exactly what each variable looks like and what sort of parameters it might have available instead of &lt;code&gt;console.log&lt;/code&gt;ging things until they work. I still do that, but just less now.&lt;/p&gt;
+&lt;h3 id=&#34;going-for-the-win&#34;&gt;Going for the win&lt;/h3&gt;
+&lt;p&gt;At this point I am back in the lab and want to find a full-time remote gig. I&amp;rsquo;ve got my stack of choice:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sveltekit + Typescript&lt;/li&gt;
+&lt;li&gt;PostgreSQL database&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://prisma.io&#34;&gt;Prisma&lt;/a&gt; ORM&lt;/li&gt;
+&lt;li&gt;Maybe some Go because I still like Go even though it&amp;rsquo;s not Rust btw&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In order to be able to tell prospective employers that I&amp;rsquo;ve got collaborative experience using Git, I create the &lt;a href=&#34;https://github.com/jeffreycharters/station&#34;&gt;STaTioN&lt;/a&gt; repository. It consists of the very basic building blocks of a modern website:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;index.html&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;style.css&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;script.js&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I initiate those files with a very basic amount of data and ask some of my Twitter friends to get involved if they so choose. They do! It&amp;rsquo;s kind of awesome learning how to deal with Pull Requests and issues and all that type of stuff with no real &amp;ldquo;Prod&amp;rdquo; to break, and if you do no one really cares because it&amp;rsquo;s all just there to break anyway. Thanks for getting involved, everyone! I&amp;rsquo;ve let the site stagnate, I sometimes think about torching it all back down to the very basics and starting over. We&amp;rsquo;ll see, maybe?&lt;/p&gt;
+&lt;h3 id=&#34;finally-a-job&#34;&gt;Finally a job&lt;/h3&gt;
+&lt;p&gt;I applied to many, many places. However, I was also deliberate with my applications. I don&amp;rsquo;t believe in the &amp;ldquo;spray &amp;rsquo;n&amp;rsquo; pray&amp;rdquo; school of thought. My cover letters were all tailored to the individual position. I got a couple of interviews, which was promising, and also a lot of radio-silence, which was not. So I just kept applying. I found jobs via the usual job sites, I looked for local developers and contacted them directly.&lt;/p&gt;
+&lt;p&gt;My break into the field came from a job ad on the Svelte Discord server&amp;rsquo;s job section. Sveltekit had reached the &lt;strong&gt;Verion 1.0&lt;/strong&gt; milestone which means &amp;ldquo;yeah use this in production now, I don&amp;rsquo;t give a shit&amp;rdquo; which I think gave more employers the confidence to deploy their Sveltekit projects. The company promised resume-free hiring, which is super awesome because resumes are stupid and no one really knows if they&amp;rsquo;re doing them right and the whole thing can just use an overhaul.&lt;/p&gt;
+&lt;p&gt;So I went through their process, did an online interview, and they got in touch a week or so later with a job offer! Woooo work-from-home FTW!&lt;/p&gt;
+&lt;p&gt;ᄽ(ノ◕⌢◕)ᄽノ ︵ ┻━┻&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Edit:&lt;/strong&gt; The new employer&amp;rsquo;s backend is written in Go and is actually a GraphQL server. So I actually get to write Go professionally! Nice.&lt;/p&gt;
+&lt;h3 id=&#34;postamble&#34;&gt;Postamble&lt;/h3&gt;
+&lt;p&gt;&lt;img src=&#34;computer-guy.jpg&#34; alt=&#34;The fat nerdy computer guy from South Park and he&amp;rsquo;s got some mountain dew&#34;&gt;&lt;/p&gt;
+&lt;p&gt;So that&amp;rsquo;s it. I spent a number of years during my evenings and weekends teaching myself to write code and now I have a job where I sit at home all day and write code. I&amp;rsquo;m not going to get fat though since I enjoy endurance cycling and regular mountain biking and rock climbing and all sort of other shit.&lt;/p&gt;
+&lt;h3 id=&#34;my-advice&#34;&gt;My Advice&lt;/h3&gt;
+&lt;p&gt;Did you read this fucking thing? You don&amp;rsquo;t want my advice.&lt;/p&gt;
+&lt;p&gt;But if you insist, pick some shit you like and start writing code. Keep up to date with things, the field changes every 3 or 4 days and you need to learn a new language or framework or some other shit. Give up and become an electrician or plumber or something. But I guess in the end I&amp;rsquo;m proof that you can get started on a career as a programmer for basically no monies as long as you have unlimited time to spend learning all this shit.&lt;/p&gt;
+&lt;p&gt;I do like it though, really.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Gravel season returns, set your goals</title>
+      <link>https://sadspiders.ca/gravel-season-returns-set-your-goals/</link>
+      <pubDate>Fri, 26 Aug 2022 08:35:17 -0400</pubDate>
+      
+      <guid>https://sadspiders.ca/gravel-season-returns-set-your-goals/</guid>
+      <description>&lt;h3 id=&#34;summers-almost-over&#34;&gt;SUMMER&amp;rsquo;S ALMOST OVER!!!&lt;/h3&gt;
+&lt;p&gt;As August draws to a close, let&amp;rsquo;s all take a moment to remind it that we all hate it and it&amp;rsquo;s a shitty month and it can fuck off. And take February with it.&lt;/p&gt;
+&lt;h3 id=&#34;set-your-goals&#34;&gt;Set Your Goals&lt;/h3&gt;
+&lt;p&gt;With that out of the way, August is almost over and I haven&amp;rsquo;t got out mountain biking nearly as much as I would have liked, but that&amp;rsquo;s okay. A lot of life has been happening, and we deal with it a day at a time.&lt;/p&gt;
+&lt;p&gt;This spring, you will recall that I finally accomplished my goal of &lt;a href=&#34;../the-windiest-135km-bike-ride/&#34;&gt;doing the 100km+ ride&lt;/a&gt; from our home to my gfs family&amp;rsquo;s farm for Easter. This was my first ride to cross the 100km mark and the conditions were sub-optimal. The windiest day of the year so far as a crosswind definitely didn&amp;rsquo;t make that ride any easier and I was not in the greatest spirits as we crossed the finish line.&lt;/p&gt;
+&lt;p&gt;So the obvious thing to do is to create a new, more ambitious goal. So here it is:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Myself and my bicycle, Grimey, will hereby attempt to complete an &amp;ldquo;imperial century&amp;rdquo; ride of 100 miles or more by the end of October of this year. We begin at Buckingham Palace and the Queen herself will drop the green flag.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Of course, I will be renaming our house Buckingham Palace for the occasion and Ashley will be happy to accept the Queen monicker until the mutinies start.&lt;/p&gt;
+&lt;h3 id=&#34;that-sounds-awful&#34;&gt;That sounds awful&lt;/h3&gt;
+&lt;p&gt;It&amp;rsquo;s funny because we all keep up with our own version of the Joneses. My youtube feed is full of 150 or more mile ultra-endurance races, so doing a ride like this seems quite tame in comparison. But I mention it to normies (aka friends and family) and they are quick to point out that how do you do that it&amp;rsquo;s so far? Same way as you eat an elephant I suppose.&lt;/p&gt;
+&lt;h3 id=&#34;making-a-plan&#34;&gt;Making a plan&lt;/h3&gt;
+&lt;p&gt;So this ride will be in less than two months, and possibly within a month or so. Which does not leave a heap of time for training and conditioning. Shit.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll create a more formal plan for myself, but in the meantime, how to prepare:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Spend more time on the bike. Just in general. Get the body used to it.&lt;/li&gt;
+&lt;li&gt;Hill training. Head out for less than an hour and repeatedly ride up the biggest hills in the area at full gas, recover on the way back down. It&amp;rsquo;s high-intensity intervals and it sucks but it will build some strength and should hopefully provide quick/substantial cardiovascular gains.&lt;/li&gt;
+&lt;li&gt;Longer, mellow rides. Head out to the rail trails and just cruise for two hours or more. Sometimes go for a second ride that day, make sure the body is okay with having to go when it doesn&amp;rsquo;t really want to.&lt;/li&gt;
+&lt;li&gt;Eat and ride. When you&amp;rsquo;re out for extended rides and want to make good time, you need to train your body to expend energy and digest at the same time. So bring a substantial snack to eat at the start of the ride, or even at the halfway point.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;On the last ride, my guts felt gross in the second half from eating the [high-calories == crap] food, so I might need to experiment with this a bit more.&lt;/p&gt;
+&lt;h3 id=&#34;stay-tuned&#34;&gt;Stay tuned&lt;/h3&gt;
+&lt;p&gt;The last ride clocked in around 135km and lasted about seven hours, I think? So planning to tack on another hour, which hopefully won&amp;rsquo;t destroy me.&lt;/p&gt;
+&lt;p&gt;If anyone want to loan me a drone and wants to come out for a small section to get some aerial shots, that&amp;rsquo;d be awesome. No pay!&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll keep you posted as we move towards R-day.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Writing your first Sveltekit app</title>
+      <link>https://sadspiders.ca/writing-your-first-sveltekit-app/</link>
+      <pubDate>Sat, 02 Jul 2022 16:42:14 -0400</pubDate>
+      
+      <guid>https://sadspiders.ca/writing-your-first-sveltekit-app/</guid>
+      <description>&lt;h3 id=&#34;preamble-aka-tldr-1-of-2&#34;&gt;Preamble (aka tl;dr 1 of 2)&lt;/h3&gt;
+&lt;p&gt;My goal of the moment is to get some sort of gig as a web developer so I can work remotely and get more and more into libertarianism until nobody wants to hang out with me anymore.&lt;/p&gt;
+&lt;p&gt;One of the requirements, according to the internet, is to create a lot of bullshit, copy-paste style content that thousands of other people have written but better.&lt;/p&gt;
+&lt;p&gt;So here goes.&lt;/p&gt;
+&lt;h3 id=&#34;get-a-modem-and-a-geocities-account&#34;&gt;Get a modem and a Geocities account&lt;/h3&gt;
+&lt;p&gt;My adventure begins somewhere around 1995, when the internet sort of sucked and no one really knew what it&amp;rsquo;s deal was. We got a computer that had an icon that said &amp;ldquo;Internet&amp;rdquo; and that was great. I was able to use my couple-of-dozen kilobauds per second of transfer speed to get myself a Geocities account. &lt;a href=&#34;http://web.archive.org/web/20010512060621/http://www.geocities.com/SunsetStrip/Towers/2226/&#34;&gt;Archive link&lt;/a&gt;. It sucks multiple types of shit and tries to download a Blink 182 MIDI file when you view it. It had a guestbook. A sad, sad guestbook.&lt;/p&gt;
+&lt;p&gt;I was interested in creating website stuff, but had no gdf clue how. So I applied to the &amp;ldquo;New Media&amp;rdquo; program at a semi-local university and failed to gain acceptance.&lt;/p&gt;
+&lt;h3 id=&#34;say-fuck-it&#34;&gt;Say &amp;ldquo;fuck it&amp;rdquo;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;When life hands you lemons, do something else.&lt;/p&gt;
+&lt;p&gt;&amp;ndash;Glarg Barbidov&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;At this point, become a bike messenger in a major metropolitan area for a while. It might be the best job you ever have. Working outside, not paying taxes on your income, life is good.&lt;/p&gt;
+&lt;h3 id=&#34;see-the-world&#34;&gt;See the world&lt;/h3&gt;
+&lt;p&gt;Head to Austrlia for a year. Pick mangoes. Surf. Buy a camper van whoms engine seizes the next day leaving you out $1500 that you really can&amp;rsquo;t afford. Bartend in a ghost town.&lt;/p&gt;
+&lt;h3 id=&#34;create-content&#34;&gt;Create content&lt;/h3&gt;
+&lt;p&gt;For a while there were the blogs called &amp;ldquo;E/N&amp;rdquo; blogs, or everything/nothing. You know, like this one. No clear objective, just some idiot pouring their brain into a keyboard for kicks and for a few laughs with their friends. We didn&amp;rsquo;t lol in those days. I still don&amp;rsquo;t. I made one where I created each blog post in it&amp;rsquo;s own HTML file, dilligently copying and pasting from the previous HTML file, and then adding the new blog to my list of blogs.&lt;/p&gt;
+&lt;p&gt;In retrospect it makes me so angry that I did things this way. There had to have been some sort of easier way, even at this point, no? Even if I had a &lt;code&gt;/cgi-bin/&lt;/code&gt; directory? Remember those? When computer graphics started appearing in movies and people said the &lt;code&gt;cgi&lt;/code&gt; of a movie was good/bad I just thought &amp;ldquo;common gateway interface.&amp;rdquo; I do a lot of things weird, I think. I feel like this is almost as bad as &amp;ldquo;hold me closer, Tony Danza.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Oh hey, almost forgot, there&amp;rsquo;s an archived version &lt;a href=&#34;http://web.archive.org/web/20040130215445/http://unfun.robotskull.com/&#34;&gt;Unfun&lt;/a&gt; as well!&lt;/p&gt;
+&lt;p&gt;Remember when your website had a button?&lt;/p&gt;
+&lt;p&gt;This was mine &amp;ndash;&amp;gt; &lt;img src=&#34;./bouton.gif&#34; alt=&#34;Button to visit Unfun, my old website. The text reads  &amp;ldquo;more meow, more wang, more blog, more wacky stunts. Unfun - ultra-sexy&#34;&gt; Yes, there&amp;rsquo;s a hand-drawn weiner.&lt;/p&gt;
+&lt;h3 id=&#34;get-educated&#34;&gt;Get educated&lt;/h3&gt;
+&lt;p&gt;A four-year degree in Environmental Chemistry with pretty much nothing to do with webdev is what you think will be a good use of your time. Oh hey but on the plus side I was elected Editor-in-Chief of a campus publication and got to lead people and design a product, along with promotional pins! Everyone loves pins! Well, they did in 2007 and they still should. &amp;lt;/ oldManMode &amp;gt;&lt;/p&gt;
+&lt;p&gt;Feel inspired that you are actually good at something. Good at &lt;em&gt;science&lt;/em&gt;. You will change the world someday!&lt;/p&gt;
+&lt;h3 id=&#34;get-more-educated&#34;&gt;Get more educated&lt;/h3&gt;
+&lt;p&gt;And make sure you go to the opposite side of the country to do so. Can&amp;rsquo;t really complain too hard about this one, got to sail on a &lt;a href=&#34;https://archives.whoi.edu/beaufortgyre/www.whoi.edu/page.do@pid=66558.html&#34;&gt;Coast Guard icebreaker&lt;/a&gt; (&lt;a href=&#34;https://archives.whoi.edu/beaufortgyre/www.whoi.edu/page.do@pid=66518.html&#34;&gt;twice!&lt;/a&gt;), snowboard lots, caught crabs (on a beach, not the yuck kind) (no judgment) and did a decent amount of snowboarding and downhill mountain biking. Create a pretty crummy website for your research group that never really gets used.&lt;/p&gt;
+&lt;p&gt;Along the way you can learn a bit of javascript but not so much to be really useful with anything.&lt;/p&gt;
+&lt;p&gt;Feel a bit crushed that your love of science actually doesn&amp;rsquo;t mean jack shit because there are 350 million other people intent on changing the world and you&amp;rsquo;re just kinda.. ..in there somewhere, not really excelling at anything. The path of least resistance has become a forest of lots of resistance.&lt;/p&gt;
+&lt;h3 id=&#34;find-a-job-doing-something-meh&#34;&gt;Find a job doing something meh&lt;/h3&gt;
+&lt;p&gt;Work in a lab! Be part of a union! This isn&amp;rsquo;t so much changing the world as.. ..being a part of the world.&lt;/p&gt;
+&lt;p&gt;You can read all the news you want, and get angry about it! But all you really do is vote every 2 years or so (provincial and federali elections) and that&amp;rsquo;s about it, bub.&lt;/p&gt;
+&lt;p&gt;Also what the shit, how have twenty years passed since that Geocities nonsense?&lt;/p&gt;
+&lt;p&gt;You know what, screw it. The world effing sucks (in some ways) and it&amp;rsquo;s not my problem anymore. I&amp;rsquo;ve been riding to school/work for most of my life, I hang-dry my clothes, I use Amazon infrequently. I just want to get a job doing something I don&amp;rsquo;t hate and spend the rest of my time biking and laying on the floor with dogs.&lt;/p&gt;
+&lt;p&gt;*googles how to do code writing*&lt;/p&gt;
+&lt;p&gt;*reads &lt;a href=&#34;https://automatetheboringstuff.com&#34;&gt;automate the boring stuff&lt;/a&gt;*&lt;/p&gt;
+&lt;p&gt;Used &lt;a href=&#34;https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world&#34;&gt;Miguel Grinberg&amp;rsquo;s Flask Megatutorial&lt;/a&gt; to learn enough Python/Flask create a mountain bike trail status crowdsourcing website called Radriders. It never gains any traction. Boo.&lt;/p&gt;
+&lt;h3 id=&#34;interlude&#34;&gt;Interlude&lt;/h3&gt;
+&lt;p&gt;Yeah, then this whole global pandemic thing happened. WORK FROM HOME?! I work in a lab and didn&amp;rsquo;t really get much of a break during the pandemic.&lt;/p&gt;
+&lt;p&gt;In fact, my experience was much, much worse.&lt;/p&gt;
+&lt;p&gt;I had some sort of mental breakdown/burnout and I was honestly worried that I had broken my brain and I would never be able to absorb as much complexity as an episode of Friends has to offer. It was bad. Thank the good lord for youtube videos of train rides in the rain. &lt;a href=&#34;https://www.youtube.com/watch?v=bQd9aHWXF6U&#34;&gt;Seriously&lt;/a&gt;. I&amp;rsquo;ve watched that train video like 30 times. That&amp;rsquo;s exactly the level of complexity my brain was capable of handling.&lt;/p&gt;
+&lt;p&gt;Despite my recent claims to the contrary, we got a few sparse days of working from home. I had learned a bit of javascript along the way, so I decided to tackle the course from the University of Helsinki entitled &lt;a href=&#34;https://fullstackopen.com/en/&#34;&gt;Deep Dive Into Modern Web Development&lt;/a&gt;. It taught me React+Redux, Express, MongoDB and a bit of Typescript.&lt;/p&gt;
+&lt;h3 id=&#34;opportunity&#34;&gt;Opportunity!&lt;/h3&gt;
+&lt;p&gt;My work hired some other person to create a website that has apparently been in the works for eons. Well, maybe only one eon, I don&amp;rsquo;t want to be dramatic. He quit because some bank was going to pay him mad skrilla to do something for them. I feel sorry for the bank because I get hired on for the role and his code is.. ..uh.. ..fine. The directive from the powers-that-be is that this project needs to be done &amp;ldquo;like yesterday.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;I convince my boss that we&amp;rsquo;re better off scrapping his codebase using Django Rest Framework and React and just going with straight-up Django. I figure this will eliminate any of the complexity involved with passing info between two different frameworks and I am super-right. The site launches months later and is so-far well-received.&lt;/p&gt;
+&lt;p&gt;During this time also developed another app using Django to allow another group of clients to display &lt;a href=&#34;https://iapd.lsd.uoguelph.ca&#34;&gt;Animal Disease Dashboards&lt;/a&gt; for veterinarians and researches in the area. Simple but effective.&lt;/p&gt;
+&lt;h3 id=&#34;python-sucks&#34;&gt;Python sucks&lt;/h3&gt;
+&lt;p&gt;I rescind that third-level header, python doesn&amp;rsquo;t sucks. Python&amp;rsquo;s really great for somethings, but I&amp;rsquo;ve already been effed in the ay by expecting an integer and being given a string, and when comparing 40 and &amp;ldquo;40&amp;rdquo; having the application say &amp;ldquo;no these are obviously not the same *flips over and dies*&amp;rdquo; and it&amp;rsquo;s not ideal. I decide I want type-safety. Also everyone on the internet talks trash about React and I&amp;rsquo;ve heard good things about &lt;a href=&#34;https://svelte.dev&#34;&gt;Svelte&lt;/a&gt; and the internet seems to be mildly infatuated with it so let&amp;rsquo;s have a look! Hey, I like it!&lt;/p&gt;
+&lt;p&gt;They have this other weird thing called &amp;ldquo;Sapper&amp;rdquo; and I don&amp;rsquo;t really know what it is so I just monkey around with Svelte a bit.&lt;/p&gt;
+&lt;h3 id=&#34;enter-sveltekit&#34;&gt;Enter Sveltekit&lt;/h3&gt;
+&lt;p&gt;Sapper grew up and became &lt;a href=&#34;https://kit.svelte.dev&#34;&gt;SvelteKit&lt;/a&gt; and all of a sudden this framework is the real deal. It&amp;rsquo;s like if React got ran over with a Roomba and now everything is just easier and nicer and better and it takes a lot less time to do what I want. I&amp;rsquo;m a pretty hardened nerd by this point, so I do my best to learn from the official documentation and then quickly consult youtube (hey, twice in one post!) for some tutorials because I get lost quickly. And whoa, it&amp;rsquo;s really great. And easy. ish. Nothing easy is worth doing. *resists tempation to make crass joke, but still needs you to know he knows it&amp;rsquo;s there*&lt;/p&gt;
+&lt;h3 id=&#34;creating-the-website&#34;&gt;Creating the website&lt;/h3&gt;
+&lt;p&gt;My idea was to create a microtweeting website, which I have &lt;a href=&#34;../blurt-have-i-become&#34;&gt;mentioned before&lt;/a&gt;. So then once you have installed Sveltekit and learned how to use it, just program the functionality you need. Easy! Also if you want it to be type-safe, write it in Typescript! If you get stuck there are literally a billion tutorials out there, probably actually an underestimate.&lt;/p&gt;
+&lt;p&gt;I used &lt;a href=&#34;https://prisma.io&#34;&gt;Prisma&lt;/a&gt; for an object-relational model (ORM) and it was awesome, use Prisma! (yo Prisma, send me some stickers or something!)&lt;/p&gt;
+&lt;h3 id=&#34;hire-me&#34;&gt;Hire Me!&lt;/h3&gt;
+&lt;p&gt;If anyone wants to offer me any sort of remote job using Sveltekit and pay me a decent salary I will jump on it. I am great to work with, learn quick and good, also good at &lt;a href=&#34;../the-windiest-135km-bike-ride/&#34;&gt;riding bikes&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Here&amp;rsquo;s some shit I can computer do:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;HTML&lt;/li&gt;
+&lt;li&gt;CSS (incl. SASS, tailwind)&lt;/li&gt;
+&lt;li&gt;Javascript (but not Java)&lt;/li&gt;
+&lt;li&gt;React, Redux, Sveltekit&lt;/li&gt;
+&lt;li&gt;Python/Django/Flask&lt;/li&gt;
+&lt;li&gt;Video Editing&lt;/li&gt;
+&lt;li&gt;Set up an nginx server&lt;/li&gt;
+&lt;li&gt;Svelte and Sveltekit&lt;/li&gt;
+&lt;li&gt;Typescript&lt;/li&gt;
+&lt;li&gt;Write a mean SQL query&lt;/li&gt;
+&lt;li&gt;Design/normalize relational databases&lt;/li&gt;
+&lt;li&gt;Markdown!&lt;/li&gt;
+&lt;li&gt;Unit tests&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;postamble-aka-tldr-2-of-2&#34;&gt;Postamble (aka tl;dr 2 of 2)&lt;/h3&gt;
+&lt;p&gt;I wouldn&amp;rsquo;t normally include a postamble but here we are.&lt;/p&gt;
+&lt;p&gt;So the trick is to work on various things that aren&amp;rsquo;t web development, then spend a few years learning javascript and python and eventually Typescript. Once you learn React you will be excited to learn any other web development framework that isn&amp;rsquo;t React. At this point, learn Sveltekit and create your application!&lt;/p&gt;
+&lt;p&gt;Make sure to host it on the Raspberry Pi in your basement or the hardcore nerds won&amp;rsquo;t respect you.&lt;/p&gt;
+&lt;p&gt;Thanks for reading make sure to smash that like button and then go grab a beer, you&amp;rsquo;ve earned it!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blurt Have I Become?</title>
+      <link>https://sadspiders.ca/blurt-have-i-become/</link>
+      <pubDate>Thu, 31 Mar 2022 23:13:00 +0000</pubDate>
+      
+      <guid>https://sadspiders.ca/blurt-have-i-become/</guid>
+      <description>&lt;h3 id=&#34;a-blurt-eat-blurt-world&#34;&gt;A blurt-eat-blurt world&lt;/h3&gt;
+&lt;p&gt;Everything truly great starts as a joke. Religion, capitalism, the movie Idiocracy. But then it rallies some support and just look where that&amp;rsquo;s gotten us.&lt;/p&gt;
+&lt;p&gt;My current highest-grossing side-project is called &lt;a href=&#34;https://letsblurt.duckdns.org&#34;&gt;Blurt&lt;/a&gt; (tied with all the others at $0). During a video by a youtube guy &lt;a href=&#34;https://www.youtube.com/watch?v=NYj3DnI81AQ&#34;&gt;Tom Scott&lt;/a&gt;, was going through some of his own historic predictions of what now would look like. He thought that blogging was going to remain big, which didn&amp;rsquo;t happen and was somewhat usurped by social media and &lt;em&gt;tweets&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Being a little bit &lt;em&gt;on the spectrum&lt;/em&gt; (probably), my brain continued the obvious trend: the future of tweets is bleak, and people will desire to communicate with even harsher character limits.&lt;/p&gt;
+&lt;h3 id=&#34;enter-blurt&#34;&gt;Enter Blurt&lt;/h3&gt;
+&lt;p&gt;My idea for project was to create the &lt;strong&gt;world&amp;rsquo;s first micro-tweeting platform called Blurt&lt;/strong&gt; (stylized &lt;strong&gt;BLURT&lt;/strong&gt; because onomatopoeia). You can write whatever you want, so long as it consists of 14 characters or less. But greater than 0 characters. It may not be the first, I didn&amp;rsquo;t do any market research in case I am wrong and can&amp;rsquo;t say that.&lt;/p&gt;
+&lt;p&gt;It already exists and it is great. In case you haven&amp;rsquo;t tried it yet, &lt;a href=&#34;https://letsblurt.duckdns.org&#34;&gt;here is a link to Blurt&lt;/a&gt;. I&amp;rsquo;m also proud of the fact that I didn&amp;rsquo;t feel like dealing with login and user authentication and shit like that so I just didn&amp;rsquo;t bother with it. That&amp;rsquo;s right, you can impersonate others or log in as like twelve different users simultaneously. Or the same user twelve times. At this point I&amp;rsquo;m lucky no bots have discovered it, but also maybe bots are excited they haven&amp;rsquo;t discovered it because how much spam can you spam into 14 characters?&lt;/p&gt;
+&lt;h3 id=&#34;the-crowning-achievement&#34;&gt;The crowning achievement&lt;/h3&gt;
+&lt;p&gt;Everyone on blurt has that stupid &amp;ldquo;verified&amp;rdquo; checkmark after their name because we are an open and inclusive mess.&lt;/p&gt;
+&lt;h3 id=&#34;and-yet&#34;&gt;And yet..&lt;/h3&gt;
+&lt;p&gt;There are a few other features I want to add to blurt. I want to add infinite scroll, so that when you&amp;rsquo;re about to get to the end of the blurts, another batch load up. I want to have a &amp;ldquo;currently online&amp;rdquo; count, and be able to break that down into &amp;ldquo;socs&amp;rdquo; (pronounced like soashes, short for socials) and &amp;ldquo;jerks&amp;rdquo; where soashes are the cool people who post (go read &lt;a href=&#34;https://en.wikipedia.org/wiki/The_Outsiders_(novel)&#34;&gt;The Outsiders&lt;/a&gt; or it won&amp;rsquo;t make sense and that&amp;rsquo;s on you) and jerks just lurk and don&amp;rsquo;t add to the cacaphony. You can&amp;rsquo;t spell cacaphony without caca unless you spell it correctly!&lt;/p&gt;
+&lt;p&gt;Also I need to make it more friendly to desktop users, since I made it originally with mobile in mind but I feel like it would be a fun thing to have up in a window behind all the work stuff I&amp;rsquo;m pretending to do.&lt;/p&gt;
+&lt;p&gt;So if I&amp;rsquo;m going to do all this shit anyway, it turns out I&amp;rsquo;ll probably just start building it from the ground up again. Which isn&amp;rsquo;t nearly as daunting a task as I&amp;rsquo;m pretending it is since in its current state, Blurt literally took me two days to throw together, and also I wrote a bunch of other code for my daytime job during those two days.&lt;/p&gt;
+&lt;h3 id=&#34;quels-seront-les-changements&#34;&gt;Quels seront les changements?&lt;/h3&gt;
+&lt;p&gt;The site was originally an excuse to try to make something using an emerging web technology called &lt;a href=&#34;https://kit.svelte.dev/&#34;&gt;SvelteKit&lt;/a&gt;. I enjoyed monkeying with SvelteKit, but quickly learned that it was massively overpowered for my use-case. It&amp;rsquo;s more for making a full-fledged website, whereas Blurt could easily be accomplished using what us big nerds call a SPA, or a single-page application. It will seem like you are at the login page and then on the chatting page, but really they are the same page and the code just makes it look like there is a new URL, even though in reality you&amp;rsquo;re still on the same page but like, with a different background. Weird, eh? You probably use this type of stuff all the time without realizing it.&lt;/p&gt;
+&lt;p&gt;So SvelteKit is going to get put on the backburner, and will be supplanted with a FRONT-END which the user interacts with, and a BACK-END which is where the database lives and where all the big decisions are made (aka the business logic).&lt;/p&gt;
+&lt;h4 id=&#34;front-end-stuff&#34;&gt;Front-End Stuff&lt;/h4&gt;
+&lt;p&gt;The front end stuff will be written in &lt;a href=&#34;https://svelte.dev/&#34;&gt;Svelte&lt;/a&gt; which is similar to SvelteKit but better for dealing with purely user-interface stuff. Anything the user deals with is user interface. So yay, you&amp;rsquo;ll get to see the end result of something written in Svelte! Also to make the page pretty I like to use a project called &lt;a href=&#34;https://tailwindcss.com/&#34;&gt;TailwindCSS&lt;/a&gt; because I don&amp;rsquo;t like using an extra file to tell the browser how to make everything look, which I&amp;rsquo;ve always begrudgingly accepted. But now everyone else has also decided we hate doing that so now we can stop!&lt;/p&gt;
+&lt;h4 id=&#34;back-end-stuff&#34;&gt;Back-End Stuff&lt;/h4&gt;
+&lt;p&gt;Feel free to skip this part, but I am more excited about this than the front-end stuff. I&amp;rsquo;m trying to write for a general-audience instead of just dweeby code-nerds, so hopefully it makes some sense and may even offer you a window into wtf happens behind the curtain on websites.&lt;/p&gt;
+&lt;p&gt;Right now when Blurt loads the page containing blurts, it loads 250 of them. Then two seconds later, it checks again and downloads them again if they haven&amp;rsquo;t changed. If there has been a change, such as a new Blurt, it.. ..just downloads them again. Every two seconds. Forever. The browser makes a &lt;em&gt;request&lt;/em&gt; to my server, and the server sends the &lt;em&gt;response&lt;/em&gt; to the request. It&amp;rsquo;s a process called polling and it works fine for this purpose but it isn&amp;rsquo;t very elegant and I don&amp;rsquo;t love it.&lt;/p&gt;
+&lt;p&gt;I want to make use of a technology called websockets. Intead of the request/response cycle, the browser and server make a connection and the connection is maintained between them. That way, instead of the constant request-response cycle, the server can just send a new blurt whenever someone else posts one! This wasn&amp;rsquo;t possible the way SvelteKit works, so I need to create a new server that will happily do websockets stuff.&lt;/p&gt;
+&lt;p&gt;To write the new server, I will use a language called TypeScript. Most people have heard of Javascript, and it works great in a lot of cases. But there is a concept in computers called &amp;ldquo;typing&amp;rdquo;. &lt;em&gt;types some words&lt;/em&gt;. No but for real. Here&amp;rsquo;s the basic idea: the letter &amp;ldquo;c&amp;rdquo; is a character. That&amp;rsquo;s a type. The word &amp;ldquo;cat&amp;rdquo; is a string [of characters]. Strings are types too. There are lots of others and users will usually need to create custom types. In javascript I might write some code that sends a string somewhere else. But what if that code is only expecting a character and a string causes it to break? I&amp;rsquo;m boned! TypeScript is designed to make it so that can&amp;rsquo;t happen. If you write the code that sends a string to somewhere that is expecting a character, TypeScript will give you a stern look and a shaking head while pointing out the error of your ways. It&amp;rsquo;s like a safety net for people like me (and everyone else) who write sort-of pretty shitty code.&lt;/p&gt;
+&lt;h3 id=&#34;the-nutshell&#34;&gt;The nutshell&lt;/h3&gt;
+&lt;p&gt;In broad strokes, that&amp;rsquo;s it. Well, not totally. My database is almost as basic as possible, a little guy called sqlite (pronounced like &amp;ldquo;sequel-light&amp;rdquo;). It gets the job done for the like five users a day I get. To talk between the code and the database I have a little helper called &lt;a href=&#34;https://prisma.io&#34;&gt;prisma&lt;/a&gt; which I actually like more than I should for some reason.&lt;/p&gt;
+&lt;p&gt;When will this happen? I don&amp;rsquo;t entirely know. In my defense, I can&amp;rsquo;t really remember how to program a server like this, I haven&amp;rsquo;t really done it in a year or so. But luckily there&amp;rsquo;s a million youtube videos to steer me in the right direction. And I&amp;rsquo;ve never used TypeScript in a project before. I figure that to land a job, having a bit of experience with it will be looked at with a sly, knowing grin. Having said that, there&amp;rsquo;s no time like the present, so let&amp;rsquo;s say I start tomorrow night and try to have something together by the end of April? That&amp;rsquo;s a month. If the weather is good I might not do much, but I&amp;rsquo;ll try to put in some honest effort. mmmmkay?&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Use a feed reader for better internetting</title>
+      <link>https://sadspiders.ca/use-a-feed-reader-for-better-internetting/</link>
+      <pubDate>Wed, 23 Mar 2022 20:06:40 -0400</pubDate>
+      
+      <guid>https://sadspiders.ca/use-a-feed-reader-for-better-internetting/</guid>
+      <description>&lt;h3 id=&#34;that-orange-wifi-y-icon&#34;&gt;That orange wifi-y icon&lt;/h3&gt;
+&lt;p&gt;Have you noticed RSS feeds out in the wilds of the internet? You know, this thing: &lt;img src=&#34;super-rss.png&#34; alt=&#34;rss icon&#34;&gt;. You&amp;rsquo;ve probably seen it everywhere. If you didn&amp;rsquo;t before, there&amp;rsquo;s a good chance you will now.&lt;/p&gt;
+&lt;p&gt;It turns out that this isn&amp;rsquo;t just something for nerds to click on. You&amp;rsquo;d be forgiven for thinking that, because if you ever click on the link to view the &lt;a href=&#34;https://sadspiders.ca/index.xml&#34;&gt;actual RSS feed&lt;/a&gt;, you will indeed be confronted with a wall of technical mumbo-jumbo. But the thing is, that link isn&amp;rsquo;t actually meant for people to look at. It&amp;rsquo;s the site&amp;rsquo;s recent history (like latest articles or whatever) in &lt;em&gt;machine-readable form&lt;/em&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;youre-losing-me&#34;&gt;You&amp;rsquo;re losing me&lt;/h3&gt;
+&lt;p&gt;Jeez, are our attention spans really that bad?&lt;/p&gt;
+&lt;p&gt;What you can use these feeds for is to create a &lt;strong&gt;curated list of feeds&lt;/strong&gt; that will provide updates from all of your favourite sites &lt;strong&gt;all in one place&lt;/strong&gt;. I shit you not.&lt;/p&gt;
+&lt;p&gt;What you need to do is get yourself a feed-reader. As you might expect, there are a number of them available for free or with some sort of payment for more features. The most popular out there is &lt;a href=&#34;https://feedly.com/&#34;&gt;feedly&lt;/a&gt; but I have grown attached to &lt;a href=&#34;https://www.inoreader.com/&#34;&gt;Inoreader&lt;/a&gt; for reasons I can no longer remember. Probably simpler and with a prettier UI (user interface), for which I am a sucker. Both of those are available on whatever app store you use.&lt;/p&gt;
+&lt;h3 id=&#34;sounds-hard&#34;&gt;Sounds hard&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;It is not&lt;/strong&gt;. Seriously. There is a bit of set-up involved, but at least Inoreader has a search where you can type in the name of your favourite site and it will find the RSS link and allow you to add it to your own feed. So now instead of having to go to site X and then site Y and then site R and then back to see if site X has anything new, &lt;em&gt;this shit will all be delivered right to you as soon as it is available&lt;/em&gt;.  It&amp;rsquo;s &lt;em&gt;efficient&lt;/em&gt;. So now you can get that sort of thing out of the way and spend more time spacing out watching your TikTalks or TedToks or I don&amp;rsquo;t know, does anyone use Snapchat anymore? Wasn&amp;rsquo;t that huge like, a year ago?&lt;/p&gt;
+&lt;h3 id=&#34;whats-in-it-for-sad-spiders&#34;&gt;What&amp;rsquo;s in it for sad spiders?&lt;/h3&gt;
+&lt;p&gt;Twofold.&lt;/p&gt;
+&lt;p&gt;One, it allows my articles to get shoved into your face. We&amp;rsquo;ll be honest and say that you&amp;rsquo;re not likely to visit this site daily looking for new content because we all know it won&amp;rsquo;t be there. With RSS feeds, little guys like myself are able to be seen side-by-side with the big players out there with very little effort. Especially when using the website builder that I use, which pretty much automates the whole process for you.&lt;/p&gt;
+&lt;p&gt;Two, the feeds will often show you the meat and potato(e)s of a story/article without you needing to wade through all the extra crap they like to scatter about. (Related: use an adblocker! If you really like a site, &lt;em&gt;subscribe&lt;/em&gt; or &lt;em&gt;donate&lt;/em&gt; to them, it&amp;rsquo;s way better than an ad-based economy). And by cutting out some algorithms that try to tell you what you will like and just seeing everything chronologically, you re-gain a bit of control over how content is presented to you. Power to the people, rah rah. If the story isn&amp;rsquo;t showing up properly for some reason, you just tap on the page and you&amp;rsquo;re whisked off to the actual site.&lt;/p&gt;
+&lt;p&gt;So now you know and you can&amp;rsquo;t un-know. Give it a try. If you hates it, nothing lost. If you loves it, hey, maybe I have one more dedicated reader? And I think the articles should get more funner now that some of the technical stuff is out of the road.&lt;/p&gt;
+&lt;p&gt;[End Communication]&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Initial Commit</title>
+      <link>https://sadspiders.ca/initial-commit/</link>
+      <pubDate>Mon, 14 Mar 2022 20:47:16 -0400</pubDate>
+      
+      <guid>https://sadspiders.ca/initial-commit/</guid>
+      <description>&lt;h3 id=&#34;hey-world-look-at-me&#34;&gt;Hey world, look at me!&lt;/h3&gt;
+&lt;p&gt;I seem to start a lot of coding projects and fail to finish them. Myself and quite the army, I would imagine.&lt;/p&gt;
+&lt;p&gt;When you&amp;rsquo;re first learning to use version control software, you generally save the first version like so:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#ebdbb2;background-color:#282828;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;$ git commit -m &lt;span style=&#34;color:#b8bb26&#34;&gt;&amp;#34;initial commit&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;which means you&amp;rsquo;re shoving all of your code into the world and now there&amp;rsquo;s one more project out there that you&amp;rsquo;re never going to finish.&lt;/p&gt;
+&lt;p&gt;As a &lt;em&gt;thinking man&amp;rsquo;s&lt;/em&gt; &lt;strong&gt;thinking man&lt;/strong&gt;, I like to make sure I solve my problems as efficiently as possible. My current project is already finished. Yes, simply by pushing out my initial commit, having it build successfully into the form you are currently reading,&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;I DID IT&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;sad spiders is done. This is it. This is all it&amp;rsquo;s ever going to be, until the end of time or until nuclear war or alien attack or rapture, amen. And don&amp;rsquo;t fool yourselves, when the good lord decides to Rapture this place, I&amp;rsquo;m going to be among the chosen. But simply by starting a &lt;a href=&#34;https://gohugo.io&#34;&gt;hugo&lt;/a&gt; project, configuring a nice, simple theme (thanks &lt;a href=&#34;https://github.com/janraasch/&#34;&gt;janraasch&lt;/a&gt; for the sweet theme!) and writing a single, stupid blog post, I am crossing this bastard off my list. It&amp;rsquo;s done.&lt;/p&gt;
+&lt;h3 id=&#34;dont-be-mean&#34;&gt;Don&amp;rsquo;t be mean&lt;/h3&gt;
+&lt;p&gt;&amp;ldquo;Good, your writing is dogshit&amp;rdquo; I hear you saying from within my own thoughts. Well, you can&amp;rsquo;t get any better at doing something without practice, right? &lt;em&gt;NO YOU CAN&amp;rsquo;T&lt;/em&gt; except exceptions like watching television or laying down. And what better way to write than to have a platform with very low consequences? I wanted somewhere where I could just &lt;em&gt;write&lt;/em&gt; and it can be meaningless and &lt;del&gt;stupid&lt;/del&gt; fun but sometimes my brain just needs this outlet.&lt;/p&gt;
+&lt;p&gt;Alright, let&amp;rsquo;s call it good there. Honestly having just a blank page in front of you is the worst. More gobbledygook coming soon.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
