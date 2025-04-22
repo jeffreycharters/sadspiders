@@ -65,3 +65,7 @@ copyright = "This work is licensed under a Creative Commons Attribution-ShareAli
 
 [markup.highlight]
 style = "gruvbox"
+
+# canonifyImageURLs with next two lines
+[markup.goldmark.renderHooks.image]
+enableDefault = true
