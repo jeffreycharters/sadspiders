@@ -11,5 +11,5 @@ draft: false
 
 Here's a few things I work on when I have the motivation.
 
-- [Blurt](https://letsblurt.duckdns.org): a popular microtweeting platform.
+- [Blurt](https://blurt.sadspiders.ca): a popular microtweeting platform.
 - Radriders (offline): a very *un*sexy bike blog.

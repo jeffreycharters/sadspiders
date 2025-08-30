@@ -9,7 +9,7 @@ title = "Blurt Have I Become?"
 
 Everything truly great starts as a joke. Religion, capitalism, the movie Idiocracy. But then it rallies some support and just look where that's gotten us.
 
-My current highest-grossing side-project is called [Blurt](https://letsblurt.duckdns.org) (tied with all the others at $0). During a video by a youtube guy [Tom Scott](https://www.youtube.com/watch?v=NYj3DnI81AQ), was going through some of his own historic predictions of what now would look like. He thought that blogging was going to remain big, which didn't happen and was somewhat usurped by social media and *tweets*.
+My current highest-grossing side-project is called [Blurt](https://blurt.sadspiders.ca) (tied with all the others at $0). During a video by a youtube guy [Tom Scott](https://www.youtube.com/watch?v=NYj3DnI81AQ), was going through some of his own historic predictions of what now would look like. He thought that blogging was going to remain big, which didn't happen and was somewhat usurped by social media and *tweets*.
 
 Being a little bit *on the spectrum* (probably), my brain continued the obvious trend: the future of tweets is bleak, and people will desire to communicate with even harsher character limits.
 
@@ -17,7 +17,7 @@ Being a little bit *on the spectrum* (probably), my brain continued the obvious 
 
 My idea for project was to create the **world's first micro-tweeting platform called Blurt** (stylized **BLURT** because onomatopoeia). You can write whatever you want, so long as it consists of 14 characters or less. But greater than 0 characters. It may not be the first, I didn't do any market research in case I am wrong and can't say that.
 
-It already exists and it is great. In case you haven't tried it yet, [here is a link to Blurt](https://letsblurt.duckdns.org). I'm also proud of the fact that I didn't feel like dealing with login and user authentication and shit like that so I just didn't bother with it. That's right, you can impersonate others or log in as like twelve different users simultaneously. Or the same user twelve times. At this point I'm lucky no bots have discovered it, but also maybe bots are excited they haven't discovered it because how much spam can you spam into 14 characters?
+It already exists and it is great. In case you haven't tried it yet, [here is a link to Blurt](https://blurt.sadspiders.ca). I'm also proud of the fact that I didn't feel like dealing with login and user authentication and shit like that so I just didn't bother with it. That's right, you can impersonate others or log in as like twelve different users simultaneously. Or the same user twelve times. At this point I'm lucky no bots have discovered it, but also maybe bots are excited they haven't discovered it because how much spam can you spam into 14 characters?
 
 ### The crowning achievement
 

@@ -20,11 +20,10 @@ I'm using `gosk` for the project files, Go + SvelteKit. Short and sweet and I'll
 Alright so fire up a new project directory and initiate a new Go module:
 ```bash
 mkdir gosk && cd gosk
-mkdir public
 go mod init example.com/gosk
 ```
 
-Hey look at us we've got it going on. This will create a couple of files in the new directory. The public code is where the built Sveltekit application will reside.
+Hey look at us we've got it going on. This will create a couple of files in the new directory.
 
 Let's install all the Go libraries we need for this little project:
 ```bash 
@@ -44,14 +43,14 @@ import (
    	"github.com/labstack/echo/v4/middleware"
 )
 
-//go:embed public/*
+//go:embed frontend/build/*
 var webAssets embed.FS
 
 func main() {
     app := echo.New()
 
 	app.Use(middleware.StaticWithConfig(middleware.StaticConfig{
-		Root:       "public",
+		Root:       "frontend/build",
 		Filesystem: http.FS(webAssets),
 	}))
 	
@@ -63,9 +62,9 @@ func main() {
 }
 ```
 
-Simple! This will start an Echo server at port 3320, will serve any routes it can find normally and anything else will get sent into the public directory for Sveltekit to deal with. By using the `//go:embed` directive, we can bundle the Sveltekit app into the Go executable when we compile it. This means that we only need to worry about a single file rather than having to make sure that our `public` folder is available at runtime. Go is great sometimes.
+Simple! This will start an Echo server at port 3320, will serve any routes it can find normally and anything else will get sent into the `frontend/build` directory for Sveltekit to deal with. By using the `//go:embed` directive, we can bundle the Sveltekit app into the Go executable when we compile it. This means that we only need to worry about a single file rather than having to make sure that our `frontend/build` folder is available at runtime which makes the whole thing very portable. Go is great sometimes.
 
-If you're in an IDE you'll be getting an error about the embed code not having any matching files, so we can't run it yet. 
+If you're in an IDE you'll be getting an error about the embed code not having any matching files, so we can't run it yet. Sveltekit will take care of this for us.
 
 
 ## Sveltekit Frontend
@@ -87,18 +86,7 @@ Now we need to make a few tweaks to the Sveltekit configuration to allow us to s
 
 ## Configuration tweaks for Sveltekit
 
-Open up the existing `gosk/frontend/svelte.config.js` file and updates the `adapter` property with the following:
-```javascript
-...
-adepter: adapter({
-    pages: "../public",
-    assets: "../public",
-})
-...
-```
-This tells the compiler to put all of these build files into the `public` folder that we created in the root directory of the project.
-
-Next, create a new file `gosk/frontend/src/routes/+layout.ts` and add the following lines:
+Create a new file `gosk/frontend/src/routes/+layout.ts` and add the following lines:
 ```typescript
 export const prerender = true;
 export const trailingSlash = 'always';
@@ -109,7 +97,7 @@ Now we can build the project to the `build` folder by using the command `npm bui
 
 ## Final product
 
-Navigate back to the project root `gosk` directory. The warning that was there initially should be gone now since there should be files in the `public` directory. If it is finicky just delete the `*` in the embed line and re-add it and the warning should clear. If it doesn't, check in the `public` directory to make sure there are files and if not, troubleshoot.
+Navigate back to the project root `gosk` directory. The warning that was there initially should be gone now since there should be files in the `frontend/build` directory. If it is finicky just delete the `*` in the embed line and re-add it and the warning should clear. If it doesn't, check in the `frontend/build` directory to make sure there are files and if not, troubleshoot.
 
 Run the Go application using:
 ```bash

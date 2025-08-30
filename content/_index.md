@@ -4,4 +4,4 @@ That's what we're doing here. Just some profanity-laced opinions about lanterns.
 
 However I also really want to create a friends link up along the top there. So if you have some time and want to hack out some blog posts at some point, get in touch and I'll help you get set up. 🥺 please, for me?
 
-Alright enough horse crap for right now. Go read some of my blogs please, then go [blurt](https://letsblurt.duckdns.org).
+Alright enough horse crap for right now. Go read some of my blogs please, then go [blurt](https://blurt.sadspiders.ca).

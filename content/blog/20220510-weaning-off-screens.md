@@ -14,7 +14,7 @@ tags = ["coding","miscellany",]
 
 I came across a post on [Hacker News](https://news.ycombinator.com) about [feeling uncomfortable leaving your phone at home](https://vaidik.bearblog.dev/feeling-uncomfortable-when-leaving-phone-at-home-shouldnt-be-normal/). There are good reasons to bring a cell phone with you when going about daily life, such as emergencies and not getting bored while using the lavatory. But that doesn't necessarily mean you ever need to *use* it, or even ever have it breathe fresh air.
 
-I was sitting at the kitchen table yesterday evening when a [Blurt](https://letsblurt.duckdns.org) popped into my head and demanded to be written down. It said this:
+I was sitting at the kitchen table yesterday evening when a [Blurt](https://blurt.sadspiders.ca) popped into my head and demanded to be written down. It said this:
 
 > My phone is my life.
 
