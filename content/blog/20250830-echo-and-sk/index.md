@@ -1,5 +1,6 @@
 +++
 title = "Go Echo + Sveltekit is a dream team"
+slug = "go-echo-sveltekit"
 date = "2025-08-30T10:41:12-04:00"
 description = "Using two nice pieces of technology to make some bullshit."
 tags = ["education","zestiness","coding"]
