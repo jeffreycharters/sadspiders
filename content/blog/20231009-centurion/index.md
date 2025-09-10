@@ -1,14 +1,15 @@
-+++
-title = "Ride Review: My first century"
-date = "2023-10-10T19:56:26-04:00"
+---
+title: "Ride Review: My first century"
+date: "2023-10-10T19:56:26-04:00"
+slug: "my-first-century"
 
 #
 # description is optional
 #
-description = "I rode my bike for basically an entire day."
+description: "I rode my bike for basically an entire day."
 
-tags = ["bikes", "zestiness"]
-+++
+tags: ["bikes", "zestiness"]
+---
 
 It's October! I'd been planning to ride 161km at some point this year and time was winding down, so this past Saturday was it. So I chucked some shit in my bike bags, chucked some albums onto a playlist and woke up early the Saturday of \[Canadian\] Thanksgiving weekend to see if I could do it.
 

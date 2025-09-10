@@ -11,5 +11,7 @@ draft: false
 
 Here's a few things I work on when I have the motivation.
 
+- [LabVantage Prettifier](https://github.com/jeffreycharters/LabvantageUX): Make LabVantage less bad
 - [Blurt](https://blurt.sadspiders.ca): a popular microtweeting platform.
-- Radriders (offline): a very *un*sexy bike blog.
+- Some work-specific shit you can't see.
+- ~~Radriders (offline): a very *un*sexy bike blog.~~
