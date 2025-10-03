@@ -20,7 +20,7 @@ This season is coming to a close and I am pondering entering a cyclocross (cx) r
 
 Have been enjoying writing code in Go lately. I code mostly for fun, occasionally to make something at work easier. Automate the boring stuff.
 
-Currently reading Norman Mailer's *The Naked and the Dead*. It's alright, I don't entirely love it but it offers a bit of a view into the minds of soldiers during WWII.
+Just started reading *The Bean Trees* by Barbara Kingsolver. So far so good, seems to have a blend of humour and wisdom that I enjoy based on about 6 pages. I remember we were reading this book in Grade 12 English class and I just kinda quit reading it. My younger self was a tool sometimes, but at least he left me with an impressive collection of Simpsons quotes.
 
 Been listening to a lot of Post-rock lately, as usual. Artists like Parker and Ephilexia. While on the trainer, still lots of Rise Against and Much the Same - upbeat melodic punk. Ugh, punk. Seems so aged now.
 
