@@ -79,7 +79,7 @@ Andrew and I continue to take turns all the way to the finish line. Because he k
 ![sprint](./sprint.png)
 > This is more in jest than a real sprint. Taken from a video so not top quality.
 
-And that, children, is how I ended up in 73rdth place out of like 154 races in the 2026 100 Acre Gravel 100 km race. It wasn't a total sufferfest - I was tired and it took some tenacity, but it's not like I maxed myself out for the last 25 km and crossed the finish line on the verge of unconsciousness. I'm happy with my performance. I finished, I finished strong and didn't leave a lot out on the course. Average 28.9 km/h in a time of 3h31m. Next year I'll be faster.
+And that, children, is how I ended up in 73rdth place out of like 154 racers in the 2026 100 Acre Gravel 100 km race. It wasn't a total sufferfest - I was tired and it took some tenacity, but it's not like I maxed myself out for the last 25 km and crossed the finish line on the verge of unconsciousness. I'm happy with my performance. I finished, I finished strong and didn't leave a lot out on the course. Average 28.9 km/h in a time of 3h31m. Next year I'll be faster.
 
 I begin to look forward to the next week's Screaming Squirrel 70 km race - should be a peach and cake!
 
