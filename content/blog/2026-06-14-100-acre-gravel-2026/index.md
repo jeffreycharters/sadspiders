@@ -83,6 +83,9 @@ And that, children, is how I ended up in 73rdth place out of like 154 racers in 
 
 I begin to look forward to the next week's Screaming Squirrel 70 km race - should be a peach and cake!
 
+![leg](./jeff_leg.jpeg)
+> I wear knee covers to keep from getting burnt. They work.
+
 ## Some coincidence
 
 After the race I was studying the results sheet. I knew that a friend's sister did the race as well so I looked up her time. When I did so, her team name caught my eye - isn't that the same jersey that Andrew was wearing? I go back to the mean's results - Andrew was indeed on the same team.
